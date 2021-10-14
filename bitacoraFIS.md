@@ -1,0 +1,41 @@
+
+# **Bitacora Proyecto FIS**
+
+### Reunión 1 - Integración
+*Fecha: Martes, 21 de Septiembre del 2021.*
+* Tema que se trató: La idea de esta reunión fue conocernos entre los integrantes del equipo y platicar de cómo nos tenemos que comprometer para tener éxito en el proyecto.
+
+
+### Reunión 2 - Lluvia de ideas
+*Fecha: Lunes, 27 de Septiembre del 2021.*
+* Tema que se trató: En esta reunión comenzamos a pláticar para ponernos de acuerdo para que cada uno por su parte investigara ideas de proyecto atractivas para proponer.
+
+
+### Reunión 3 - Propuestas / Elección del Proyecto
+*Fecha: Jueves, 30 de Septiembre del 2021.*
+* Tema que se trató: Para esta reunión, cada uno de nosotros llegó con una propuesta que nos había llamado la atención y el punto era tratar de convencer al resto del equipo de porque ese proyecto era el mejor, al final hicimos una votación y elegimos la skill de Alexa.
+
+
+### Reunión 4 - Repaso de lista de cotejo e indicaciones entrega 1.
+*Fecha: Domingo, 3 de Octubre del 2021.*
+* Tema que se trató: Empezamos repasando la lista de cotejo de todo el proyecto para tener claro que debemos de hacer, posterior a eso nos asignamos tareas para comenzar la primera entrega.
+
+
+### Reunión 5 - Preparación para la videollamada con el mentor, aclaraciones entrega 1. 
+*Fecha: Miércoles, 6 de Octubre del 2021.*
+* Tema que se trató: Nos pusimos a revisar los avances de la entrega número uno y aclaramos las dudas del equipo y platicamos los últimos detalles que queríamos aterrizar con nuestro mentor José Luis.
+
+
+### Reunión 6 - Primer contacto con el mentor, recibir retroalimentación del proyecto.
+*Fecha: Miércoles, 6 de Octubre del 2021.*
+* Tema que se trató: Conocimos a nuestro mentor José Luis y le introducimos nuestra idea de proyecto, platicamos acerca de los alcances y limitantes del mismo, también descargamos todos el app “monday” para llevar un seguimiento del progreso para las actividades.
+
+
+### Reunión 7 - Historias de usuario, Requerimientos y Markdown.
+*Fecha: Martes, 12 de Octubre del 2021.*
+* Tema que se trató: En esta reunión el equipo discutió acerca de las historias de usuario y los métodos de prioridad. De igual manera empezamos a familiarizarnos con Markdown para empezar a añadir la información del proyecto en el repositorio de github.
+
+
+### Reunion 8 - Elaboración del markdown 
+*Fecha: Jueves, 14 de Octubre del 2021.*
+* Tema que se trató: En esta reunion formamos diferentes branches para cada integrante del equipo para llevar un panel de control en el repositorio, empezamos la elaboración de los markdowns y concluimos los requerimientos.
