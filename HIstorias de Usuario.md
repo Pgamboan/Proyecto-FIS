@@ -1,6 +1,6 @@
 # Historias de usuario
 
-* Como usuario de Alexa, quiero ser capaz de encender mi computadora desde el baño para poder aprovechar más mi tiempo. 2
+* Como usuario de Alexa, quiero ser capaz de encender mi computadora desde el baño para poder aprovechar más mi tiempo.
 
 * Como usuario de Alexa, quiero poder automatizar el encendido de mi computadora para ser más eficiente.
 
