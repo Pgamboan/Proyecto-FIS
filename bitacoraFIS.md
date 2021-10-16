@@ -3,7 +3,7 @@
 
 ### Reunión 1 - Integración
 *Fecha: Martes, 21 de Septiembre del 2021.*
-* Tema que se trató: La idea de esta reunión fue conocernos entre los integrantes del equipo y platicar de cómo nos tenemos que comprometer para tener éxito en el proyecto.
+* Descripción: La idea de esta reunión fue conocernos entre los integrantes del equipo y platicar de cómo nos tenemos que comprometer para tener éxito en el proyecto.
 
 
 ### Reunión 2 - Lluvia de ideas
