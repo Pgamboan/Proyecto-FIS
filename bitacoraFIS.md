@@ -1,41 +1,47 @@
 
 # **Bitacora Proyecto FIS**
 
-### ReuniÛn 1 - IntegraciÛn
+### Reuni√≥n 1 - Integraci√≥n
 *Fecha: Martes, 21 de Septiembre del 2021.*
-* Tema que se tratÛ: La idea de esta reuniÛn fue conocernos entre los integrantes del equipo y platicar de cÛmo nos tenemos que comprometer para tener Èxito en el proyecto.
+* Tema que se trat√≥: La idea de esta reuni√≥n fue conocernos entre los integrantes del equipo y platicar de c√≥mo nos tenemos que comprometer para tener √©xito en el proyecto.
 
 
-### ReuniÛn 2 - Lluvia de ideas
+### Reuni√≥n 2 - Lluvia de ideas
 *Fecha: Lunes, 27 de Septiembre del 2021.*
-* Tema que se tratÛ: En esta reuniÛn comenzamos a pl·ticar para ponernos de acuerdo para que cada uno por su parte investigara ideas de proyecto atractivas para proponer.
+* Descripci√≥n: En esta reuni√≥n comenzamos a pl√°ticar para ponernos de acuerdo para que cada uno por su parte investigara ideas de proyecto atractivas para proponer.
 
 
-### ReuniÛn 3 - Propuestas / ElecciÛn del Proyecto
+### Reuni√≥n 3 - Propuestas / Elecci√≥n del Proyecto
 *Fecha: Jueves, 30 de Septiembre del 2021.*
-* Tema que se tratÛ: Para esta reuniÛn, cada uno de nosotros llegÛ con una propuesta que nos habÌa llamado la atenciÛn y el punto era tratar de convencer al resto del equipo de porque ese proyecto era el mejor, al final hicimos una votaciÛn y elegimos la skill de Alexa.
+* Descripci√≥n: Para esta reuni√≥n, cada uno de nosotros lleg√≥ con una propuesta que nos hab√≠a llamado la atenci√≥n y el punto era tratar de convencer al resto del equipo de porque ese proyecto era el mejor, al final hicimos una votaci√≥n y elegimos la skill de Alexa.
 
 
-### ReuniÛn 4 - Repaso de lista de cotejo e indicaciones entrega 1.
+### Reuni√≥n 4 - Repaso de lista de cotejo e indicaciones entrega 1.
 *Fecha: Domingo, 3 de Octubre del 2021.*
-* Tema que se tratÛ: Empezamos repasando la lista de cotejo de todo el proyecto para tener claro que debemos de hacer, posterior a eso nos asignamos tareas para comenzar la primera entrega.
+* Descripci√≥n: Empezamos repasando la lista de cotejo de todo el proyecto para tener claro que debemos de hacer, posterior a eso nos asignamos tareas para comenzar la primera entrega.
 
 
-### ReuniÛn 5 - PreparaciÛn para la videollamada con el mentor, aclaraciones entrega 1. 
-*Fecha: MiÈrcoles, 6 de Octubre del 2021.*
-* Tema que se tratÛ: Nos pusimos a revisar los avances de la entrega n˙mero uno y aclaramos las dudas del equipo y platicamos los ˙ltimos detalles que querÌamos aterrizar con nuestro mentor JosÈ Luis.
+### Reuni√≥n 5 - Preparaci√≥n para la videollamada con el mentor, aclaraciones entrega 1. 
+*Fecha: Mi√©rcoles, 6 de Octubre del 2021.*
+* Descripci√≥n: Nos pusimos a revisar los avances de la entrega n√∫mero uno y aclaramos las dudas del equipo y platicamos los √∫ltimos detalles que quer√≠amos aterrizar con nuestro mentor Jos√© Luis.
 
 
-### ReuniÛn 6 - Primer contacto con el mentor, recibir retroalimentaciÛn del proyecto.
-*Fecha: MiÈrcoles, 6 de Octubre del 2021.*
-* Tema que se tratÛ: Conocimos a nuestro mentor JosÈ Luis y le introducimos nuestra idea de proyecto, platicamos acerca de los alcances y limitantes del mismo, tambiÈn descargamos todos el app ìmondayî para llevar un seguimiento del progreso para las actividades.
+### Reuni√≥n 6 - Primer contacto con el mentor, recibir retroalimentaci√≥n del proyecto.
+*Fecha: Mi√©rcoles, 6 de Octubre del 2021.*
+* Descripci√≥n: Conocimos a nuestro mentor Jos√© Luis y le introducimos nuestra idea de proyecto, platicamos acerca de los alcances y limitantes del mismo, tambi√©n descargamos todos el app ‚Äúmonday‚Äù para llevar un seguimiento del progreso para las actividades.
 
 
-### ReuniÛn 7 - Historias de usuario, Requerimientos y Markdown.
+### Reuni√≥n 7 - Historias de usuario, Requerimientos y Markdown.
 *Fecha: Martes, 12 de Octubre del 2021.*
-* Tema que se tratÛ: En esta reuniÛn el equipo discutiÛ acerca de las historias de usuario y los mÈtodos de prioridad. De igual manera empezamos a familiarizarnos con Markdown para empezar a aÒadir la informaciÛn del proyecto en el repositorio de github.
+* Descripci√≥n: En esta reuni√≥n el equipo discuti√≥ acerca de las historias de usuario y los m√©todos de prioridad. De igual manera empezamos a familiarizarnos con Markdown para empezar a a√±adir la informaci√≥n del proyecto en el repositorio de github.
 
 
-### Reunion 8 - ElaboraciÛn del markdown 
+### Reuni√≥n 8 - Elaboraci√≥n de branches para aportaciones individuales en Markdown. 
 *Fecha: Jueves, 14 de Octubre del 2021.*
-* Tema que se tratÛ: En esta reunion formamos diferentes branches para cada integrante del equipo para llevar un panel de control en el repositorio, empezamos la elaboraciÛn de los markdowns y concluimos los requerimientos.
+* Descripci√≥n: En esta reunion formamos diferentes branches para cada integrante del equipo para llevar un panel de control en el repositorio, empezamos la elaboraci√≥n de los avances en markdown y concluimos el diagrama de casos de uso.
+
+
+### Reuni√≥n 9 - Validaci√≥n de requerimientos del proyecto.
+*Fecha: S√°bado, 16 de Octubre del 2021.*
+* Descripci√≥n: En conjunto revisamos el documento de especifaciones de los requerimientos y comenzamos a unir las diferentes partes del proyecto en la branch de main del repositorio para preparar la primera entrega.
+
