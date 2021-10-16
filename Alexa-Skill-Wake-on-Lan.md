@@ -4,11 +4,11 @@
 ---
 Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo WoL (Wake on LAN) para realizar el encendido y apagado remoto, de computadoras compatibles o televisores , de manera automática usando la voz. 
 
-### ALCANCE DEL PROYECTO
+#### **ALCANCE DEL PROYECTO**
 
-Mundial, en defecto, personas que cuenten con el asistente Alexa.
+* Mundial, o en su defecto, personas que cuenten con dispositivos Alexa Echo.
 
-### LIMITACIONES DEL PROYECTO
+#### **LIMITACIONES DEL PROYECTO**
 
 * Conocimiento escaso de desarrollo
 * Tiempo limitado
