@@ -1,5 +1,5 @@
 # METRICAS DE CONTRIBUCIÓN INDIVIDUAL
-### FUNDAMENTOS DE INGNIERIA DE SOFTWARE
+### FUNDAMENTOS DE INGENIERIA DE SOFTWARE
 
 
 | 1                                                               | 2                                                                        | 3                                                                     | 4                                                                | 5                                                                                 |
