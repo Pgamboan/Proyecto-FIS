@@ -1,4 +1,4 @@
-# Lista de requerimientos no funcionales.
+## Lista de requerimientos no funcionales.
 
 * (RNF001): Al inicializarse la skill dará la bienvenida al usuario por medio de un mensaje predeterminado.
 * (RNF002): A manera de “pop up” la skill emitirá un mensaje en el cual se avisará al usuario que solo podrá controlar dispositivos con una tarjeta de red compatible con el protocolo WoL. 
