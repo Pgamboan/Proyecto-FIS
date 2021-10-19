@@ -6,7 +6,7 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 
 #### **ALCANCE**
 
-* Mundial
+* Global
 
 #### **LIMITACIONES**
 
