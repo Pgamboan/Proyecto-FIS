@@ -1,12 +1,13 @@
-# MoSCoW 
+# **MoSCoW** 
 
-## Must have:
+## **Must have:**
+---
+* La Skill podrá encender y apagar de manera remota los dispositivos compatibles con el protocolo WoL.
+## **Should have:**
+---
 
+## **Could have:**
+---
 
-## should have:
-
-
-## could have:
-
-
-## won't have but would like to in the future:
+## **Won't have but would like to in the future:**
+---
