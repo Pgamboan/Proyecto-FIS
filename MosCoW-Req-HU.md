@@ -32,5 +32,5 @@
 * Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia.
 ## **Won't have but would like to in the future:**
 ---
-* Como usuario de Alexa, quiero poder realizar preguntas que me ayudan a resolver mis dudas.
+* Como usuario de Alexa, quiero poder realizar preguntas dentro del área de comentarios de la skill que me ayuden a resolver mis dudas.
 * Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
