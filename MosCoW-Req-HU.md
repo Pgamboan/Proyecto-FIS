@@ -1,18 +1,30 @@
 # **MoSCoW Requerimientos - Historias de usuario** 
 
-## **REQUIRIMIENTOS:**
+## **REQUERIMIENTOS:**
 
 ## **Must have:**
 ---
-* La Skill podrá encender y apagar de manera remota los dispositivos compatibles con el protocolo WoL.
+* La skill podrá controlar el menu de opciones de encendido y apagado de los dispositivos compatibles con el protocolo WoL a través de el asistente Alexa.
+* Solo los desarrolladores tienen acceso a la base de datos/plataforma.
+* El usuario podrá controlar la skill desde cualquier dispositivo con Alexa.
+* El usuario podrá especificar el tipo de acción a realizar: inicio, apagado, suspensión, reinicio e hibernar.
+
 ## **Should have:**
 ---
+* Se contará con un tutorial para mostrarle a lo usuarios como inicializar la alexa skill dentro de sus dispositivos.
+* Se usará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de su base de datos.
 
 ## **Could have:**
 ---
+* El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes.
+* El tutorial se abrirá autómaticamente cuando el usuario indique las direcciones correspondientes dentro de la base de datos del bot.
+* Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos.
+* La plataforma Azure notificará a los desarolladores de algún error con la aplicación.
 
 ## **Won't have but would like to in the future:**
 ---
+* A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
+
 
 ## **HISTORIAS DE USUARIO:**
 
