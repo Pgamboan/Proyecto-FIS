@@ -18,9 +18,8 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 ### **USUARIOS**
 ---
 
-Según las estadísticas de los altavoces inteligentes, Amazon Echo tuvo 40,6 millones de usuarios en 2020, más que Google Home y otros usuarios de altavoces inteligentes juntos.Instalar un Amazon Echo en tu casa significa que tendrás que utilizar la aplicación Alexa. Los usuarios de iPhone en el Reino Unido descargaron la aplicación más de 91.000 veces solo en febrero de 2020. Algunos de los principales aspectos del uso de Alexa son su disponibilidad, sus prácticas funciones y el uso de datos. 
-
-* Debido a su creciente popularidad, muchos usuarios de altavoces inteligentes se han interesado en probar Amazon Echo. Los altavoces inteligentes son más populares entre las generaciones más jóvenes.
+Determinamos que los usuarios de nuestra skill son todos aquellas personas que tengan un dispositivo Amazon Alexa o la aplicación de Alexa y por consiguiente tengan acceso a la tienda de skills. Según las estadísticas de los altavoces inteligentes, Amazon Echo tuvo 40,6 millones de usuarios en 2020, más que Google Home y otros usuarios de altavoces inteligentes juntos. Instalar un Amazon Echo en tu casa significa que tendrás que utilizar la aplicación Alexa. Los usuarios de iPhone en el Reino Unido descargaron la aplicación más de 91.000 veces solo en febrero de 2020. Algunos de los principales aspectos del uso de Alexa son su disponibilidad, sus prácticas funciones y el uso de datos. 
+*Crecimiento estimado de usuarios potenciales*
 * Según estadísticas de Amazon Alexa 2020, se vendieron 53,6 millones de altavoces Amazon Echo en el mismo año. Se espera que el número aumente a 65 millones en 2021.
 
 ### **CLIENTES**
