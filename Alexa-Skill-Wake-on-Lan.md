@@ -6,14 +6,14 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 
 #### **ALCANCE DEL PROYECTO**
 
-* Mundial, o en su defecto, personas que cuenten con dispositivos Alexa Echo.
+* Mundial
 
 #### **LIMITACIONES DEL PROYECTO**
 
-* Conocimiento escaso de desarrollo
-* Tiempo limitado
-* La posibilidad de que los dispositivos no sean compatibles con el protocolo Wol
-* Los dispostivos necesitan estar conectados a ethernet
+* La posibilidad de que los dispositivos no sean compatibles con el protocolo WoL.
+* Incapacidad de uso fuera de la Alexa Skill.
+* Su uso únicamente en idioma español.
+
 
 ### **USUARIOS**
 ---
