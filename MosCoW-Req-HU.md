@@ -32,7 +32,7 @@
 ---
 * Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
 * Como usuario de Alexa, quiero ser capaz de encender mi computadora desde otro sitio para poder aprovechar más mi tiempo.
-*
+
 ## **Should have:**
 ---
 * Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
