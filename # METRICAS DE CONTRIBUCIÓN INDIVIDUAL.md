@@ -36,7 +36,7 @@
 |Objetivo, limitaciones y alcance|                 |                 |        X         |                 |                 |
 |Sintaxis de Markdown|                 |                 |                 |                 |         X         |
 |Diagrama de casos de uso|                 |                 |                 |        X         |                 |
-|Priorizar historias de usuario|                 |                 |                 |         X        |                 |
+|Priorizar historias de usuario|                 |                 |                 |                |        X        |
 
 #### JOSE-CHI QUINTAL
 
