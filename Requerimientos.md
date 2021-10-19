@@ -7,6 +7,7 @@
 * RF002: Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos.
 * (RNF): La plataforma Azure le notificará a los desarolladores de algún error con la aplicación.
 * (RNF): Solo los desarrolladores tienen acceso a la base de datos/plataforma.
+* (RNF): El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con alexa.
 
 * RF003: Se usará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de su base de datos.
 * (RNF): El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes. 
