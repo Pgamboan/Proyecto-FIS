@@ -14,7 +14,7 @@
 ## **Won't have but would like to in the future:**
 ---
 
-## **HISTORIAS DE USUARIO **
+## **HISTORIAS DE USUARIO**
 
 ## **Must have:**
 ---
