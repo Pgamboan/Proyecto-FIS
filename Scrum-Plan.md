@@ -1,1 +1,1 @@
-#etodología usada:
+# Metodología usada:
