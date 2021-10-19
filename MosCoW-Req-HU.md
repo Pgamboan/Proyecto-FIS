@@ -1,4 +1,4 @@
-# **MoSCoW Requerimientos - Historias de ususario** 
+# **MoSCoW Requerimientos - Historias de usuario** 
 
 ## **REQUIRIMIENTOS:**
 
