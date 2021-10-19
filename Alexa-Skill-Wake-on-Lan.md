@@ -12,7 +12,7 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 
 * La posibilidad de que los dispositivos no sean compatibles con el protocolo WoL.
 * Incapacidad de uso fuera de la Alexa Skill.
-* Tontenidos en español (tutoriales, plataforma web/bot).
+* Contenidos en español (tutoriales, plataforma web/bot).
 
 
 ### **USUARIOS**
