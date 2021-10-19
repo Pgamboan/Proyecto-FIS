@@ -53,7 +53,7 @@
 
 ### Reunión 11 - Metodo de priorización de los requerimientos. 
 *Fecha: Martes, 19 de Octubre del 2021. (07:30 a.m.) *
-* Descripción: Una vez que 
+* Descripción: En esta reunión, acabamos de modificar los requerimientos, terminamos de priorizar los requerimientos con el método MoSCoW y se hizo la asignación de tareas dentro de la plataforma Monday.
 
 ### Reunión 12 - ???
 *Fecha: Martes, 19 de Octubre del 2021.(18:00 p.m.)*
