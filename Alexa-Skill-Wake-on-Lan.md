@@ -25,7 +25,7 @@ Según las estadísticas de los altavoces inteligentes, Amazon Echo tuvo 40,6 mi
 
 ### **CLIENTES**
 ---
-Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Así que decidimos que se que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
+Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Por lo cual decidimos que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
 
 ### **INNOVACIÓN/CREATIVIDAD**
 ---
