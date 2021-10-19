@@ -31,5 +31,6 @@
 * Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil.
 * Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia.
 ## **Won't have but would like to in the future:**
+---
 * Como usuario de Alexa, quiero poder realizar preguntas que me ayudan a resolver mis dudas.
 * Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
