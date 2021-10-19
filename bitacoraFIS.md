@@ -45,3 +45,16 @@
 *Fecha: Sábado, 16 de Octubre del 2021.*
 * Descripción: En conjunto revisamos el documento de especifaciones de los requerimientos y comenzamos a unir las diferentes partes del proyecto en la branch de main del repositorio para preparar la primera entrega.
 
+
+### Reunión 10 - Rediseño de los requerimientos y método de MoSCoW.
+*Fecha: Lunes, 18 de Octubre del 2021.*
+* Descripción: Durante esta reunión nos ocupamos de modificar los ultimos detalles de la lista de especificación de requerimientos, nos vimos en la necesidad de remover varios requerimientos que no iban del todo acorde a nuestra idea. Utilizamos el metodo de moscow para priorizar las historias de usuario. 
+
+
+### Reunión 11 - Metodo de priorización de los requerimientos. 
+*Fecha: Martes, 19 de Octubre del 2021. (07:30 a.m.) *
+* Descripción: Una vez que 
+
+### Reunión 12 - ???
+*Fecha: Martes, 19 de Octubre del 2021.(18:00 p.m.)*
+* Descripción: 
