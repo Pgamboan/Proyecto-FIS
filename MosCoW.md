@@ -1,12 +1,12 @@
-### MoSCoW 
+# MoSCoW 
 
-##Must have:
-
-
-##should have:
+## Must have:
 
 
-##could have:
+## should have:
 
 
-##won't have but would like to in the future:
+## could have:
+
+
+## won't have but would like to in the future:
