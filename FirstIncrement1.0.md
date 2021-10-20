@@ -31,7 +31,7 @@ We determined that the users of our skill are all those people who have an Amazo
 
 #### ** CUSTOMERS**
 
-Como tal nosotros no tenemos un cliente especÌfico porque detr·s del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Por lo cual decidimos que b·sicamente nuestros futuros usuarios ser·n considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
+Como tal nosotros no tenemos un cliente espec√≠fico porque detr√°s del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Por lo cual decidimos que b√°sicamente nuestros futuros usuarios ser√°n considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
 
 
 #### ** INNOVATION/CREATIVITY**
@@ -199,11 +199,11 @@ Product Owner:
 SCRUM masters:
 
 
-* Diego Francisco Arreola Hern·ndez.
+* Diego Francisco Arreola Hern√°ndez.
 
 
 
-* JosÈ De Jes˙s Chi Quintal.
+* Jos√© De Jes√∫s Chi Quintal.
 
 
 SCRUM team:
@@ -215,5 +215,5 @@ SCRUM team:
 * Diego Alamilla Osorio.
 
 
-~~An adaptation to the roles assigned by the SCRUM methodology was established, since the role of Product Owner was added to the creation of the Github repository. In the case of SCRUMS masters: facilitating calls and helping to assign tasks to each team member and, failing that, updating the Monday tool in an active way (in less than 3 days).
+~~An adaptation to the roles assigned by the SCRUM methodology was established, since the role of Product Owner was added to the creation of the Github repository. In the case of SCRUMS masters: facilitating calls and helping to assign tasks to each team member and, failing that, updating the Monday tool in an active way (in less than 3 days).~~
 
