@@ -6,15 +6,21 @@ Antes de la fase de planificación se realizó una llamada en donde cada integra
 Durante la fase de planeación, se generó una fecha de entrega aproximada (20 de octubre) para la entrega del proyecto, así pues, se generarón roles que llevarían al proyecto a un desarollo óptimo:
 
 Product Owner:
+
+
 -José De Jesús Chi Quintal.
 
 
 Scrum Masters:
+
+
 -Pablo Gamboa Nieto.
 -Diego Francisco Arreola Hernández.
 
 
 Scrum Team:
+
+
 -Abraham ()
 -Diego Alamilla.
 
