@@ -10,16 +10,16 @@ Métrica para medir la relevancia, según la actividad asignada:
 
 #### DIEGO ALAMILLA OSORIO
 
-|                                              | 1                                                               | 2                                                                        | 3                                                                     | 4                                                                | 5                                                                                 |
-|----------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| ACTIVIDADES                                  | Deficiente                                                      | Malo                                                                     | Regular                                                               | Bueno                                                            | Excelente                                                                         |
+|              | 1                | 2              | 3                   | 4                     | 5                    |
+|--------------|------------------|----------------|---------------------|-----------------------|----------------------|
+| ACTIVIDADES  | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
 |                                              | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
-| Presentación de ideas                        |                                                                 |                                                                          |                                                                       |                                                                  |                               x                                                    |
-| Innovación y Creatividad                     |                                                                 |                                                                          |                                                                       |                             x                                                                  |                                                                                   |
-| Tablas de contribución individual (Markdown) |                                                                 |                                                                          |                                                                       |                                                                  |x                                                                                   |
-| Priorizar historias de usuario               |                                                                 |                                                                          |                                                                       |                                                                  |                                                                                  x |
-| Control de calidad                           |                                                                 |                                                                          |                                                                       |       x                                                           |                                                                                   |
-| **Promedio ponderado de relevancia y desempeño:**                          |                                                                 |                                                                          |                                                                       |       x                                                           |                                                                                   |
+| Presentación de ideas      |                 |                |               |               |       x        |
+| Innovación y Creatividad   |                 |                |               |       x       |                |
+| Tablas de contribución individual (Markdown) |                |               |               |                |     x         |
+| Priorizar historias de usuario |             |                |               |               |        x       |
+| Control de calidad         |                 |                |               |       x       |                |
+| **Promedio ponderado de relevancia y desempeño:**   |         |               |               |                |               |
 
 #### PABLO GAMBOA NIETO
 
@@ -48,7 +48,7 @@ Métrica para medir la relevancia, según la actividad asignada:
 |Sintaxis de Markdown|                 |                 |                 |                 |         X         |
 |Diagrama de casos de uso|                 |                 |                 |        X         |                 |
 |Priorizar historias de usuario|                 |                 |                 |                |        X        |
-| **Promedio ponderado de relevancia y desempeño:**  |               |               |             |       x          |            |
+| **Promedio ponderado de relevancia y desempeño:**  |               |               |             |               |            |
 
 #### JOSE-CHI QUINTAL
 
