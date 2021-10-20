@@ -19,10 +19,10 @@ Métrica para determinar la relevancia, según la actividad:
 | Tablas de contribución individual (Markdown) |  5  |          |         |          |          |      x     |
 | Priorizar historias de usuario               |  5  |          |         |          |          |      x     |
 | Control de calidad                           |  5  |          |         |          |     x    |            |
-| Redacción de Historias de Usuario                          |  5  |          |         |       x   |         |            |
-| Relacionar Historias de Usuario - Requerimientos                           |  5  |          |         |          |        |    x        |
+| Redacción de Historias de Usuario            |  5  |          |         |      x   |          |            |
+| Relacionar Historias de Usuario - Requerimientos  |  5  |          |         |          |        |    x        |
 | Armado del documento final                        |  5  |          |         |          |        |    x        |
-| **Promedio ponderado de relevancia y desempeño:**| ??? |      |         |          |          |            |
+| **Promedio ponderado de relevancia y desempeño:** | ??? |          |         |          |        |            |
 
 #### PABLO GAMBOA NIETO
 
@@ -35,8 +35,14 @@ Métrica para determinar la relevancia, según la actividad:
 | Redacción de clientes                  |  5  |        |          |    x    |          |          |
 | Elaboración del google forms           |  5  |        |          |         |          |    x     |
 | Registro y actualización de la bitácora|  5  |        |          |         |          |    x     |
-| Especificación de RNF                  |  5  |        |          |         |     x    |          |
-| Rediseño de requerimientos             |  5  |        |          |    x    |          |
+| Especificación de RNF                  |  5  |        |          |    x    |          |          |
+| Rediseño de requerimientos             |  5  |        |          |         |     x    |          |
+| Estructuración de las metricas de contribución individual  |  5  |         |          |    x     |          |          |
+| Redacción de artefactos                |  5  |        |          |         |     x    |          |
+| Traducción del repo a inglés           |  5  |        |          |         |          |    x     |
+| Elaboración del contribution tracker   |  5  |        |          |         |          |    x     |
+| Elaboración de la presentación primera entrega  |  5  |          |         |          |          |    x     |
+| Participación en el video/exposición   |  5  |        |          |         |          |    x     |
 | **Promedio ponderado de relevancia y desempeño:** |  ??? |                 |          |          |         |         |
 
 
