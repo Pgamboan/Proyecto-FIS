@@ -1,13 +1,14 @@
 
-# Artefactos utilizados por el equipo de desarrollo.
+### Artefactos utilizados por el equipo de desarrollo.
 ---
-### Salto de línea
 
-### **To do list**
+### **Lista de artefactos que se emplearon durante el desarrollo**
 ---
 ```
-* [x] Tarea 1
-* [ ] Tarea 2
+* [x] Formulario.
+* [x] Diagrama de casos de uso.
+* [x] Excepcinones de casos de uso.
+* [x] Lluvia de ideas.
 ```
 ### **Imágenes** *(Para un archivo local, se agrega a la carpeta del código)*
 ---
