@@ -15,8 +15,6 @@ Utilizamos el metodo MoSCoW para priorizar los requerimientos y las historias de
 
 Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion con el proyect owner para discutir en donde deberia ir cada una, basado en que tan factible es su implementacion. A continuacion se pueden apreciar los resultados de esa discusion:
 
-<br>
-
 #### **HISTORIAS DE USUARIO**
 Las historias de usuario son una forma de buscar necesidades y preferencias que desean los usuarios y/o clientes a los que va dirigido nuestro proyecto, formulamos muchas de las que tenemos mediante reseñas de una skill parecida y testimonios de usuarios interesados. Decidimos hacerlas al igual que los requerimientos ya que es igual importante el feedback de la gente para un proyecto con constante mantenimiento.
 
@@ -25,8 +23,8 @@ Las historias de usuario son una forma de buscar necesidades y preferencias que 
 * HU003: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos. **(S)**
 * HU004: Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.  **(S)**
 * HU005: Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén complados a mi rutina y pueda aprovechar mi tiempo al máximo. **(C)**
-* HU006: Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil.**(C)**
-* HU007: Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia.**(C)**
+* HU006: Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil. **(C)**
+* HU007: Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia. **(C)**
 * HU008: Como usuario de Alexa, quiero poder realizar preguntas dentro del área de comentarios de la skill que me ayuden a resolver mis dudas. **(W)**
 
 #### **ESPECIFICACIÓN DE REQUERIMIENTOS**
