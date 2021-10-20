@@ -2,7 +2,7 @@
 ### FUNDAMENTOS DE INGNIERIA DE SOFTWARE
 
 ---
-Métrica para medir la relevancia, según la actividad asignada:
+Métrica para determinar la relevancia, según la actividad:
 ---
 * 1 --> Importancia baja
 * 2 --> Importancia media
@@ -10,16 +10,16 @@ Métrica para medir la relevancia, según la actividad asignada:
 
 #### DIEGO ALAMILLA OSORIO
 
-|              | 1                | 2              | 3                   | 4                     | 5                    |
-|--------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|                                              | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
-| Presentación de ideas      |                 |                |               |               |       x        |
-| Innovación y Creatividad   |                 |                |               |       x       |                |
-| Tablas de contribución individual (Markdown) |                |               |               |                |     x         |
-| Priorizar historias de usuario |             |                |               |               |        x       |
-| Control de calidad         |                 |                |               |       x       |                |
-| **Promedio ponderado de relevancia y desempeño:**   |         |               |               |                |               |
+|              | **Determinar**   | 1                | 2              | 3                   | 4                     | 5                    |
+|--------------|------------------|------------------|----------------|---------------------|-----------------------|----------------------|
+| ACTIVIDADES  | **Relevancia**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
+|                                      | **Opciones disponibles: 1, 2 o 3**      | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+| Presentación de ideas      |       |             |            |               |               |       x        |
+| Innovación y Creatividad   |       |             |            |               |       x       |                |
+| Tablas de contribución individual (Markdown) |      |         |               |               |                |     x         |
+| Priorizar historias de usuario |     |       |                |               |               |        x       |
+| Control de calidad         |       |         |                |               |       x       |                |
+| **Promedio ponderado de relevancia y desempeño:**   |    |    |               |               |                |               |
 
 #### PABLO GAMBOA NIETO
 
