@@ -18,19 +18,17 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 ### **USUARIOS**
 ---
 
-Según las estadísticas de los altavoces inteligentes, Amazon Echo tuvo 40,6 millones de usuarios en 2020, más que Google Home y otros usuarios de altavoces inteligentes juntos.Instalar un Amazon Echo en tu casa significa que tendrás que utilizar la aplicación Alexa. Los usuarios de iPhone en el Reino Unido descargaron la aplicación más de 91.000 veces solo en febrero de 2020. Algunos de los principales aspectos del uso de Alexa son su disponibilidad, sus prácticas funciones y el uso de datos. 
+Determinamos que los usuarios de nuestra skill son todos aquellas personas que tengan un dispositivo Amazon Alexa o la aplicación de Alexa y por consiguiente tengan acceso a la tienda de skills. Según las estadísticas de los altavoces inteligentes, Amazon Echo tuvo 40,6 millones de usuarios en 2020, más que Google Home y otros usuarios de altavoces inteligentes juntos. Instalar un Amazon Echo en tu casa significa que tendrás que utilizar la aplicación Alexa. Algunos de los principales aspectos del uso de Alexa son su disponibilidad, sus prácticas funciones y el uso de datos. 
 
-* El 24% de los estadounidenses de entre 18 y 29 años tenía un Amazon Echo en 2018.
-* Debido a su creciente popularidad, muchos usuarios de altavoces inteligentes se han interesado en probar Amazon Echo. Los altavoces inteligentes son más populares entre las generaciones más jóvenes.
+*Crecimiento estimado de usuarios potenciales*
 * Según estadísticas de Amazon Alexa 2020, se vendieron 53,6 millones de altavoces Amazon Echo en el mismo año. Se espera que el número aumente a 65 millones en 2021.
-* La demografía de los usuarios de Amazon Echo comenzó a cambiar en 2017 cuando más mujeres comenzaron a comprarlo. Más concretamente, el 50% de los ingresos procedieron de consumidoras en diciembre de 2017.Además, los Gen Xers y Baby Boomers han representado el 31% de las compras de Echo desde 2015.
+
 
 ### **CLIENTES**
 ---
 
-* El 70% de los usuarios de altavoces inteligentes en USA utilizaron Echo en 2020.
-* Según las recientes estadísticas de Amazon Echo, alrededor de 100.000 dispositivos domésticos inteligentes son compatibles con Alexa.
-* Deben de contar con entrada ethernet para acceder a la tarjeta de red.
+Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Por lo cual decidimos que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
+
 
 ### **INNOVACIÓN/CREATIVIDAD**
 ---
