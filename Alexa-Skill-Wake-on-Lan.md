@@ -6,14 +6,13 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 
 #### **ALCANCE DEL PROYECTO**
 
-* Mundial, o en su defecto, personas que cuenten con dispositivos Alexa Echo.
+* Global, o en su defecto, personas que cuenten con dispositivos Alexa Echo.
 
 #### **LIMITACIONES DEL PROYECTO**
 
-* Conocimiento escaso de desarrollo
-* Tiempo limitado
-* La posibilidad de que los dispositivos no sean compatibles con el protocolo Wol
-* Los dispostivos necesitan estar conectados a ethernet
+* La posibilidad de que los dispositivos no sean compatibles con el protocolo WoL.
+* Incapacidad de uso fuera de la Alexa Skill.
+* Contenidos en español (tutoriales, plataforma web/bot).
 
 ### **USUARIOS**
 ---
@@ -126,6 +125,8 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 * La plataforma Azure notificará a los desarolladores de algún error con la aplicación.
 #### Won't have but would like to in the future:
 * A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
+
+
 ### HISTORIAS DE USUARIO:
 #### Must have:
 * Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
