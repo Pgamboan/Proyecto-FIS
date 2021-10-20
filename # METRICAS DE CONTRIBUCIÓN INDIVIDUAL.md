@@ -2,7 +2,7 @@
 ### FUNDAMENTOS DE INGNIERIA DE SOFTWARE
 
 ---
-Escala para medición de dificultad, según la actividad asignada:
+Métrica para medir la relevancia, según la actividad asignada:
 ---
 * 1 --> Importancia baja
 * 2 --> Importancia media
