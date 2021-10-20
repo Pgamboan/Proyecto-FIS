@@ -1,4 +1,6 @@
-# Metodología
+#Proceso del desaroll:
+
+## Metodología
 
 La metodología implementada para la realización del proyecto se basó en "SCRUM", la cual **se adaptó al proyecto** por ser conocida como una metodología ágil, esta se concentra en como los miembros del equipo deberÌan funcionar a fin de producir un sistema flexible en un entorno que cambia constantemente.
 
