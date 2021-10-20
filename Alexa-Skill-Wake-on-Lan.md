@@ -40,6 +40,7 @@ A parte de la anterior mencionada, no existe otra aplicación similar que aprove
 Buscamos agilizar el encendido y apagado de las computadoras y laptops, utilizando la función de wake on lan que tienen los dispositivos, siendo compatible con la mayoría de los sistemas operativos tantos actuales como más antiguos (Windows xp, vista , 7), mediante el asistente virtual Alexa podemos iniciar esta función con un simple comando de voz, desde cualquier lugar mediante nuestro dispositivo móvil optimizando tiempos de espera para poder iniciar a usar la computadora.
 
 ### **REQUERIMIENTOS Y/O HISTORIAS DE USUARIO**
+---
 
 #### **HISTORIAS DE USUARIO**
 
@@ -64,6 +65,7 @@ Las historias de usuario son una forma de buscar necesidades y preferencias que 
 * HU009: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
 
 #### **ESPECIFICACIÓN DE REQUERIMIENTOS**
+---
 
 Los requerimientos son un instrumento fundamental en el correcto desarrollo de un proyecto de software. Son de gran ayuda, tanto para el cliente como el equipo de desarrollo, para tener una visión concisa de que características se requiere que tenga el producto y como estas se relacionan con el usuario.
 
@@ -95,6 +97,7 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
 
 #### **MÉTODO DE PRIORIDAD**
+---
 
 Utilizamos el metodo MoSCoW para priorizar los requerimientos y las historias de usuario. Este metodo se integra muy bien a nuestro equipo y proyecto debido a la metodologia agil que utilizamos. La priorizacion que maneja MoSCoW se divide en 4 categorias:
 
@@ -108,7 +111,8 @@ Utilizamos el metodo MoSCoW para priorizar los requerimientos y las historias de
 
 Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion con el proyect owner para discutir en donde deberia ir cada una, basado en que tan factible es su implementacion. A continuacion se pueden apreciar los resultados de esa discusion:
 
-### REQUIRIMIENTOS:
+### **REQUIRIMIENTOS**:
+---
 #### Must have:
 * La skill podrá controlar el menu de opciones de encendido y apagado de los dispositivos compatibles con el protocolo WoL a través de el asistente Alexa.
 * Solo los desarrolladores tienen acceso a la base de datos/plataforma.
@@ -127,7 +131,8 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 * A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
 
 
-### HISTORIAS DE USUARIO:
+### **HISTORIAS DE USUARIO:**
+---
 #### Must have:
 * Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
 * Como usuario de Alexa, quiero ser capaz de encender mi computadora desde otro sitio para poder aprovechar más mi tiempo.
@@ -143,6 +148,7 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 
 
 ### **DIAGRAMA DE CASOS DE USO**
+---
 
 ![Diagrama de casos de uso](Casos.png)
 
@@ -155,6 +161,7 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 * [X] Lluvia de ideas.
 
 ### **EXCEPCIONES DE CASOS DE USO**
+---
 
 1. Si el ususario quiere nombrar a 2 dispositvos de la misma forma, el sistema le avisará que ya existe un dispositivo con ese nombre
 
@@ -165,8 +172,9 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 4. En el caso de que el usuario introduzca una dirección IP y/o Mac erronea, el sistema le notificara que la conexión no fue exitosa
 
 ## **PROCESO DE DESARROLLO**
+---
 
-### Metodología
+### **Metodología**
 
 
 La metodología implementada para la realización del proyecto se basó en "SCRUM", la cual **se adaptó al proyecto** por ser conocida como una metodología ágil, esta se concentra en como los miembros del equipo deberÌan funcionar a fin de producir un sistema flexible en un entorno que cambia constantemente.
@@ -176,7 +184,7 @@ En un inicio, se estableció una reunión para conocer las habilidades del equip
 Posteriormente , y dentro del Product backlog , se estableció una especie de rutina en donde el Product Owner establecia y priorizaba las tareas a realizar, de esta manera se generó un plan de 2 sprints los cuales se realizaban en el plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después el Producto Owner y los miembros del equipo validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso, se realizaban 2 sesiones a la semana, sin embargo en caso de necesitarse alguna revisión extra o cambio en la información dentro del repositorio, el Product Owner realizaba reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse. Al finalizar cada proceso de los sprints se realizaba "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. Para la medición y manejo de las actividades dentro de los sprints se utilizó la herramienta Monday.com.
 
 
-### Roles del equipo:
+### **Roles del equipo:**
 
 
 Product Owner:
