@@ -37,7 +37,7 @@ Métrica para determinar la relevancia, según la actividad:
 | **Promedio ponderado de relevancia y desempeño:** |  ??? |                 |          |          |         |         |
 
 
-#### ABRAHAM CRUZ COLLI
+#### ABRAHAM RAYMUNDO CRUZ COLLI
 
 |              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
@@ -46,9 +46,11 @@ Métrica para determinar la relevancia, según la actividad:
 |Presentación de ideas           |  5  |          |           |          |           |     X     |
 |Objetivo, limitaciones y alcance|  5  |          |           |          |     X     |           |
 |Sintaxis de Markdown            |  5  |          |           |          |           |     X     |
-|Diagrama de casos de uso        |  5  |          |           |          |     X     |           |
+|Diagrama de casos de uso        |  5  |          |           |          |      X    |           |
 |Priorizar historias de usuario  |  5  |          |           |         |           |      X     |
-|Descripción Diagrama de casos de uso|  5  |        |       |       |  X   |       |           |
+|Descripción Diagrama de casos de uso|  5  |        |       |       |     |    X   |           |
+|Contribution Tracker|   5   |       |       |       |   X    |       |    
+|Relacionar Historias de Usuario - Requerimientos|  5   |       |       |       |   X   |       |
 | **Promedio ponderado de relevancia y desempeño:**  | ??? |         |         |         |         |        |
 
 #### JOSE-CHI QUINTAL
