@@ -1,5 +1,7 @@
 # **ALEXA SKILL - WAKE ON LAN**
-### Descripción de la aplicación:
+### **Descripción de la aplicación:**
+<br>
+
 #### **OBJETIVO**
 ---
 Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo WoL (Wake on LAN) para realizar el encendido y apagado remoto, de computadoras compatibles o televisores , de manera automática usando la voz. 
@@ -14,6 +16,8 @@ Implementar en Amazon Alexa, mediante la tienda de skills, el uso del protocolo 
 * Incapacidad de uso fuera de la Alexa Skill.
 * Contenidos en español (tutoriales, plataforma web/bot).
 
+<br>
+
 #### **USUARIOS**
 ---
 
@@ -22,12 +26,14 @@ Determinamos que los usuarios de nuestra skill son todos aquellas personas que t
 *Crecimiento estimado de usuarios potenciales*
 * Según estadísticas de Amazon Alexa 2020, se vendieron 53,6 millones de altavoces Amazon Echo en el mismo año. Se espera que el número aumente a 65 millones en 2021.
 
+<br>
 
 #### **CLIENTES**
 ---
 
 Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona externa interesada por el desarrollo. Por lo cual decidimos que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
 
+<br>
 
 #### **INNOVACIÓN/CREATIVIDAD**
 ---
@@ -38,6 +44,8 @@ Ya hay una aplicación existente de Wake On Lan, pero la calidad de esta es muy 
 A parte de la anterior mencionada, no existe otra aplicación similar que aproveche la tecnología Wake on Lan, haciendo que si logramos hacer un sistema funcional, atractivo y eficiente, sería la aplicación principal de esta tecnología en el servicio de Amazon, Alexa. No se busca crear algo completamente nuevo, sino ofrecer una mejor alternativa a un producto ya existente.
 
 Buscamos agilizar el encendido y apagado de las computadoras y laptops, utilizando la función de wake on lan que tienen los dispositivos, siendo compatible con la mayoría de los sistemas operativos tantos actuales como más antiguos (Windows xp, vista , 7), mediante el asistente virtual Alexa podemos iniciar esta función con un simple comando de voz, desde cualquier lugar mediante nuestro dispositivo móvil optimizando tiempos de espera para poder iniciar a usar la computadora.
+
+<br>
 
 ### **REQUERIMIENTOS E HISTORIAS DE USUARIO**
 ---
@@ -83,6 +91,7 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
    * (RNF008): El tutorial se abrirá autómaticamente cuando el usuario indique las direcciones correspondientes dentro de la base de datos del bot.
 
+<br>
 
 #### **MÉTODO DE PRIORIDAD**
 ---
@@ -98,6 +107,8 @@ Utilizamos el metodo MoSCoW para priorizar los requerimientos y las historias de
 * Won't have: Caracteristicas que no son importantes en el presente, pero que podrian implementarse mas tarde
 
 Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion con el proyect owner para discutir en donde deberia ir cada una, basado en que tan factible es su implementacion. A continuacion se pueden apreciar los resultados de esa discusion:
+
+<br>
 
 ### **REQUIRIMIENTOS**:
 ---
@@ -118,6 +129,7 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 #### Won't have but would like to in the future:
 * RNF007: A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
 
+<br>
 
 ### **HISTORIAS DE USUARIO:**
 ---
@@ -134,12 +146,17 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 #### Won't have but would like to in the future:
 * HU008: Como usuario de Alexa, quiero poder realizar preguntas dentro del área de comentarios de la skill que me ayuden a resolver mis dudas.
 
+<br>
 
 ### **DIAGRAMA DE CASOS DE USO**
 ---
 Los diagramas de casos de uso son necesarios para demostrar de forma sencilla la comunicación, comportamiento e interacción del sistema con los usuarios o los diferentes actores que intervienen. Por lo tanto, optamos por hacer uso de esta herramienta debido la simpleza y legibilidad a la hora de comprender el funcionamiento de nuestro sistema; entonces, definimos los casos de uso y estos fueron redactados en lenguaje común/natural, así todo quién vea este diagrama entienda su funcionamiento básico.
 
+<br>
+
 ![Diagrama de casos de uso](Casos.png)
+
+<br>
 
 ### **ARTEFACTOS UTILIZADOS POR EL EQUIPO DE DESARROLLO**
 ---
@@ -148,6 +165,8 @@ Los diagramas de casos de uso son necesarios para demostrar de forma sencilla la
 * [X] Diagrama de casos de uso.
 * [X] Excepcinones de casos de uso.
 * [X] Lluvia de ideas.
+
+<br>
 
 ### **EXCEPCIONES DE CASOS DE USO**
 ---
@@ -159,6 +178,8 @@ Los diagramas de casos de uso son necesarios para demostrar de forma sencilla la
 3. Si el usuario le dice un nombre de dispositivo que no reconoce, el sistema le avisara al usuario que no existe ese dispositivo
 
 4. En el caso de que el usuario introduzca una dirección IP y/o Mac erronea, el sistema le notificara que la conexión no fue exitosa
+
+<br>
 
 ## **PROCESO DE DESARROLLO**
 ---
@@ -172,6 +193,7 @@ En un inicio, se estableció una reunión para conocer las habilidades del equip
 
 Posteriormente , y dentro del Product backlog , se estableció una especie de rutina en donde el Product Owner establecia y priorizaba las tareas a realizar, de esta manera se generó un plan de 2 sprints los cuales se realizaban en el plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después el Producto Owner y los miembros del equipo validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso, se realizaban 2 sesiones a la semana, sin embargo en caso de necesitarse alguna revisión extra o cambio en la información dentro del repositorio, el Product Owner realizaba reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse. Al finalizar cada proceso de los sprints se realizaba "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. Para la medición y manejo de las actividades dentro de los sprints se utilizó la herramienta Monday.com.
 
+<br>
 
 ### **Roles del equipo:**
 
