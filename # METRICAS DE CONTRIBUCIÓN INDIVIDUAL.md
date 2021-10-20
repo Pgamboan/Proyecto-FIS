@@ -80,6 +80,6 @@ Métrica para determinar la relevancia, según la actividad:
 | Priorizar requerimientos     |  5  |         |          |            |              |      X      |
 | **Promedio ponderado de relevancia y desempeño:** |  ???  |          |        |         |         |         |
 | Competencias de la asignatura     |  5  |         |          |            |              |            |
-| Redaccion de requerimientos     |  5  |         |          |            |              |            |
-| Redaccion del metodo de prioridad     |  5  |         |          |            |              |            |
-| Redaccion del gestion del proyecto     |  5  |         |          |            |              |            |
+| Redaccion de requerimientos     |  5  |         |          |            |       X       |            |
+| Redaccion del metodo de prioridad     |  5  |         |          |            |        X      |            |
+| Redaccion del gestion del proyecto     |  5  |         |          |     X       |              |            |
