@@ -48,6 +48,7 @@ Métrica para medir la relevancia, según la actividad asignada:
 |Sintaxis de Markdown|                 |                 |                 |                 |         X         |
 |Diagrama de casos de uso|                 |                 |                 |        X         |                 |
 |Priorizar historias de usuario|                 |                 |                 |                |        X        |
+| **Promedio ponderado de relevancia y desempeño:**  |               |               |             |       x          |            |
 
 #### JOSE-CHI QUINTAL
 
