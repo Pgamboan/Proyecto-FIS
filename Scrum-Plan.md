@@ -1,4 +1,4 @@
-#Proceso del desaroll:
+# Proceso del desarollo:
 
 ## Metodología
 
