@@ -26,7 +26,7 @@ Determinamos que los usuarios de nuestra skill son todos aquellas personas que t
 #### **CLIENTES**
 ---
 
-Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Por lo cual decidimos que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
+Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona externa interesada por el desarrollo. Por lo cual decidimos que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
 
 
 #### **INNOVACIÓN/CREATIVIDAD**
