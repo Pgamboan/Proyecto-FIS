@@ -4,16 +4,16 @@
 ---
 Métrica para determinar la relevancia, según la actividad:
 ---
-* 1 --> Importancia baja
-* 2 --> Importancia media
-* 3 --> Importancia alta
+* 1 --> *Relevancia baja*
+* 2 --> *Relevancia media*
+* 3 --> *Relevancia alta*
 
 #### DIEGO ALAMILLA OSORIO
 
-|              | **Determinar**   | 1                | 2              | 3                   | 4                     | 5                    |
-|--------------|------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | **Relevancia**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|                                      | **Opciones disponibles: 1, 2 o 3**      | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+|              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
+|--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
+| ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
+|     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
 | Presentación de ideas      |       |             |            |               |               |       x        |
 | Innovación y Creatividad   |       |             |            |               |       x       |                |
 | Tablas de contribución individual (Markdown) |      |         |               |               |                |     x         |
