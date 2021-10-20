@@ -4,9 +4,13 @@
 
 La metodología implementada para la realización del proyecto se basó en "SCRUM", la cual **se adaptó al proyecto** por ser conocida como una metodología ágil, esta se concentra en como los miembros del equipo deberÌan funcionar a fin de producir un sistema flexible en un entorno que cambia constantemente.
 
-Antes de la fase de planificación se realizó una llamada en donde cada integrante realizó un presentacion detallada para presentar delante de todo el equipo, dichas presentaciones contenian los productos que cada integrante deseaba implementar para este proyecto; durante las presentaciones se establecieron ventajas y desventajas del producto en cuestión. Al finalizar las presentaciones se inició un analísis y votación para asignar el producto que se iba a tratar.Dentro de esta fase 
+En un inicio, se realizó una llamada en donde cada integrante realizó un presentacion detallada para presentar delante de todo el equipo, dichas presentaciones contenian los productos que cada integrante deseaba implementar para este proyecto; durante las presentaciones se establecieron ventajas y desventajas del producto en cuestión. Al finalizar las presentaciones se inició un analísis y votación para asignar el producto que se iba a tratar.
 
-Durante la fase de planeación, se generó una fecha de entrega aproximada (20 de octubre) para la entrega del proyecto y los roles de cada miembro, los cuales fueron definidos de acuerdo a su conocimiento del tema, mismos que se mencionan a continuación:
+Así pues de definió un back
+
+
+
+
 
 Product Owner:
 
