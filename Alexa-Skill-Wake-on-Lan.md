@@ -102,37 +102,37 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 ### **REQUIRIMIENTOS**:
 ---
 #### Must have:
-* La skill podrá controlar el menu de opciones de encendido y apagado de los dispositivos compatibles con el protocolo WoL a través de el asistente Alexa.
-* Solo los desarrolladores tienen acceso a la base de datos/plataforma.
-* El usuario podrá controlar la skill desde cualquier dispositivo con Alexa.
-* El usuario podrá especificar el tipo de acción a realizar: inicio, apagado, suspensión, reinicio e hibernar.
-* El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con alexa.
+* RF001: La skill podrá controlar el menu de opciones de encendido y apagado de los dispositivos compatibles con el protocolo WoL a través de el asistente Alexa.
+* RNF004: Solo los desarrolladores tienen acceso a la base de datos/plataforma.
+* RNF001: El usuario podrá controlar la skill desde cualquier dispositivo con Alexa.
+* RNF002: El usuario podrá especificar el tipo de acción a realizar: inicio, apagado, suspensión, reinicio e hibernar.
+* RNF005: El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con alexa.
 #### Should have:
-* Se contará con un tutorial para mostrarle a lo usuarios como inicializar la alexa skill dentro de sus dispositivos.
-* Se usará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de su base de datos.
+* RF004: Se contará con un tutorial para mostrarle a lo usuarios como inicializar la alexa skill dentro de sus dispositivos.
+* RF003: Se usará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de su base de datos.
 #### Could have:
-* El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes.
-* El tutorial se abrirá autómaticamente cuando el usuario indique las direcciones correspondientes dentro de la base de datos del bot.
-* Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos.
-* La plataforma Azure notificará a los desarolladores de algún error con la aplicación.
+* RNF006: El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes.
+* RNF008: El tutorial se abrirá autómaticamente cuando el usuario indique las direcciones correspondientes dentro de la base de datos del bot.
+* RF002: Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos.
+* RNF003: La plataforma Azure notificará a los desarolladores de algún error con la aplicación.
 #### Won't have but would like to in the future:
-* A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
+* RNF007: A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
 
 
 ### **HISTORIAS DE USUARIO:**
 ---
 #### Must have:
-* Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
-* Como usuario de Alexa, quiero ser capaz de encender mi computadora desde otro sitio para poder aprovechar más mi tiempo.
+* HU001: Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
+* HU002: Como usuario de Alexa, quiero ser capaz de encender mi computadora desde otro sitio para poder aprovechar más mi tiempo.
 #### Should have:
-* Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
-* Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.
+* HU003: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
+* HU004: Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.
 #### Could have:
-* Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén acoplados a mi rutina y pueda aprovechar mi tiempo al máximo.
-* Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil.
-* Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia.
+* HU005: Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén acoplados a mi rutina y pueda aprovechar mi tiempo al máximo.
+* HU006: Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil.
+* HU007: Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia.
 #### Won't have but would like to in the future:
-* Como usuario de Alexa, quiero poder realizar preguntas dentro del área de comentarios de la skill que me ayuden a resolver mis dudas.
+* HU008: Como usuario de Alexa, quiero poder realizar preguntas dentro del área de comentarios de la skill que me ayuden a resolver mis dudas.
 
 
 ### **DIAGRAMA DE CASOS DE USO**
