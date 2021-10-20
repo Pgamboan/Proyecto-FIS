@@ -1,4 +1,3 @@
 # Metodología
-Durante la elaboración del proyecto se tomó en cuenta a la metodología SCRUM. La metodología SCRUM es conocida como una metodología ágil y que se concentra en como los
-miembros del equipo deberÌan funcionar a fin de producir un sistema flexible en un entorno que cambia constantemente. En la primera fase de la implementación se estableció el "product backlog", generando de manera general los requerimientos; los requerimientos serían actualizados 
-
+La metodología implementada para la realización del proyecto es "SCRUM", la cual **se adaptó al proyecto** por ser conocida como una metodología ágil y que se concentra en como los miembros del equipo deberÌan funcionar a fin de producir un sistema flexible en un entorno que cambia constantemente.
+Durante la fase de planeamiento, se generó una fecha de entrega aproximada (20 de octubre) para la entrega del proyecto, así pues, se generarón roles que llevarían al proyecto a un desarollo óptimo; se consideró como 
