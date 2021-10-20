@@ -37,7 +37,6 @@ SCRUM team:
 
 * Diego Alamilla.
 
-rante la fase de planeación el Product Owner conjunto a los integrantes del trabajo establecieron el product backlog, estableciendo las tareas prioritarias e información detallada de sobre el proyecto. El Product Owner en conjunto al Scrum Team establecieron el objetivo, alcances y limitaciones del proyecto para establecer una guia que serviriá durante todas las fases. Se estableció el uso de la herramienta Monday para la asignación, priorización y validación de tareas
 
 
 
