@@ -7,7 +7,7 @@ La metodología implementada para la realización del proyecto se basó en "SCRU
 
 En un inicio, se estableció una reunión para conocer las habilidades del equipos y las ideas que cada integrante deseaba aplicar al proyecto, la cual mediante una votación fue seleccionada.
 
-Posteriormente se estableció el product backlog en una especie de rutina en donde el Product Owner establecia y priorizaba las tareas a realizar, genrando así el primer sprint planning , de esta manera se organizo el sprint backlog los cuales se realizaban en el plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después el Producto Owner y los miembros del equipo validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso, se realizaban 2 sesiones a la semana, sin embargo en caso de necesitarse alguna revisión extra o cambio en la información dentro del repositorio, el Product Owner realizaba reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse. Al finalizar cada proceso de los sprints se realizaba "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. Para la medición y manejo de las actividades dentro de los sprints se utilizó la herramienta Monday.com.
+Posteriormente se estableció el product backlog en una especie de rutina en donde el Product Owner establecia y priorizaba las tareas a realizar, genrando así el primer sprint planning , de esta manera se organizo el sprint backlog los cuales se realizaban en el plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después los SCRUMS masters y los miembros del equipo validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso, se realizaban 2 sesiones a la semana, sin embargo en caso de necesitarse alguna revisión extra o cambio en la información dentro del repositorio, se realizaban reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse. Al finalizar cada proceso de los sprints se realizaba "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. Para la medición y manejo de las actividades dentro de los sprints se utilizó la herramienta Monday.com.
 
 
 ### Roles del equipo:
@@ -38,9 +38,7 @@ SCRUM team:
 
 * Diego Alamilla.
 
-
-
-
+Dentro del proceso algunos miembros del equipo realizaban 2 o más roles, es decir, existián ocasiones donde el Product Owner hacia la función de SCRUM master, mientras que durante el primer sprint el SCRUM Master: José Chi Quintal realizó la función de Owner del proyecto; esto último se realizó debido a que se necesitaban tomar decisiones sobre el producto y su contenido.
 
 
 
