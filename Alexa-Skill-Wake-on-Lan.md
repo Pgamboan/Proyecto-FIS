@@ -146,21 +146,19 @@ Un artefacto es una herramienta creadas por el equipo de manera deliberada para 
 
 <br>
 
-## **PROCESO DE DESARROLLO**
----
+# Proceso del desarollo:
 
-### **Metodología**
+## Metodología
 
 
 La metodología implementada para la realización del proyecto se basó en "SCRUM", la cual **se adaptó al proyecto** por ser conocida como una metodología ágil, esta se concentra en como los miembros del equipo deberÌan funcionar a fin de producir un sistema flexible en un entorno que cambia constantemente.
 
 En un inicio, se estableció una reunión para conocer las habilidades del equipos y las ideas que cada integrante deseaba aplicar al proyecto, la cual mediante una votación fue seleccionada.
 
-Posteriormente , y dentro del Product backlog , se estableció una especie de rutina en donde el Product Owner establecia y priorizaba las tareas a realizar, de esta manera se generó un plan de 2 sprints los cuales se realizaban en el plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después el Producto Owner y los miembros del equipo validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso, se realizaban 2 sesiones a la semana, sin embargo en caso de necesitarse alguna revisión extra o cambio en la información dentro del repositorio, el Product Owner realizaba reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse. Al finalizar cada proceso de los sprints se realizaba "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. Para la medición y manejo de las actividades dentro de los sprints se utilizó la herramienta Monday.com.
+Posteriormente se estableció el product backlog en donde el Product Owner establecia y priorizaba las tareas a realizar durante todo el proyecto, así pues mediante el sprint planning, se estimaron la creación de 2 sprint los cuales se planearon en un plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después todo los miembros del proyecto validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso de cada sprint se usó la herramienta Monday.com, así pues en caso de necesitarse de alguna revisión extra o cambio de carácter urgente dentro de información del repositorio, se realizaban reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse. Al finalizar cada sprint se organizó "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. 
 
-<br>
 
-### **Roles del equipo:**
+### Roles del equipo:
 
 
 Product Owner:
@@ -180,14 +178,14 @@ SCRUM masters:
 * José De Jesús Chi Quintal.
 
 
-SCRUM team:
+Developers:
 
 
-* Abraham Raymundo Cruz Colli.
+* Abraham Cruz Colli
 
 
-* Diego Alamilla Osorio.
+* Diego Alamilla.
 
+Dentro del proceso algunos miembros del equipo realizaban 2 o más roles, es decir, existián ocasiones donde el Product Owner hacia la función de SCRUM master, mientras que durante el primer sprint el SCRUM Master: José Chi Quintal realizó la función de Owner del proyecto; esto último se realizó debido a que se necesitaban tomar decisiones sobre el producto y su contenido.
 
-~~Se estableció una adaptación hacia los roles que asigna la metodología SCRUM, pues al rol del Product Owner se le agregó la creación del repositorio Github. En el caso de los SCRUMS masters: facilitar las llamadas y ayudar a asignar las tareas a cada miembro de equipo y, en su defecto, la actualización de la herramienta Monday de manera activa (en lapso de menos de 3 días).~~
 
