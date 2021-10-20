@@ -8,21 +8,25 @@ Durante la fase de planeación, se generó una fecha de entrega aproximada (20 d
 Product Owner:
 
 
--José De Jesús Chi Quintal.
+* José De Jesús Chi Quintal.
 
 
 Scrum Masters:
 
 
--Pablo Gamboa Nieto.
--Diego Francisco Arreola Hernández.
+* Pablo Gamboa Nieto.
+
+
+* Diego Francisco Arreola Hernández.
 
 
 Scrum Team:
 
 
--Abraham ()
--Diego Alamilla.
+* Abraham Cruz Colli
+
+
+* Diego Alamilla.
 
 
 Para el desarollo del proyecto se decidió que cada miembro del equipo sea un Product Owner, pues consiedaramos que todos son los responsables de gestionar el proyecto y hacer los visibles los ítems del product backlog y, en su defecto, la toma de desiciones argumentos que tienen la misma importancia.
