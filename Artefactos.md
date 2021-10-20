@@ -1,7 +1,7 @@
 
 ### Artefactos utilizados por el equipo de desarrollo.
 ---
-Un artefacto es una herramienta que se hace durante el proceso 
+Un artefacto es una herramienta que se elabora durante el proceso de desarrollo. De igual manera se puede considerar como un producto de trabajo que proporciona una descripción y una definición para productos de trabajo tangibles, es decir, que están bien definidos.
 
 * Formulario: 
 
