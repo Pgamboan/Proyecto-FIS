@@ -12,7 +12,3 @@
 
 ### **Imágenes**
 ---
-![Gráfico1](1.jpeg)
-![Gráfico2](2.jpeg)
-![Gráfico3](3.jpeg)
-
