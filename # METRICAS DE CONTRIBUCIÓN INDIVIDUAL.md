@@ -93,10 +93,10 @@ Métrica para determinar la relevancia, según la actividad:
 | Excepciones de casos de uso  |  2  |         |          |            |       X      |             |
 | Rediseño de los RF y RNF     |  3  |         |          |            |              |      X      |
 | Priorizar requerimientos     |  2  |         |          |            |              |      X      |
-| Competencias de la asignatura     |  2  |         |          |            |              |            |
+| Competencias de la asignatura     |  2  |         |          |            |              |      X      |
 | Descripción de requerimientos     |  2  |         |          |            |       X       |            |
 | Descripción del metodo de prioridad |  2  |         |          |            |        X      |            |
 | Gestion del proceos                |  3  |         |          |     X       |              |            |
-| Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    x     |
-| Participación en el video/exposición   |  3  |        |          |         |          |    x     |
+| Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
+| Participación en el video/exposición   |  3  |        |          |         |          |    X     |
 | **Promedio ponderado de relevancia:** | **2.3**  |          |        |         |         |         |
