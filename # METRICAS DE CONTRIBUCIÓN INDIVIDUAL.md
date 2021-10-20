@@ -47,7 +47,8 @@ Métrica para determinar la relevancia, según la actividad:
 |Objetivo, limitaciones y alcance|  5  |          |           |          |     X     |           |
 |Sintaxis de Markdown            |  5  |          |           |          |           |     X     |
 |Diagrama de casos de uso        |  5  |          |           |          |     X     |           |
-|Priorizar historias de usuario  |  5  |          |           |          |           |     X     |
+|Priorizar historias de usuario  |  5  |          |           |         |           |      X     |
+|Descripción Diagrama de casos de uso|  5  |        |       |       |  X   |       |           |
 | **Promedio ponderado de relevancia y desempeño:**  | ??? |         |         |         |         |        |
 
 #### JOSE-CHI QUINTAL
