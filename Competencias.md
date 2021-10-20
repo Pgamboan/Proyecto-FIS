@@ -15,6 +15,7 @@ Competencias Especificas:
 -----
 * **Establece las diferencias entre los perfiles profesionales del área de las TIC, con base en las propuestas de organismos reconocidos nacional e internacionalmente en el área de cómputo:** 
 * **Identifica los conceptos vinculados con las fases de requisitos, diseño, desarrollo, pruebas y mantenimiento, de acuerdo los organismos reconocidos en la disciplina:**
+ La informacion de las fases pertinentes en la etapa actual del proyecto fue empleada para dirigir el desarrollo del mismo. El progreso del proyecto avanzaba de la misma forma con la que las clases nos ayudaba a comprender la informacion y a la investigacion que los integrantes hacian por su cuenta.
 * **Identifica los factores humanos inmersos en los procesos de desarrollo de software que inciden en el éxito de proyectos de software:**
   Tomamos en cuenta las fortalezas y debilidades de los integrantes del equipo a la hora de asignar roles y tareas. De igual forma organizamos reuniones que se ajustaron a los horarios de todos los integrantes, para presentar avances y complementar el desarrollo de las actividades.
 * **Utiliza adecuadamente la terminología propia de la Ingeniería de Software en sus intervenciones profesionales:**
