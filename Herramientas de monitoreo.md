@@ -7,3 +7,7 @@
 * WhatsApp: Nos comunicamos para concretar reuniones, dar avisos y resolver dudas del equipo
 
 *	Github: Usamos Markdown para elaborar los archivos, almacenando y organizando en el repositorio las contribuciones de cada integrante del equipo 
+
+* Excel: Nos ayudo en la creacion de tablas
+
+* Word: Elaboramos archivos es esta aplicacion mientras nos familiarizabamos con Markdown
