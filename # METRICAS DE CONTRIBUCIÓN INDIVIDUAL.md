@@ -1,5 +1,13 @@
 # METRICAS DE CONTRIBUCIÓN INDIVIDUAL
 ### FUNDAMENTOS DE INGNIERIA DE SOFTWARE
+
+---
+Escala para medición de dificultad, según la actividad asignada:
+---
+* 1 --> Importancia baja
+* 2 --> Importancia media
+* 3 --> Importancia alta
+
 #### DIEGO ALAMILLA OSORIO
 
 |                                              | 1                                                               | 2                                                                        | 3                                                                     | 4                                                                | 5                                                                                 |
