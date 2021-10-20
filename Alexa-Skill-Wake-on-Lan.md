@@ -68,6 +68,10 @@ Las historias de usuario son una forma de buscar necesidades y preferencias que 
 
 ### **REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES**
 
+Los requerimientos son un instrumento fundamental en el correcto desarrollo de un proyecto de software. Son de gran ayuda, tanto para el cliente como el equipo de desarrollo, para tener una visión concisa de que características se requiere que tenga el producto y como estas se relacionan con el usuario.
+
+Debido a la simpleza que representa la ejecución de nuestro producto, no hay una gran cantidad de requerimientos que podamos idear, pero los hicimos de manera que cumplan con las caracteristicas principales de un requisito. Tras un extendido proceso de discusión, elaboración y verificación, hemos concordado en los siguientes requisitos para nuestro proyecto:
+
 * RF001: La skill podrá controlar el menu de opciones de encendido y apagado de los dispositivos compatibles con el protocolo WoL a través de el asistente Alexa.
 
    * (RNF): El usuario podrá controlar la skill desde cualquier dispositivo con Alexa.
@@ -123,7 +127,7 @@ Para que la priorizacion fuera lo mas eficiente posible, realizamos una sesion c
 * Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos.
 * La plataforma Azure notificará a los desarolladores de algún error con la aplicación.
 #### Won't have but would like to in the future:
-A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
+* A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
 ### HISTORIAS DE USUARIO:
 #### Must have:
 * Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
