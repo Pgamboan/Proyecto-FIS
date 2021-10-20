@@ -3,7 +3,7 @@
 ---
 Un artefacto es una herramienta creadas por el equipo de manera deliberada para solventar necesidades o facilitar ciertas tareas durante el proceso de desarrollo de un proyecto. De igual manera se puede considerar como un producto de trabajo que proporciona una descripción y una definición para productos de trabajo tangibles, es decir, que están bien definidos.  
 
-* Formulario (Historias de usuario con criterios de aceptación): Los formularios en linea son una excelente manera de llegar a un público en especifico. En nuestro caso nos fue muy útil porque los resultados de la encuesta en línea están listos para ser analizados en cualquier momento y nos fue una gran referencia para realizar las historias de usuario. A continuación adjuntaremos unas imágenes que demuestren la utilización de esta herramienta.
+* Historias de usuario con criterios de aceptación (Google Forms): Los formularios en linea son una excelente manera de llegar a un público en especifico. En nuestro caso nos fue muy útil porque los resultados de la encuesta en línea están listos para ser analizados en cualquier momento y nos fue una gran referencia para realizar las historias de usuario. A continuación adjuntaremos unas imágenes que demuestren la utilización de esta herramienta.
 
 ![grafico](grafico1.jpeg)
 ![grafico](grafico2.jpeg)
