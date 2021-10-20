@@ -205,5 +205,5 @@ SCRUM team:
 * Diego Alamilla.
 
 
-Se estableció una adaptación hacia los roles que asigna la metodología SCRUM, pues al rol del Product Owner se le agregó la creación del repositorio Github. En el caso de los SCRUMS masters: facilitar las llamadas y ayudar a asignar las tareas a cada miembro de equipo y, en su defecto, la actualización de la herramienta Monday de manera activa (en lapso de menos de 3 días).
+~~Se estableció una adaptación hacia los roles que asigna la metodología SCRUM, pues al rol del Product Owner se le agregó la creación del repositorio Github. En el caso de los SCRUMS masters: facilitar las llamadas y ayudar a asignar las tareas a cada miembro de equipo y, en su defecto, la actualización de la herramienta Monday de manera activa (en lapso de menos de 3 días).~~
 
