@@ -42,7 +42,7 @@ SCRUM team:
 
 * Diego Alamilla.
 
-
+El trabajo, conseguir dejar claro la priorización de los objetivos de un proyecto determinado y maximizar el trabajo que desarrolla el equipo en su conjunto
 
 
 
