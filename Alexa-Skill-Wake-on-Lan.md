@@ -39,31 +39,20 @@ A parte de la anterior mencionada, no existe otra aplicación similar que aprove
 
 Buscamos agilizar el encendido y apagado de las computadoras y laptops, utilizando la función de wake on lan que tienen los dispositivos, siendo compatible con la mayoría de los sistemas operativos tantos actuales como más antiguos (Windows xp, vista , 7), mediante el asistente virtual Alexa podemos iniciar esta función con un simple comando de voz, desde cualquier lugar mediante nuestro dispositivo móvil optimizando tiempos de espera para poder iniciar a usar la computadora.
 
-### **REQUERIMIENTOS Y/O HISTORIAS DE USUARIO**
+### **REQUERIMIENTOS E HISTORIAS DE USUARIO**
 ---
 
 #### **HISTORIAS DE USUARIO**
-
 Las historias de usuario son una forma de buscar necesidades y preferencias que desean los usuarios y/o clientes a los que va dirigido nuestro proyecto, formulamos muchas de las que tenemos mediante reseñas de una skill parecida y testimonios de usuarios interesados. Decidimos hacerlas al igual que los requerimientos ya que es igual importante el feedback de la gente para un proyecto con constante mantenimiento.
 
-* HU001: Como usuario de Alexa, quiero ser capaz de encender mi computadora desde el baño para poder aprovechar más mi tiempo.
-
-* HU002: Como usuario de Alexa, quiero poder automatizar el encendido de mi computadora para ser más eficiente.
-
-* HU003: Como usuario de Alexa, quiero automatizar el apagado de mi computadora para ahorrar tiempo en mi día a día.
-
-* HU004: Como usuario de Alexa, quiero poder controlar varios dispositivos para tener un mayor control y conveniencia.
-
-* HU005: Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén acoplados a mi rutina y pueda aprovechar mi tiempo al máximo.
-
-* HU006: Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil
-
-* HU007: Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.
-
-* HU008: Como usuario de Alexa, quiero poder realizar preguntas para que me ayuden a resolver mis dudas
-
-* HU009: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
-
+* HU001: Como usuario de Alexa, quiero poder automatizar el encendido/apagado de mi computadora para ser más eficiente.
+* HU002: Como usuario de Alexa, quiero ser capaz de encender mi computadora desde otro sitio para poder aprovechar más mi tiempo.
+* HU003: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
+* HU004: Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.
+* HU005: Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén complados a mi rutina y pueda aprovechar mi tiempo al máximo.
+* HU006: Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil.
+* HU007: Como usuario de Alexa, quiero controlar varios dispositivos para tener un mayor control y conveniencia.
+* HU008: Como usuario de Alexa, quiero poder realizar preguntas dentro del área de comentarios de la skill que me ayuden a resolver mis dudas.
 #### **ESPECIFICACIÓN DE REQUERIMIENTOS**
 
 Los requerimientos son un instrumento fundamental en el correcto desarrollo de un proyecto de software. Son de gran ayuda, tanto para el cliente como el equipo de desarrollo, para tener una visión concisa de que características se requiere que tenga el producto y como estas se relacionan con el usuario.
