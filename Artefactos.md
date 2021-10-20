@@ -1,17 +1,15 @@
 
 ### Artefactos utilizados por el equipo de desarrollo.
 ---
+Un artefacto es una herramienta que se hace durante el proceso 
 
-### **Lista de artefactos que se emplearon durante el desarrollo**
----
+* Formulario: 
 
-* [X] Formulario.
-* [X] Diagrama de casos de uso.
-* [X] Excepcinones de casos de uso.
-* [X] Lluvia de ideas.
 
-### **Imágenes**
----
 ![grafico](grafico1.jpeg)
 ![grafico](grafico2.jpeg)
 ![grafico](grafico3.jpeg)
+
+* Diagrama de casos de uso:
+* Excepciones de casos de uso:
+* Lluvia de ideas:
