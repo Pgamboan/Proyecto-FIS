@@ -29,7 +29,7 @@ Scrum Team:
 * Diego Alamilla.
 
 
-Para el desarollo del proyecto se decidió que cada miembro del equipo sea un Product Owner, pues consiedaramos que todos son los responsables de gestionar el proyecto y hacer los visibles los ítems del product backlog y, en su defecto, la toma de desiciones argumentos que tienen la misma importancia.
+
 
 
 
