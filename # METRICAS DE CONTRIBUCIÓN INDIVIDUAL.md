@@ -65,6 +65,10 @@ Métrica para determinar la relevancia, según la actividad:
 | Gestión de proceso              |  5  |         |           |            |      X      |             |
 | Rediseño de los RF y RNF        |  5  |         |           |            |             |      X      |
 | Priorizar requerimientos        |  5  |         |           |            |             |      X      |
+| Metodología SCRUM               |  5  |         |           |            |             |      X      |
+| Redacción final                 |  5  |         |           |            |             |      X      |
+| Redacción de gestión del proyecto |  5  |         |           |            |             |      X      |
+|  |  5  |         |           |            |             |      X      |
 | **Promedio ponderado de relevancia y desempeño:** |  ??? |         |              |                 |                  |               |
 
 #### DIEGO ARREOLA HERNÁNDEZ
@@ -80,4 +84,8 @@ Métrica para determinar la relevancia, según la actividad:
 | Excepciones de casos de uso  |  5  |         |          |            |       X      |             |
 | Rediseño de los RF y RNF     |  5  |         |          |            |              |      X      |
 | Priorizar requerimientos     |  5  |         |          |            |              |      X      |
+| Competencias de la asignatura     |  5  |         |          |            |              |            |
+| Redaccion de requerimientos     |  5  |         |          |            |       X       |            |
+| Redaccion del metodo de prioridad     |  5  |         |          |            |        X      |            |
+| Redaccion del gestion del proyecto     |  5  |         |          |     X       |              |            |
 | **Promedio ponderado de relevancia y desempeño:** |  ???  |          |        |         |         |         |
