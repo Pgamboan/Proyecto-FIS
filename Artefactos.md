@@ -12,3 +12,6 @@
 
 ### **Imágenes**
 ---
+![grafico](grafico1.jpeg)
+![grafico](grafico2.jpeg)
+![grafico](grafico3.jpeg)
