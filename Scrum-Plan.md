@@ -13,8 +13,6 @@ Por consiguiente, se estableció una rutina en donde el Product Owner establecia
 
 Para la medición y asignación de actividades se utilizó Monday.com, el cual se actualizaba por los Scrum Masters en un lapso 3 días. De esta manera, cada sprint era monitoreado por Monday y renovado por los SCRUM masters para mantenerse actualizado.
 
-# Gestión del proceso:
-
 
 Los roles que fueron establecidos son:
 
