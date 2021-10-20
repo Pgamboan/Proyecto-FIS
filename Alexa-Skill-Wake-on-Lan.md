@@ -45,23 +45,23 @@ Buscamos agilizar el encendido y apagado de las computadoras y laptops, utilizan
 
 Las historias de usuario son una forma de buscar necesidades y preferencias que desean los usuarios y/o clientes a los que va dirigido nuestro proyecto, formulamos muchas de las que tenemos mediante reseñas de una skill parecida y testimonios de usuarios interesados. Decidimos hacerlas al igual que los requerimientos ya que es igual importante el feedback de la gente para un proyecto con constante mantenimiento.
 
-* Como usuario de Alexa, quiero ser capaz de encender mi computadora desde el baño para poder aprovechar más mi tiempo.
+* HU001: Como usuario de Alexa, quiero ser capaz de encender mi computadora desde el baño para poder aprovechar más mi tiempo.
 
-* Como usuario de Alexa, quiero poder automatizar el encendido de mi computadora para ser más eficiente.
+* HU002: Como usuario de Alexa, quiero poder automatizar el encendido de mi computadora para ser más eficiente.
 
-* Como usuario de Alexa, quiero automatizar el apagado de mi computadora para ahorrar tiempo en mi día a día.
+* HU003: Como usuario de Alexa, quiero automatizar el apagado de mi computadora para ahorrar tiempo en mi día a día.
 
-* Como usuario de Alexa, quiero poder controlar varios dispositivos para tener un mayor control y conveniencia.
+* HU004: Como usuario de Alexa, quiero poder controlar varios dispositivos para tener un mayor control y conveniencia.
 
-* Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén acoplados a mi rutina y pueda aprovechar mi tiempo al máximo.
+* HU005: Como usuario de Alexa, quiero programar un horario de encendido para que mis dispositivos estén acoplados a mi rutina y pueda aprovechar mi tiempo al máximo.
 
-* Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil
+* HU006: Como usuario de Alexa, quiero ser capaz de personalizar el nombre a los dispositivos para que el control de ellos sea más fácil
 
-* Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.
+* HU007: Como usuario de Alexa, quiero tener instrucciones para que me ayuden a poder implementar la skill.
 
-* Como usuario de Alexa, quiero poder realizar preguntas para que me ayuden a resolver mis dudas
+* HU008: Como usuario de Alexa, quiero poder realizar preguntas para que me ayuden a resolver mis dudas
 
-* Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
+* HU009: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
 
 #### **ESPECIFICACIÓN DE REQUERIMIENTOS**
 
@@ -71,27 +71,27 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
 * RF001: La skill podrá controlar el menu de opciones de encendido y apagado de los dispositivos compatibles con el protocolo WoL a través de el asistente Alexa.
 
-   * (RNF): El usuario podrá controlar la skill desde cualquier dispositivo con Alexa.
+   * (RNF001): El usuario podrá controlar la skill desde cualquier dispositivo con Alexa.
 
-   * (RNF): El usuario podrá especificar el tipo de acción a realizar: inicio, apagado, suspensión, reinicio e hibernar.
+   * (RNF002): El usuario podrá especificar el tipo de acción a realizar: inicio, apagado, suspensión, reinicio e hibernar.
 
 * RF002: Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos.
 
-   * (RNF): La plataforma Azure le notificará a los desarolladores de algún error con la aplicación.
+   * (RNF003): La plataforma Azure le notificará a los desarolladores de algún error con la aplicación.
 
-   * (RNF): Solo los desarrolladores tienen acceso a la base de datos/plataforma.
+   * (RNF004): Solo los desarrolladores tienen acceso a la base de datos/plataforma.
 
-   * (RNF): El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con alexa.
+   * (RNF005): El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con alexa.
 
 * RF003: Se usará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de su base de datos.
 
-   * (RNF): El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes.
+   * (RNF006): El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes.
 
-   * (RNF): A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
+   * (RNF007): A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea.
 
 * RF004: Se contará con un tutorial para mostrarle a lo usuarios como inicializar la alexa skill dentro de sus dispositivos.
 
-   * (RNF): El tutorial se abrirá autómaticamente cuando el usuario indique las direcciones correspondientes dentro de la base de datos del bot.
+   * (RNF008): El tutorial se abrirá autómaticamente cuando el usuario indique las direcciones correspondientes dentro de la base de datos del bot.
 
 
 #### **MÉTODO DE PRIORIDAD**
