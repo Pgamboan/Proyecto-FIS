@@ -42,7 +42,7 @@ SCRUM team:
 
 * Diego Alamilla.
 
-El trabajo, conseguir dejar claro la priorización de los objetivos de un proyecto determinado y maximizar el trabajo que desarrolla el equipo en su conjunto
+El trabajo del Product Owner es facilitar y dejar claro la priorización de los objetivos del proyecto determinado y exprimir al máximo el trabajo que desarrolla el equipo en su conjunto, así también, dentro de este proyecto, fue el encargado de crear el repositorio, ser el interlocutor dentro del equipo, priorizar y asignar tareas, colaborar con los miembros del equipo revisar tareas y hacerles correción. El trabajo de los SCRUMS masters, es partipar en la creación del contenido del proyecto, mantener actualizado la herramienta para gestión de tareas, manetener motivado al equipo y colaborar con los otros miembros del equipo activamente.Por parte del SCRUM team es trabajar de manera ágil en la busqueda de información útil para el resto del equipo, pensar en conjunto con los SCRUM masters y el Product Owner y su partipación activa en el desarrollo de las tareas asginadas.Para corroborar la participación y asegurar la calidad de la misma se estableció una métrica de contribución para cada integrante. 
 
 
 
