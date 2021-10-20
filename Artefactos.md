@@ -9,5 +9,5 @@ Un artefacto es una herramienta creadas por el equipo de manera deliberada para 
 ![grafico](grafico2.jpeg)
 ![grafico](grafico3.jpeg)
 
-* Excepciones de casos de uso: 
+* Excepciones de casos de uso: Las excepciones fueron primordiales porque nos ayudó a identificar situaciones potenciales en las que es necesario prevenir en el caso de uso. Anticipamos errores que podrían ocurrir durante la ejecución del caso de uso.
 * Lluvia de ideas: La lluvia de ideas permitió a cada integrante del equipo pensar con mayor libertad. Esta práctica fomenta la colaboración abierta y continua para resolver problemas y generar ideas innovadoras. La lluvia de ideas fue fundamental para generar rápidamente un gran número de ideas, que pueden refinarse y fusionarse para crear la solución ideal para el proyecto.
