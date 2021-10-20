@@ -65,7 +65,6 @@ Las historias de usuario son una forma de buscar necesidades y preferencias que 
 * HU009: Como usuario de Alexa, quiero poder controlar otros dispositivos como televisiones para tener un mayor control sobre todos mis dispositivos.
 
 #### **ESPECIFICACIÓN DE REQUERIMIENTOS**
----
 
 Los requerimientos son un instrumento fundamental en el correcto desarrollo de un proyecto de software. Son de gran ayuda, tanto para el cliente como el equipo de desarrollo, para tener una visión concisa de que características se requiere que tenga el producto y como estas se relacionan con el usuario.
 
