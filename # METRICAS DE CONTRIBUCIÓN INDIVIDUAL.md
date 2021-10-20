@@ -19,6 +19,9 @@ Métrica para determinar la relevancia, según la actividad:
 | Tablas de contribución individual (Markdown) |  5  |          |         |          |          |      x     |
 | Priorizar historias de usuario               |  5  |          |         |          |          |      x     |
 | Control de calidad                           |  5  |          |         |          |     x    |            |
+| Redacción de Historias de Usuario                          |  5  |          |         |       x   |         |            |
+| Relacionar Historias de Usuario - Requerimientos                           |  5  |          |         |          |        |    x        |
+| Armado del documento final                        |  5  |          |         |          |        |    x        |
 | **Promedio ponderado de relevancia y desempeño:**| ??? |      |         |          |          |            |
 
 #### PABLO GAMBOA NIETO
