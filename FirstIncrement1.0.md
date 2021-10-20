@@ -1,27 +1,27 @@
-# ** ALEXA SKILL - WAKE ON LAN**
+# **ALEXA SKILL - WAKE ON LAN**
 // add cover with images
 
 ### Application definition:
 ---
 
-#### ** OBJECTIVE**
+#### **OBJECTIVE**
 
 We want to implement in Amazon Alexa, through the skills store, the use of the WoL (Wake on LAN) protocol to remotely turn on and off compatible computers or televisions automatically using voice. 
 
 
-#### ** PROJECT REACHABILTY**
+#### **PROJECT REACHABILTY**
 
 * Global, or in this case, people who have Alexa Echo devices.
 
 
-#### ** PROJECT LIMITATIONS**
+#### **PROJECT LIMITATIONS**
 
 * The possibility of devices not being compatible with the WoL protocol.
 * Inability to use outside the Alexa Skill.
 * Contents will be in Spanish (tutorials, web/bot platform).
 
 
-#### ** USERS**
+#### **USERS**
 
 We determined that the users of our skill are all those people who have an Amazon Alexa device or the Alexa app and therefore have access to the skill store. According to smart speaker statistics, Amazon Echo had 40.6 million users in 2020, more than Google Home and other smart speaker users combined. Installing an Amazon Echo in your home means you will need to use the Alexa app. Some of the main aspects of Alexa usage are its availability, handy features, and data usage. 
 
@@ -29,12 +29,12 @@ We determined that the users of our skill are all those people who have an Amazo
 *According to Amazon Alexa 2020 statistics, 53.6 million Amazon Echo speakers were sold in the same year. The number is expected to increase to 65 million in 2021.
 
 
-#### ** CUSTOMERS**
+#### **CUSTOMERS**
 
 Como tal nosotros no tenemos un cliente específico porque detrás del proyecto no hay ninguna persona pagando o interesada por el desarrollo. Por lo cual decidimos que básicamente nuestros futuros usuarios serán considerados como nuestros clientes. Por lo cual usaremos encuestas y formularios para sondear a los potenciales clientes y ser capaces de proporcionar de una buena manera las exigencias y caracteristicas que demanda un cliente para darle profundidad al desarrollo del proyecto. 
 
 
-#### ** INNOVATION/CREATIVITY**
+#### **INNOVATION/CREATIVITY**
 
 Virtual assistants were not created to satisfy needs, they were created to make life easier for users for simple tasks, such as getting quick information, reading a book or controlling music playback.
 
@@ -45,9 +45,9 @@ Apart from the previous mentioned, there is no other similar application that ta
 We seek to streamline the on and off of computers and laptops, using the wake on lan function that the devices have, being compatible with most operating systems both current and older (Windows xp, vista, 7), through the virtual assistant Alexa we can start this function with a simple voice command, from anywhere using our mobile device optimizing waiting times to start using the computer.
 
 
-### ** REQUIREMENTS AND USER CASES**
+### **REQUIREMENTS AND USER CASES**
 
-#### ** USER CASES**
+#### **USER CASES**
 
 User stories are a way to look for needs and preferences that the users and/or clients that our project is aimed at want, we formulated many of the ones we have through reviews of a similar skill and testimonials from interested users. We decided to make them as well as the requirements since it is equally important the feedback from people for a project with constant maintenance.
 
@@ -70,7 +70,7 @@ User stories are a way to look for needs and preferences that the users and/or c
 * As an Alexa user, I want to be able to control other devices such as TVs to have more control over all my devices.
 
 
-#### ** REQUIREMENTS SPECIFICATION**
+#### **REQUIREMENTS SPECIFICATION**
 
 Requirements are a fundamental instrument in the correct development of a software project. They are of great help, both for the client and the development team, to have a concise vision of what features the product is required to have and how they relate to the user.
 
@@ -104,7 +104,7 @@ Due to the simplicity that represents the execution of our product, there are no
    * (NFR): The tutorial will open automatically when the user enters the corresponding addresses into the bot database.
 
 
-### ** PRIORIZATION METHOD**
+### **PRIORIZATION METHOD**
 
 We use the MoSCoW method to prioritize requirements and user stories. This method integrates very well with our team and project due to the agile methodology we use. The prioritization that MoSCoW handles is divided into 4 categories:
 
@@ -152,11 +152,11 @@ To make the prioritization as efficient as possible, we held a session with the 
 * As an Alexa user, I want to be able to ask questions in the comments area of the skill to help me solve my doubts.
 
 
-### ** USE CASE DIAGRAM**
+### **USE CASE DIAGRAM**
 
 ![Diagrama de casos de uso](Casos.png)
 
-### ** ARTIFACTS USED BY THE DEVELOPMENT TEAM**
+### **ARTIFACTS USED BY THE DEVELOPMENT TEAM**
 ---
 
 * [X] Google Forms.
@@ -164,7 +164,7 @@ To make the prioritization as efficient as possible, we held a session with the 
 * [X] Use case exceptions.
 * [X] Brainstorming.
 
-### ** USE CASE EXCEPTIONS**
+### **USE CASE EXCEPTIONS**
 
 1. If the user wants to name 2 devices the same way, the system will warn the user that a device with that name already exists.
 
@@ -174,7 +174,7 @@ To make the prioritization as efficient as possible, we held a session with the 
 
 4. In the event that the user enters the wrong IP and/or Mac address, the system will notify the user that the connection was not successful.
 
-## ** DEVELOPMENT PROCESS**
+## **DEVELOPMENT PROCESS**
 
 ### Methodology
 
