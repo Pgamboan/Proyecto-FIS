@@ -129,7 +129,7 @@ Due to the simplicity that represents the execution of our product, there are no
 
 <br>
 
-### **USE CASE DIAGRAM**
+### **Use Case Diagram**
 ---
 Use case diagrams are necessary to demonstrate in a simple way the communication, behavior and interaction of the system with the users or the different actors involved. Therefore, we chose to use this tool because of its simplicity and readability to understand the operation of our system; then, we defined the use cases and these were written in common/natural language, so that everyone who sees this diagram understands its basic operation.
 
@@ -139,7 +139,7 @@ Use case diagrams are necessary to demonstrate in a simple way the communication
 
 <br>
 
-### **ARTIFACTS USED BY THE DEVELOPMENT TEAM**
+### **Artifacts used by the development team.**
 ---
 An artifact is a tool deliberately created by the team to solve needs or facilitate certain tasks during the development process of a project. It can also be considered as a work product that provides a description and a definition for tangible work products, i.e. that are well defined.  
 
@@ -154,7 +154,7 @@ An artifact is a tool deliberately created by the team to solve needs or facilit
 
 <br>
 
-### **USE CASE EXCEPTIONS**
+### **Use Case Exceptions**
 
 1. If the user wants to name 2 devices the same way, the system will warn the user that a device with that name already exists.
 
@@ -164,9 +164,9 @@ An artifact is a tool deliberately created by the team to solve needs or facilit
 
 4. In the event that the user enters the wrong IP and/or Mac address, the system will notify the user that the connection was not successful.
 
-## **DEVELOPMENT PROCESS**
+## **Development Process**
 
-**METHODOLOGY**.
+**Methodology**
 
 
 The methodology implemented for the project was based on "SCRUM", which **was adapted to the project** because it is known as an agile methodology, it focuses on how the team members should work in order to produce a flexible system in a constantly changing environment.
@@ -177,7 +177,7 @@ Subsequently, the product backlog was established where the Product Owner establ
 
 <br>
 
-#### **TEAM ROLES:**
+#### **Team Roles:**
 ---
 
 Product Owner:
@@ -209,12 +209,12 @@ Within the process some team members performed 2 or more roles, i.e., there were
 
 <br>
 
-### **PROCESS MANAGEMENT** 
+### **Process Management** 
 ---
 
 <br>
 
-#### **MONITORING TOOLS**
+#### **Monitoring Tools**
 
 * Monday: Helped us to maintain order in the activities, noting the responsible parties, delivery times and status of the task.
 
@@ -230,7 +230,7 @@ Within the process some team members performed 2 or more roles, i.e., there were
 
 <br>
 
-#### **TASKS**
+#### **Tasks**
 ---
 
 
@@ -248,7 +248,7 @@ Thus, a contribution metric was contemplated within which each activity was prio
 
 <br>
 
-## **EVIDENCE OF MEETINGS**
+## **Evidence of Meetings**
 ---
 
 <br>
