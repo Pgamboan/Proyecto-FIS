@@ -26,7 +26,7 @@
 
 #### **Objective**
 
-We want to implement in Amazon Alexa, through the skills store, the use of the WoL (Wake on LAN) protocol to remotely turn on and off compatible computers or televisions automatically using voice. 
+We want to implement in Amazon Alexa, through the skill store, the use of WoL (Wake on Lan) protocol to remotely turn on and off all the compatible devices, automatically using only voice.
 
 
 #### **Project Reachability**
