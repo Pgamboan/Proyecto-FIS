@@ -50,7 +50,9 @@ Buscamos agilizar el encendido y apagado de las computadoras y laptops, utilizan
 <br>
 
 ## **Requerimientos e Historias de Usuario**
----
+
+<br>
+
 ### **MÉTODO DE PRIORIDAD**
 ---
 
