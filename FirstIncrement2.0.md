@@ -1,4 +1,4 @@
-# **ALEXA SKILL - WAKE ON LAN**
+# **ALEXA SKILL - WAKE ON LAN.**
 
 
 ![image](https://i.imgur.com/SqLLo7gl.png)
