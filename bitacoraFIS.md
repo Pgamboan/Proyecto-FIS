@@ -45,7 +45,7 @@
     * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
 
 ### Reunión 5 - Preparación para la videollamada con el mentor, aclaraciones entrega 1. 
-*Fecha: Miércoles, 6 de Octubre del 2021.*
+*Fecha: Miércoles, 6 de Octubre del 2021.* 
 * Descripción: Nos pusimos a revisar los avances de la entrega número uno y aclaramos las dudas del equipo y platicamos los últimos detalles que queríamos aterrizar con nuestro mentor José Luis.
 * Actividades: 
     * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
@@ -67,6 +67,7 @@
 
 
 ### Reunión 7 - Historias de usuario, Requerimientos y Markdown.
+#### Cierre de sprint #1 (dificultades, avances y logros) 
 *Fecha: Martes, 12 de Octubre del 2021.*
 * Descripción: En esta reunión el equipo discutió acerca de las historias de usuario y los métodos de prioridad. De igual manera empezamos a familiarizarnos con Markdown para empezar a añadir la información del proyecto en el repositorio de github.
 * Actividades: 
@@ -142,6 +143,7 @@
 
 
 ### Reunión 14 - Producto final y grabación del video.
+#### Cierre de sprint #2 (dificultades, avances y logros) 
 *Fecha: Martes, 20 de Octubre del 2021.(17:00 p.m.)*
 * Descripción: 
 * Actividades: 
