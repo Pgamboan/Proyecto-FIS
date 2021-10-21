@@ -404,8 +404,9 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 
 #### **General Proficiency** 
 -------
-**Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed. 
-  Communication in the sessions was done in an orderly and clear manner in order to achieve greater effectiveness in the ideas to be transmitted. In addition to this, several revisions were made in the wording of the whole project to achieve the same objective.
+* **Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** 
+* **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed.**
+* **Communication in the sessions was done in an orderly and clear manner in order to achieve greater effectiveness in the ideas to be transmitted. In addition to this, several revisions were made in the wording of the whole project to achieve the same objective.**
 * **Use ICTs in their professional interventions and in their personal lives in a relevant and responsible way:** 
 * **A wide range of tools were used in the project.
 * **A wide range of digital tools, such as Meet for team meetings; Monday for activity tracking and Excel for charting, were used to maximize workflow efficiency. 
