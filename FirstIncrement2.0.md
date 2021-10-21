@@ -139,7 +139,7 @@ Use case diagrams are necessary to demonstrate in a simple way the communication
 
 <br>
 
-### **ARTEFACTOS UTILIZADOS POR EL EQUIPO DE DESARROLLO**
+### **ARTIFACTS USED BY THE DEVELOPMENT TEAM**
 ---
 An artifact is a tool deliberately created by the team to solve needs or facilitate certain tasks during the development process of a project. It can also be considered as a work product that provides a description and a definition for tangible work products, i.e. that are well defined.  
 
@@ -297,7 +297,7 @@ Thus, a contribution metric was contemplated within which each activity was prio
     * Abraham Cruz - Elaboration of markdown cheatsheet. *(deadline: 10/12/2021)*
 
 ### Meeting 7 - User Stories, Requirements and Markdown.
-#### Sprint Closing #1
+#### Ending of Sprint #1
     * Challenges: Innovation, achievability and determining our customers.
     * Progress: Project description.
     * Achievements: We understood more in depth the objective of the project.
@@ -321,7 +321,7 @@ Thus, a contribution metric was contemplated within which each activity was prio
     * Abraham Cruz - Use case diagram. *(deadline: 10/16/2021) *(deadline: 10/16/2021)*
 
 ### Meeting 9 - Validation of project requirements.
-*Date: Saturday, October 16, 2021.
+*Date: Saturday, October 16th, 2021.
 * Description: Together we review the requirements specification document and begin to tie together the different parts of the project into the first delivery branch of the github repository.
 * Activities: 
     * Pablo Gamboa - Requirements verification. *(deadline: 10/18/2021)*
@@ -330,3 +330,98 @@ Thus, a contribution metric was contemplated within which each activity was prio
     * Diego Alamilla - Markdown merging progress . *(deadline: 10/18/2021)*
     * Abraham Cruz - Markdown progress merger. *(deadline: 10/18/2021)*
 
+### Meeting 10 - Redesign of MoSCoW requirements and method.
+*Date: Monday, October 18th, 2021.
+* Description: During this meeting we took care of modifying the last details of the requirements specification list, we found the need to remove several requirements that were not quite in line with our idea. We used the moscow method to prioritize the user stories. 
+* Activities: 
+    * Diego Alamilla - Prioritization of user stories. *(deadline: 10/19/2021)*
+    * Abraham Cruz - Prioritization of user stories. *(deadline: 10/19/2021)*
+    * Jose Chi - Requirements prioritization with MosCoW. *(deadline: 10/19/2021)*
+    * Diego Arreola - MosCoW requirements prioritization. *(deadline: 10/19/2021)*
+
+
+### Meeting 11 - Method of prioritization of requirements. 
+*Date: Tuesday, October 19th, 2021. (07:30 a.m.) *.
+* Description: In this meeting, we reviewed the prioritization of functional and non-functional requirements with the MoSCoW method and made the assignment of tasks within the Monday platform to keep track and get organized.
+* Activities: 
+    * Pablo Gamboa - Redesign of the customer section. *(deadline: 10/19/2021)*
+    * Diego Alamilla - Drafting of quality control method. *(deadline: 10/19/2021)*
+    * Diego Arreola - Writing of subject competencies. *(deadline: 10/19/2021)*
+
+
+### Meeting 12 - Preparation of the deliverable document.
+Date: Tuesday, October 19th, 2021 (18:00 p.m.)* * Description: We reviewed with the checklist the elements we had to fulfill.
+* Description: We reviewed with the checklist the elements that we had to comply with.
+* Activities: 
+    * Pablo Gamboa - Translation of the deliverable into English. *(deadline: 10/20/2021)* 
+    * Jose Chi - Description of the process. *(deadline: 10/20/2021)* 
+    * Diego Arreola - Prioritization method description. *(deadline: 10/20/2021)* 
+    * Diego Alamilla - Transcription of the metrics table to markdown. *(deadline: 10/20/2021)* 
+    * Abraham Cruz - Description of use case diagram. *(deadline: 10/20/2021)* 
+
+### Meeting 13 - Presentation of progress with the mentor. 
+*Date: Tuesday, October 20th, 2021 (08:00 a.m.)*.
+* Description: In this meeting we presented our document to Professor Jose Luis and received feedback and adjusted according to the correct specifications of the agile methodology. We also numbered all the user stories and non-functional requirements to relate them to each other. Finally we designated tasks to work on during the course of the day and present them in the afternoon meeting.
+* Activities: 
+    * Pablo Gamboa - Restructuring of the individual metrics table. *(deadline: 10/20/2021)*
+    * Jose Chi - Scrum Methodology.  *(deadline: 10/20/2021)*
+    * Diego Arreola - Detail the subject competencies.   *(deadline: 10/20/2021)*
+    * Diego Alamilla - Relate user stories with requirements.   *(deadline: 10/20/2021)*
+    * Abraham Cruz - Relate user stories with requirements.   *(deadline: 10/20/2021)*
+
+### Meeting 14 - Final product and video recording.
+#### Ending of Sprint #2 
+    * Difficulties: Coordinating assignments and reaching agreements with all the team regarding to the project specifications.
+    * Progress: Completed all the checklist items.
+    * Accomplishments: Broad understanding of the development process and learned the importance of correctly applying the SCRUM methodology. 
+Date: Tuesday, October 20th, 2021.(17:00 p.m.)* * Description: Presentation and finalization of the SCRUM methodology.
+* Description: Presentation and we finalized the contribution tracker.
+* Activities: 
+    * Pablo Gamboa - Contribution tracker and log detailing. *(deadline: 10/20/2021)*
+    Jose Chi - Finalize the description of the process, contribute to the presentation and editing of the video *(deadline: 10/20/2021)*
+    * Diego Arreola - Elaboration of the presentation. *(deadline: 10/20/2021)*
+    * Diego Alamilla - Document binding and quality control. *(deadline: 10/20/2021)*
+    * Abraham Cruz - Contribution tracker and markdown document ordering. *(deadline: 10/20/2021)*
+
+<br>
+
+
+**QUALITY CONTROL** **QUALITY CONTROL**
+---
+
+To verify the quality and that the project met our expectations, when performing tasks, we checked that all members of the team were in agreement with the result.
+If there were mistakes, correct them during the meetings to reach a common agreement. At the same time we were all helping and contributing 
+in the different parts of the project, contributing all the necessary knowledge to make it as complete as possible.
+
+During the completion of the activities and at the end, member Diego Alberto Alamilla Osorio, was in charge of reviewing and correcting syntax, order and writing errors if necessary. 
+syntax, order and wording if there were any. Thus ensuring to deliver a project as polished and meeting the required expectations.
+
+<br>
+
+## **Subject proficiency**.
+
+<br>
+
+**General Proficiency** 
+-------
+Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** ** **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed. 
+  Communication in the sessions was done in an orderly and clear manner in order to achieve greater effectiveness in the ideas to be transmitted. In addition to this, several revisions were made in the wording of the whole project to achieve the same objective.
+* Use ICTs in their professional interventions and in their personal lives in a relevant and responsible way:** ** A wide range of tools were used in the project.
+  A wide range of digital tools, such as Meet for team meetings; Monday for activity tracking and Excel for charting, were used to maximize workflow efficiency. 
+Manages knowledge in their professional interventions and in their personal lives, in a relevant way:** ** **Knowledge and skills of the team are managed in a relevant way.
+The team's knowledge and skills were maximized in the development of the activities, the elaboration of files and the presentation of progress required skills and knowledge. Knowledge was shared in team sessions so that we all had an equal understanding of what we wanted to accomplish and how we planned to do it.
+* Work with others in multi-, inter- and trans-disciplinary environments in a cooperative manner.
+ Each team member took on activities that made the most of the skills and knowledge they possessed, and worked together so that the workload was distributed in an equitable and balanced manner.
+
+<br>
+
+### **Specific Proficiency** 
+-----
+* **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline:** ** **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline
+ Information from the relevant phases at the current stage of the project was used to direct the development of the project. The progress of the project progressed as the classes helped us to understand the information and the research that the members did on their own.
+* Identify the human factors involved in software development processes that affect the success of software projects.
+  We took into account the strengths and weaknesses of the team members when assigning roles and tasks. We also organized meetings that were adjusted to the schedules of all team members, to present progress and complement the development of activities.
+The team members adequately used the terminology of Software Engineering in their professional interventions:** ** **With the research done by the members of the team.
+With the research done by the team members, we tried to use in the best way the terms relevant to the project. More advanced issues needed the support of the team tutor who guided us, recommended readings and paths we could take to have a better understanding of these concepts.
+
+<br>
