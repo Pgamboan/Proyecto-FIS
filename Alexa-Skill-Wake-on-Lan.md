@@ -1,6 +1,6 @@
 # **ALEXA SKILL - WAKE ON LAN**
 
-![Portada](portada.jpg)
+![Portada](portada1.png)
 
 <br>
 
