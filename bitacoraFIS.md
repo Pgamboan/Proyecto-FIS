@@ -94,44 +94,43 @@
 *Fecha: Martes, 19 de Octubre del 2021. (07:30 a.m.) *
 * Descripción: En esta reunión, revisamos la priorización los requerimientos funcionales y no funcionales con el método MoSCoW y se hizo la asignación de tareas dentro de la plataforma Monday para llevar el registro y organizarnos.
 * Actividades: 
-    * Pablo Gamboa - Rediseño del apartado de clientes. *(fecha limite: 27/09/2021)*
-    * Diego Alamilla - Redacción de método de control de calidad. *(fecha limite: 27/09/2021)*
-    * Jose Chi - Priorización de requerimientos con MosCoW. *(fecha limite: 19/10/2021)*
-    * Diego Arreola - Priorización de requerimientos con MosCoW. *(fecha limite: 19/10/2021)*
+    * Pablo Gamboa - Rediseño del apartado de clientes. *(fecha limite: 19/10/2021)*
+    * Diego Alamilla - Redacción de método de control de calidad. *(fecha limite: 19/10/2021)*
+    * Diego Arreola - Redacción de competencias de la asignatura. *(fecha limite: 19/10/2021)*
 
 
 ### Reunión 12 - Elaboración del documento entregable.
 *Fecha: Martes, 19 de Octubre del 2021.(18:00 p.m.)*
 * Descripción: Revisamos con la lista de cotejo los elementos que debíamos de cumplir.
 * Actividades: 
-    * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
-    * Jose Chi - actividad *(fecha limite: 27/09/2021)*
-    * Diego Arreola - actividad *(fecha limite: 27/09/2021)*
-    * Diego Alamilla - actividad *(fecha limite: 27/09/2021)*
-    * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
+    * Pablo Gamboa - Traducción del entregable a inglés. *(fecha limite: 20/10/2021)*
+    * Jose Chi - Descripción del proceso. *(fecha limite: 20/10/2021)*
+    * Diego Arreola - Descripción del metodo de prioridad. *(fecha limite: 20/10/2021)*
+    * Diego Alamilla - Transcripción de la tabla de métricas a markdown. *(fecha limite: 20/10/2021)*
+    * Abraham Cruz - Descripción de diagrama de casos de uso. *(fecha limite: 20/10/2021)*
 
 
 ### Reunión 13 - Presentacion de avances con el mentor. 
 *Fecha: Martes, 20 de Octubre del 2021.(08:00 a.m.)*
 * Descripción: En esta reunión le presentamos nuestro documento al profesor José Luis y recibimos retroalimentación y se ajustó acorde a las especificaciones correctas de la metodología ágil. De igual manera numeramos todas las historias de usuario y los requerimientos no funcionales para relacionarlos entre sí. Finalmente designamos tareas para trabajar en el transcurso del día y presentarlas en la reunión de la tarde.
 * Actividades: 
-    * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
-    * Jose Chi - actividad *(fecha limite: 27/09/2021)*
-    * Diego Arreola - actividad *(fecha limite: 27/09/2021)*
-    * Diego Alamilla - actividad *(fecha limite: 27/09/2021)*
-    * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
+    * Pablo Gamboa - Restructuración de la tabla de métricas individuales. *(fecha limite: 20/10/2021)*
+    * Jose Chi - Metodología Scrum. *(fecha limite: 20/10/2021)*
+    * Diego Arreola - Detallar las competencias de la asignatura. *(fecha limite: 20/10/2021)*
+    * Diego Alamilla - Relacionar historias de usuario con requerimientos. *(fecha limite: 20/10/2021)*
+    * Abraham Cruz - Relacionar historias de usuario con requerimientos. *(fecha limite: 20/10/2021)*
 
 
 ### Reunión 14 - Producto final y grabación del video.
-#### Cierre de sprint #2 (dificultades, avances y logros) 
-    * Dificultades: 
-    * Avances: 
-    * Logros: 
+#### Cierre de sprint #2 
+    * Dificultades: Coordinar las asignaciones y lograr acuerdos sobre las especificaciones del proyecto.
+    * Avances: Terminamos todos los rubros de la lista de cotejo.
+    * Logros: Entendimiento amplio del proceso de desarrollo y aprendimos la importancia de aplicar correctamente la metodología SCRUM. 
 *Fecha: Martes, 20 de Octubre del 2021.(17:00 p.m.)*
 * Descripción: Presentación y finalizamos el contribution tracker.
 * Actividades: 
-    * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
-    * Jose Chi - actividad *(fecha limite: 27/09/2021)*
-    * Diego Arreola - actividad *(fecha limite: 27/09/2021)*
-    * Diego Alamilla - actividad *(fecha limite: 27/09/2021)*
-    * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
+    * Pablo Gamboa - Contribution tracker y detallamiento de la bitácora. *(fecha limite: 20/09/2021)*
+    * Jose Chi - Finalizar la descripción del proceso, contribuir a la presentación y edición del video *(fecha limite: 20/09/2021)*
+    * Diego Arreola - Elaboración de la presentación. *(fecha limite: 20/09/2021)*
+    * Diego Alamilla - Unión y control de calidad del documento. *(fecha limite: 20/09/2021)*
+    * Abraham Cruz - Contribution tracker y ordenar el documento en markdown. *(fecha limite: 20/09/2021)*
