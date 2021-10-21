@@ -51,7 +51,7 @@ We determined that the users of our skill are all those people who have an Amazo
 
 #### **Customers**
 
-As such we do not have a specific customer because there is no external person interested in the development behind the project. So we decided that basically our future users will be considered as our customers. Therefore we will use surveys and forms to survey potential customers and be able to provide in a good way the requirements and features that a customer demands to give depth to the development of the project. 
+As such we do not have a specific customer because there is no external person interested in the development behind the project. We basically decided that our future users will be considered as our customers. Therefore we will use surveys and forms to survey potential customers and be able to provide in a good way the requirements and features that a customer demands to give depth to the development of the project. 
 
 
 #### **Innovation/Creativity**
