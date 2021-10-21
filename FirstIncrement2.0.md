@@ -97,8 +97,8 @@ User stories are a way to look for needs and preferences that the users and/or c
 
 Requirements are a fundamental instrument in the correct development of a software project. They are of great help, both for the client and the development team, to have a concise vision of what features the product is required to have and how they relate to the user.
 
-###### (FR) stands for "Functional Requirements".
-###### (NFR) stands for "Non Functional Requirements".
+###### (FR) stands for *"Functional Requirements".*
+###### (NFR) stands for *"Non Functional Requirements".*
 
 Due to the simplicity that represents the execution of our product, there are not a large number of requirements that we could devise, but we made them in a way that they fulfill the main characteristics of a requirement. After an extended process of discussion, elaboration and verification, we have agreed on the following requirements for our project:
 
