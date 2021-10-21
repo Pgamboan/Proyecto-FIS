@@ -190,6 +190,21 @@ Dentro del proceso algunos miembros del equipo realizaban 2 o más roles, es dec
 
 ### **GESTIÓN DEL PROCESO** 
 
+#### **Herramientas de monitoreo**
+
+* Monday: Nos ayudo a mantener un orden en las actividades, anotando los responsables, horas de entrega y estado de la tarea
+
+*	Google Meet: Usamos la plataforma para realizar reuniones con el tutor y de equipo para trabajar en conjunto y presentar avances
+
+* WhatsApp: Nos comunicamos para concretar reuniones, dar avisos y resolver dudas del equipo
+
+*	Github: Usamos Markdown para elaborar los archivos, almacenando y organizando en el repositorio las contribuciones de cada integrante del equipo 
+
+* Excel: Nos ayudo en la creacion de tablas
+
+* Word: Elaboramos archivos es esta aplicacion mientras nos familiarizabamos con Markdown
+
+
 #### **Tareas**
 
 
@@ -205,20 +220,6 @@ Dentro del Sprint : Development, se elaboraron las actividades siguientes:
 
 Así pues se contempló una metrica de contribución dentro de la cual se priorizó cada una de las actividades de acuerdo a su relevancia al proyecto. [Haga click para ir a la tabla](https://i.imgur.com/7urBGDJ.png)
 
-
-#### **Herramientas de monitoreo**
-
-* Monday: Nos ayudo a mantener un orden en las actividades, anotando los responsables, horas de entrega y estado de la tarea
-
-*	Google Meet: Usamos la plataforma para realizar reuniones con el tutor y de equipo para trabajar en conjunto y presentar avances
-
-* WhatsApp: Nos comunicamos para concretar reuniones, dar avisos y resolver dudas del equipo
-
-*	Github: Usamos Markdown para elaborar los archivos, almacenando y organizando en el repositorio las contribuciones de cada integrante del equipo 
-
-* Excel: Nos ayudo en la creacion de tablas
-
-* Word: Elaboramos archivos es esta aplicacion mientras nos familiarizabamos con Markdown
 
 ### **EVIDENCIA DE REUNIONES**
 
