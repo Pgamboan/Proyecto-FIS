@@ -407,7 +407,7 @@ We are currently using a GitHHub repository in which we´re able to update our p
 The contribution tables are divided into two major sections, one dedicated to measure the performance and compromise of all the members with each of the activities that are assigned and we can also measure how important for the development a task is.
 
 #### Verification of the contribution percentage: 
-In order to verify and getting a contribution percentage we build a table called "Contribution Tracker". With this tool we can ponderate between tasks completed, relevance of the tasks that were assigned, how well the member performed in his assignment and if he attended to all the meetings the group had. After all with a ponderation we get the contribution percentage of every member of the team. 
+In order to verify and getting a contribution percentage we build a table called "Contribution Tracker". With this tool we can measure between tasks completed, relevance of the tasks that were assigned, how well the member performed in his assignment and if he attended to all the meetings the group had. After all with a ponderation we get the contribution percentage of every member of the team. 
 
 <br>
 
