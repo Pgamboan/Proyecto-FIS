@@ -23,7 +23,8 @@ Métrica para determinar la relevancia, según la actividad:
 | Armado del documento final                      |  2  |       |         |          |          |    x     |
 | Elaboración de la presentación primera entrega  |  2  |       |         |          |          |    x     |
 | Control de calidad                              |  3  |       |         |          |     x    |          |
-| **Promedio ponderado de relevancia:**      | **2.2** |        |        |          |        |            |
+| **Promedio de relevancia:**      | **2.2**  |        |        |          |          |          |
+| **Promedio de desempeño:**      | **4.55**  |        |        |          |          |          |
 
 #### PABLO GAMBOA NIETO
 
@@ -36,14 +37,16 @@ Métrica para determinar la relevancia, según la actividad:
 | Elaboración del google forms           |  2  |        |          |         |          |    x     |
 | Registro y actualización de la bitácora|  3  |        |          |         |          |    x     |
 | Especificación de RNF                  |  2  |        |          |    x    |          |          |
-| Rediseño de requerimientos             |  3  |        |          |         |     x    |          |
+| Rediseño de requerimientos             |  3  |        |          |         |          |    x     |
 | Estructuración de las metricas de contribución individual  |  2  |         |          |    x     |          |          |
 | Redacción de artefactos                |  2  |        |          |         |     x    |          |
 | Traducción del repo a inglés           |  1  |        |          |         |          |    x     |
 | Contribution tracker                   |  3  |        |          |         |          |    x     |
 | Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    x     |
 | Participación en el video/exposición   |  3  |        |          |         |          |    x     |
-| **Promedio ponderado de relevancia:** |  **2.25** |                 |          |          |          |         |
+| **Promedio de relevancia:** |  **2.25** |             |          |         |          |          |
+| **Promedio de desempeño:**  | **4.66**  |        |        |          |          |          |
+
 
 
 #### ABRAHAM RAYMUNDO CRUZ COLLI
@@ -53,15 +56,16 @@ Métrica para determinar la relevancia, según la actividad:
 | ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
 |     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
 |Presentación de ideas           |  1  |          |           |          |           |     X     |
-|Objetivo, limitaciones y alcances |  3  |          |           |          |     X     |           |
+|Objetivo, limitaciones y alcances|  3  |         |           |          |     X     |           |
 |Sintaxis de Markdown            |  1  |          |           |          |           |     X     |
 |Diagrama de casos de uso        |  3  |          |           |          |      X    |           |
-|Priorizar historias de usuario  |  2  |          |           |         |           |      X     |
-|Descripción Diagrama de casos de uso|  2  |        |       |       |     |    X   |           |
-|Contribution Tracker               |   3   |       |       |       |   X    |       |    
-|Relacionar Historias de Usuario - Requerimientos|  3  |       |       |       |   X   |       |
+|Priorizar historias de usuario  |  2  |          |           |          |           |     X     |
+|Descripción Diagrama de casos de uso|   2   |        |       |       |        |   X   |         |
+|Contribution Tracker                |   3   |        |       |       |   X    |       |    
+|Relacionar Historias de Usuario - Requerimientos|  3  |       |       |       |   X   |          |
 |Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    x     |
-| **Promedio ponderado de relevancia:**  | **2.22** |         |         |         |         |        |
+| **Promedio de relevancia:**  | **2.22** |      |         |         |         |        |
+| **Promedio de desempeño:**   | **4.44** |        |        |          |          |          |
 
 #### JOSE-CHI QUINTAL
 
@@ -70,7 +74,7 @@ Métrica para determinar la relevancia, según la actividad:
 | ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
 |     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
 | Presentación de ideas           |  1  |         |           |            |             |      X      |
-| Redacción de objetivo, limites y alcances  |  3  |         |           |            |             |      X      |
+| Redacción de objetivo, limites y alcances  |  3 |           |            |             |             |      X      |
 | Gestión de Monday.com           |  2  |         |           |            |      X      |             |
 | Gestión del proceso             |  3  |         |           |            |      X      |             |
 | Rediseño de los RF y RNF        |  3  |         |           |            |             |      X      |
@@ -78,7 +82,8 @@ Métrica para determinar la relevancia, según la actividad:
 | Redacción Metodología SCRUM     |  2  |         |           |            |             |      X      |
 | Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
 | Edición del video/exposición    |  2  |         |          |         |          |    X    |
-| **Promedio ponderado de relevancia:** | **2.22** |         |              |                 |                  |               |
+| **Promedio de relevancia:** | **2.22** |         |              |                 |                  |               |
+| **Promedio de desempeño:**   | **4.77** |        |        |          |          |          |
 
 #### DIEGO ARREOLA HERNÁNDEZ
 
@@ -99,4 +104,5 @@ Métrica para determinar la relevancia, según la actividad:
 | Gestion del proceos                |  3  |         |          |     X       |              |            |
 | Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
 | Participación en el video/exposición   |  3  |        |          |         |          |    X     |
-| **Promedio ponderado de relevancia:** | **2.3**  |          |        |         |         |         |
+| **Promedio de relevancia:** | **2.3**  |          |        |         |         |         |
+| **Promedio de desempeño:**   | **4.38** |        |        |          |          |          |
