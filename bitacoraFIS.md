@@ -1,5 +1,5 @@
 
-# **Bitacora Proyecto FIS**
+# **Bitácora Proyecto FIS**
 
 ### Reunión 1 - Integración
 *Fecha: Martes, 21 de Septiembre del 2021.*
