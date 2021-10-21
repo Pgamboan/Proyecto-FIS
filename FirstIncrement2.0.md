@@ -92,7 +92,7 @@ User stories are a way to look for needs and preferences that the users and/or c
 * US007: As an Alexa user, I want to control multiple devices for more control and convenience. **(C)**
 * US008: As an Alexa user, I want to be able to ask questions within the comments area of the skill to help me solve my doubts. **(W)**
 
-### **REQUIREMENTS SPECIFICATION**
+### **Requirements Specification**
 --- 
 
 Requirements are a fundamental instrument in the correct development of a software project. They are of great help, both for the client and the development team, to have a concise vision of what features the product is required to have and how they relate to the user.
@@ -266,17 +266,67 @@ Thus, a contribution metric was contemplated within which each activity was prio
 * Activity: General research of proposals. *(deadline: 09/30/2021)*.
 
 ### Meeting 3 - Proposals / Project Selection
-*Date: Thursday, September 30, 2021.
+*Date: Thursday, September 30th, 2021.
 * Description: For this meeting, each of us came with a proposal that had caught our attention and the point was to try to convince the rest of the team why that project was the best, in the end we took a vote and chose Alexa's skill.
 * Activities: No activities were designated at this meeting.
 
 
 ### Meeting 4 - Review of checklist and delivery 1.
-* Date: Sunday, October 3, 2021.
+* Date: Sunday, October 3rd, 2021.
 * Description: We started by going through the checklist of the whole project to be clear about what we should do, after that we assigned tasks to start the first deliverable.
 * Activities: 
-    * Pablo Gamboa - Clients and users *(deadline: 6/10/2021)*
-    * Jose Chi - Objective, scope and limitations. (deadline: 6/10/2021)*
-    * Diego Arreola - Innovation and creativity. *(deadline: 6/10/2021)* 
-    * Diego Alamilla - Innovation and creativity. *(deadline: 6/10/2021)* 
-    * Abraham Cruz - Objective, scope and limitations. *(deadline: 6/10/2021)* 
+    * Pablo Gamboa - Clients and users *(deadline: 10/06/2021)*
+    * Jose Chi - Objective, scope and limitations. (deadline: 10/06/2021)*
+    * Diego Arreola - Innovation and creativity. *(deadline: 10/06/2021)* 
+    * Diego Alamilla - Innovation and creativity. *(deadline: 10/06/2021)* 
+    * Abraham Cruz - Objective, scope and limitations. *(deadline: 10/06/2021)* 
+
+### Meeting 5 - Preparation for video call with mentor, clarifications sprint 1. 
+*Date: Wednesday, October 6th, 2021. 
+* Description: We reviewed the progress of deliverable number one, clarified the team's doubts and discussed the last details we wanted to land with our mentor Jose Luis.
+* Activities: No tasks were designated in this meeting.
+
+
+### Meeting 6 - First contact with the mentor, receive feedback on the project.
+*Date: Wednesday, October 6th, 2021 * Description: We met our mentor Jose Luis.
+* Description: We met our mentor Jose Luis and introduced him to our project idea, we talked about the scope and limitations of the project, we also downloaded the app "monday" to keep track of the progress for the activities.
+* Activities: 
+    * Pablo Gamboa Nieto - Elaboration of the google forms. *(deadline: 10/12/2021)*
+    * Jose Chi - Tracking tool configuration. *(deadline: 10/12/2021)* 
+    * Diego Alamilla - Quality control review. *(deadline: 10/12/2021)* 
+    * Abraham Cruz - Elaboration of markdown cheatsheet. *(deadline: 10/12/2021)*
+
+### Meeting 7 - User Stories, Requirements and Markdown.
+#### Sprint Closing #1
+    * Challenges: Innovation, achievability and determining our customers.
+    * Progress: Project description.
+    * Achievements: We understood more in depth the objective of the project.
+* Date: Tuesday, October 12th, 2021 * Date: Tuesday, October 12, 2021 * Date: Tuesday, October 12, 2021 * Date.
+* Description: In this meeting the team discussed user stories and prioritization methods. We also started to familiarize ourselves with Markdown to start adding the project information to the Github repository.
+* Activities: 
+    * Pablo Gamboa - Add log to the repository and investigate non-functional requirements. * (deadline: 10/14/2021)* 
+    * Jose Chi - Writing user stories. *(deadline: 10/14/2021)* 
+    * Diego Arreola - Functional requirements research. *(deadline: 10/14/2021)*
+    * Diego Alamilla - User story writing. *(deadline: 10/14/2021)*
+    * Abraham Cruz - In-depth investigation of the operation of a use case diagram. *(deadline: 10/14/2021)*
+
+### Meeting 8 - Elaboration of branches for individual contributions in Markdown. 
+*Date: Thursday, October 14th, 2021.
+* Description: In this meeting we form different branches for each team member to keep a control panel in the repository, we start the elaboration of the markdown previews and clarify the concept of the use case diagram.
+* Activities: 
+    * Pablo Gamboa - Add the first version of the repository requirements. *(deadline: 10/16/2021)*
+    * Jose Chi - Add the user stories to the repository. *(deadline: 10/16/2021)* 
+    * Diego Arreola - Add the first version of the repository requirements. *(deadline: 10/16/2021)*
+    * Diego Alamilla - Add product description to the repository. *(deadline: 10/16/2021)*
+    * Abraham Cruz - Use case diagram. *(deadline: 10/16/2021) *(deadline: 10/16/2021)*
+
+### Meeting 9 - Validation of project requirements.
+*Date: Saturday, October 16, 2021.
+* Description: Together we review the requirements specification document and begin to tie together the different parts of the project into the first delivery branch of the github repository.
+* Activities: 
+    * Pablo Gamboa - Requirements verification. *(deadline: 10/18/2021)*
+    * Jose Chi - Requirements verification. *(deadline: 10/18/2021)*
+    * Diego Arreola - Verification of requirements. *(deadline: 10/18/2021)*
+    * Diego Alamilla - Markdown merging progress . *(deadline: 10/18/2021)*
+    * Abraham Cruz - Markdown progress merger. *(deadline: 10/18/2021)*
+
