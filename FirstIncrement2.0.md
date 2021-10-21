@@ -131,16 +131,28 @@ Due to the simplicity that represents the execution of our product, there are no
 
 ### **USE CASE DIAGRAM**
 ---
+Use case diagrams are necessary to demonstrate in a simple way the communication, behavior and interaction of the system with the users or the different actors involved. Therefore, we chose to use this tool because of its simplicity and readability to understand the operation of our system; then, we defined the use cases and these were written in common/natural language, so that everyone who sees this diagram understands its basic operation.
 
-![Diagrama de casos de uso](Casos.png)
+<br>
 
-### **ARTIFACTS USED BY THE DEVELOPMENT TEAM**
+![Diagrama de casos de uso](https://i.imgur.com/pro31ZN.png)
+
+<br>
+
+### **ARTEFACTOS UTILIZADOS POR EL EQUIPO DE DESARROLLO**
 ---
+An artifact is a tool deliberately created by the team to solve needs or facilitate certain tasks during the development process of a project. It can also be considered as a work product that provides a description and a definition for tangible work products, i.e. that are well defined.  
 
-* [X] Google Forms.
-* [X] Use case diagram.
-* [X] Use case exceptions.
-* [X] Brainstorming.
+* User stories with acceptance criteria (Google Forms): Online forms are an excellent way to reach a specific audience. In our case it was very useful because the results of the online survey are ready to be analyzed at any time and it was a great reference for us to make the user stories. Below we will attach some images that demonstrate the use of this tool.
+
+![grafico](https://i.imgur.com/MQKkYnT.jpeg)
+![grafico](https://i.imgur.com/zjUi6H2.jpeg)
+![grafico](https://i.imgur.com/u39HJW9.jpeg)
+
+* Use case exceptions: Exceptions were paramount because they helped us to identify potential situations in which we need to prevent in the use case. We anticipated errors that could occur during the execution of the use case.
+* Brainstorming: Brainstorming allowed each team member to think more freely. This practice encourages open and continuous collaboration to solve problems and generate innovative ideas. Brainstorming was instrumental in quickly generating a large number of ideas, which can be refined and merged to create the ideal solution for the project.
+
+<br>
 
 ### **USE CASE EXCEPTIONS**
 
