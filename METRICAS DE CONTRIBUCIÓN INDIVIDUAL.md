@@ -14,17 +14,17 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-| Presentación de ideas                        |  1  |          |         |          |          |    x     |
-| Innovación y Creatividad                     |  3  |          |         |          |     x    |          |
-| Tablas de contribución individual (Markdown) |  3  |          |         |          |          |     x    |
-| Priorizar historias de usuario               |  2  |          |         |          |          |     x    |
-| Redacción de Historias de Usuario            |  1  |          |         |      x   |          |          |
-| Relacionar Historias de Usuario - Requerimientos|  3  |       |         |          |          |    x     |
-| Armado del documento final                      |  2  |       |         |          |          |    x     |
-| Elaboración de la presentación primera entrega  |  2  |       |         |          |          |    x     |
-| Control de calidad                              |  3  |       |         |          |     x    |          |
-| **Average of relevance:**      | **2.2**  |        |        |          |          |          |
-| **Average of performance:**    | **4.55**  |        |        |          |          |          |
+| Presentation of ideas                        |  1  |          |         |          |          |    x     |
+| Innovation and creativity                   |  3  |          |         |          |     x    |          |
+| Individual contribution table (Markdown) |  3  |          |         |          |          |     x    |
+| Prioritize user stories               |  2  |          |         |          |          |     x    |
+| Drafting User Stories            |  1  |          |         |      x   |          |          |
+| Relate User Stories - Requirements|  3  |       |         |          |          |    x     |
+| Final document assembly                      |  2  |       |         |          |          |    x     |
+| Preparation of the presentation   |  2  |       |         |          |          |    x     |
+| Quality control                              |  3  |       |         |          |     x    |          |
+| **Relevance average:**      | **2.2**  |        |        |          |          |          |
+| **Performance average:**    | **4.55**  |        |        |          |          |          |
 
 #### PABLO GAMBOA NIETO
 
@@ -32,20 +32,20 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-| Presentación de ideas                  |  1  |        |          |         |          |    x     |
-| Redacción de usuarios y clientes       |  3  |        |          |         |     x    |          |
-| Elaboración del google forms           |  2  |        |          |         |          |    x     |
-| Registro y actualización de la bitácora|  3  |        |          |         |          |    x     |
-| Especificación de RNF                  |  2  |        |          |    x    |          |          |
-| Rediseño de requerimientos             |  3  |        |          |         |          |    x     |
-| Estructuración de las metricas de contribución individual  |  2  |         |          |    x     |          |          |
-| Redacción de artefactos                |  2  |        |          |         |     x    |          |
-| Traducción del repo a inglés           |  1  |        |          |         |          |    x     |
+| Presentation of ideas                  |  1  |        |          |         |          |    x     |
+| Drafting of user and costumers  |  3  |        |          |         |     x    |          |
+| Making of the google forms           |  2  |        |          |         |          |    x     |
+| Recording and updating the logbook |  3  |        |          |         |          |    x     |
+| NRF Drafting                  |  2  |        |          |    x    |          |          |
+| Redesign requirements             |  3  |        |          |         |          |    x     |
+| Structuring of individual contribution metrics  |  2  |         |          |    x     |          |          |
+| Description of artifacts               |  2  |        |          |         |     x    |          |
+| Transalation         |  1  |        |          |         |          |    x     |
 | Contribution tracker                   |  3  |        |          |         |          |    x     |
-| Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    x     |
-| Participación en el video/exposición   |  3  |        |          |         |          |    x     |
-| **Promedio de relevancia:** |  **2.25** |             |          |         |          |          |
-| **Promedio de desempeño:**  | **4.66**  |        |        |          |          |          |
+| Preparation of the presentation  |  2  |          |         |          |          |    x     |
+| Being part of the video   |  3  |        |          |         |          |    x     |
+| **Relevance average:** |  **2.25** |             |          |         |          |          |
+| **Performance average:**  | **4.66**  |        |        |          |          |          |
 
 
 
@@ -55,17 +55,17 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|Presentación de ideas           |  1  |          |           |          |           |     X     |
-|Objetivo, limitaciones y alcances|  3  |         |           |          |     X     |           |
-|Sintaxis de Markdown            |  1  |          |           |          |           |     X     |
-|Diagrama de casos de uso        |  3  |          |           |          |      X    |           |
-|Priorizar historias de usuario  |  2  |          |           |          |           |     X     |
-|Descripción Diagrama de casos de uso|   2   |        |       |       |        |   X   |         |
+|Presentation of ideas           |  1  |          |           |          |           |     X     |
+|Objective, limitations and scope|  3  |         |           |          |     X     |           |
+|Markdown syntax review        |  1  |          |           |          |           |     X     |
+|Use cases Diagram       |  3  |          |           |          |      X    |           |
+|Prioritize user stories   |  2  |          |           |          |           |     X     |
+|Description of the Use cases Diagram |   2   |        |       |       |        |   X   |         |
 |Contribution Tracker                |   3   |        |       |       |   X    |       |    
-|Relacionar Historias de Usuario - Requerimientos|  3  |       |       |       |   X   |          |
-|Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    x     |
-| **Promedio de relevancia:**  | **2.22** |      |         |         |         |        |
-| **Promedio de desempeño:**   | **4.44** |        |        |          |          |          |
+|Relate User Stories - Requirements|  3  |       |       |       |   X   |          |
+| Preparation of the presentation  |  2  |          |         |          |          |    x     |
+| **Relevance average:**  | **2.22** |      |         |         |         |        |
+| **Performance average:**   | **4.44** |        |        |          |          |          |
 
 #### JOSE-CHI QUINTAL
 
@@ -73,17 +73,17 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-| Presentación de ideas           |  1  |         |           |            |             |      X      |
-| Redacción de objetivo, limites y alcances  |  3 |           |            |             |             |      X      |
-| Gestión de Monday.com           |  2  |         |           |            |      X      |             |
-| Gestión del proceso             |  3  |         |           |            |      X      |             |
-| Rediseño de los RF y RNF        |  3  |         |           |            |             |      X      |
-| Priorizar requerimientos        |  2  |         |           |            |             |      X      |
-| Redacción Metodología SCRUM     |  2  |         |           |            |             |      X      |
-| Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
-| Edición del video/exposición    |  2  |         |          |         |          |    X    |
-| **Promedio de relevancia:** | **2.22** |         |              |                 |                  |               |
-| **Promedio de desempeño:**   | **4.77** |        |        |          |          |          |
+| Presentation of ideas           |  1  |         |           |            |             |      X      |
+| Objective, limitations and scopes  |  3 |           |            |             |             |      X      |
+| Monday.com Management           |  2  |         |           |            |      X      |             |
+| Process management             |  3  |         |           |            |      X      |             |
+| Redesign requirements         |  3  |         |           |            |             |      X      |
+| Prioritize requirements    |  2  |         |           |            |             |      X      |
+| Drafting SCRUM methodology    |  2  |         |           |            |             |      X      |
+|  Preparation of the presentation  |  2  |          |         |          |          |    X     |
+| Video edition    |  2  |         |          |         |          |    X    |
+| **Relevance average:** | **2.22** |         |              |                 |                  |               |
+| **Performance average:**   | **4.77** |        |        |          |          |          |
 
 #### DIEGO ARREOLA HERNÁNDEZ
 
@@ -91,18 +91,18 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-| Presentación de ideas        |  1  |         |          |            |              |      X      |
-| Innovación y Creatividad     |  3  |         |          |            |              |      X      |
-| Historias de casos de uso    |  3  |         |          |            |              |      X      |
-| Requerimientos Funcionales   |  2  |         |          |      X      |              |             |
-| Excepciones de casos de uso  |  2  |         |          |            |       X      |             |
-| Rediseño de los RF y RNF     |  3  |         |          |            |              |      X      |
-| Priorizar requerimientos     |  2  |         |          |            |              |      X      |
-| Competencias de la asignatura     |  2  |         |          |            |              |      X      |
-| Descripción de requerimientos     |  2  |         |          |            |       X       |            |
-| Descripción del metodo de prioridad |  2  |         |          |            |        X      |            |
-| Gestion del proceos                |  3  |         |          |     X       |              |            |
-| Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
-| Participación en el video/exposición   |  3  |        |          |         |          |    X     |
-| **Promedio de relevancia:** | **2.3**  |          |        |         |         |         |
-| **Promedio de desempeño:**   | **4.46**|          |        |         |         |         |
+| Presentation of ideas        |  1  |         |          |            |              |      X      |
+| Innovation and creativity       |  3  |         |          |            |              |      X      |
+| Use case stories    |  3  |         |          |            |              |      X      |
+| Functional requirements  |  2  |         |          |      X      |              |             |
+| Use cases exceptions  |  2  |         |          |            |       X      |             |
+| Redesign requirements      |  3  |         |          |            |              |      X      |
+| Prioritize requirements    |  2  |         |          |            |              |      X      |
+| Subject proficiency     |  2  |         |          |            |              |      X      |
+| Requirements description    |  2  |         |          |            |       X       |            |
+| Description of priority method |  2  |         |          |            |        X      |            |
+| Process management                |  3  |         |          |     X       |              |            |
+| Preparation of the presentation  |  2  |          |         |          |          |    X     |
+| Being part of the video  |  3  |        |          |         |          |    X     |
+| **Relevance average:** | **2.3**  |          |        |         |         |         |
+| **Performance average:**   | **4.46**|          |        |         |         |         |
