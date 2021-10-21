@@ -400,7 +400,11 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 
 ### **TeamWork**
 ---
+#### Repository: 
 
+#### Metric of individual contribution: 
+
+#### Verification of the contribution percentage: 
 
 ### **Subject proficiency**.
 
