@@ -13,7 +13,7 @@
 * Pablo Gamboa Nieto
 * José de Jesús Chi Quintal
 * Diego Francisco Arreola Hernández
-* Diego Alberto Alamilla Orosco
+* Diego Alberto Alamilla Osorio
 * Abraham Raymundo Cruz Colli
 
 
