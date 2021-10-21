@@ -327,8 +327,8 @@ Thus, a contribution metric was contemplated within which each activity was prio
     * Pablo Gamboa - Requirements verification. *(deadline: 10/18/2021)*
     * Jose Chi - Requirements verification. *(deadline: 10/18/2021)*
     * Diego Arreola - Verification of requirements. *(deadline: 10/18/2021)*
-    * Diego Alamilla - Markdown merging progress . *(deadline: 10/18/2021)*
-    * Abraham Cruz - Markdown progress merger. *(deadline: 10/18/2021)*
+    * Diego Alamilla - Markdown merging progress. *(deadline: 10/18/2021)*
+    * Abraham Cruz - Markdown merging progress. *(deadline: 10/18/2021)*
 
 ### Meeting 10 - Redesign of MoSCoW requirements and method.
 *Date: Monday, October 18th, 2021.
