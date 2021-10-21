@@ -78,7 +78,7 @@ We use the MoSCoW method to prioritize requirements and user stories. This metho
 
 * Won't have: Features that are not important at present, but could be implemented later.
 
-To make the prioritization as efficient as possible, we held a session with the project owner to discuss where each one should go, based on how feasible it is to implement. The results of that discussion can be seen below:
+To make the prioritization as efficient as possible, we held a session with the project owner to discuss where each one should go, based on how feasible it is to implement. The results of that discussion can be seen below.
 
 ### **User Stories**
 User stories are a way to look for needs and preferences that the users and/or clients that our project is aimed at want, we formulated many of the ones we have through reviews of a similar skill and testimonials from interested users. We decided to make them as well as the requirements since it is equally important the feedback of the people for a project with constant maintenance.
