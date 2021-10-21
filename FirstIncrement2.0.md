@@ -406,12 +406,13 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 -------
 **Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed. 
   Communication in the sessions was done in an orderly and clear manner in order to achieve greater effectiveness in the ideas to be transmitted. In addition to this, several revisions were made in the wording of the whole project to achieve the same objective.
-* **Use ICTs in their professional interventions and in their personal lives in a relevant and responsible way:** **A wide range of tools were used in the project.
+* **Use ICTs in their professional interventions and in their personal lives in a relevant and responsible way:** 
+* **A wide range of tools were used in the project.
 * **A wide range of digital tools, such as Meet for team meetings; Monday for activity tracking and Excel for charting, were used to maximize workflow efficiency. 
-Manages knowledge in their professional interventions and in their personal lives, in a relevant way:** **Knowledge and skills of the team are managed in a relevant way.
+* **Manages knowledge in their professional interventions and in their personal lives, in a relevant way:** 
+* **Knowledge and skills of the team are managed in a relevant way.
 The team's knowledge and skills were maximized in the development of the activities, the elaboration of files and the presentation of progress required skills and knowledge. Knowledge was shared in team sessions so that we all had an equal understanding of what we wanted to accomplish and how we planned to do it.
-* Work with others in multi-, inter- and trans-disciplinary environments in a cooperative manner.
- Each team member took on activities that made the most of the skills and knowledge they possessed, and worked together so that the workload was distributed in an equitable and balanced manner.
+* **Work with others in multi-, inter- and trans-disciplinary environments in a cooperative manner.Each team member took on activities that made the most of the skills and knowledge they possessed, and worked together so that the workload was distributed in an equitable and balanced manner.**
 
 <br>
 
