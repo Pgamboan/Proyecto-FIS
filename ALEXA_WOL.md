@@ -105,7 +105,7 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
    * (RNF006): El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes. **(C)**
 
-   * (RNF007): A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC erronea. **(W)**
+   * (RNF007): A manera de “pop up” el bot emitirá un mensaje en caso de ingresar alguna dirección IP/MAC errónea. **(W)**
 
 * RF004: Se contará con un tutorial para mostrarle a lo usuarios como inicializar la Alexa skill dentro de sus dispositivos. (HU004, HU008) **(S)**
 
