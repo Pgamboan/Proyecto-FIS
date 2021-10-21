@@ -398,11 +398,11 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 
 <br>
 
-## **Subject proficiency**.
+### **Subject proficiency**.
 
 <br>
 
-**General Proficiency** 
+#### **General Proficiency** 
 -------
 Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** ** **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed. 
   Communication in the sessions was done in an orderly and clear manner in order to achieve greater effectiveness in the ideas to be transmitted. In addition to this, several revisions were made in the wording of the whole project to achieve the same objective.
@@ -415,7 +415,7 @@ The team's knowledge and skills were maximized in the development of the activit
 
 <br>
 
-### **Specific Proficiency** 
+#### **Specific Proficiency** 
 -----
 * **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline:** ** **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline
  Information from the relevant phases at the current stage of the project was used to direct the development of the project. The progress of the project progressed as the classes helped us to understand the information and the research that the members did on their own.
