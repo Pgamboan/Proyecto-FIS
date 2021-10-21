@@ -404,11 +404,11 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 
 #### **General Proficiency** 
 -------
-Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** ** **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed. 
+**Communicates orally and in writing in Spanish in professional and personal life, using the language correctly:** **Communicates in Spanish in an orderly and clear manner to achieve greater effectiveness in the ideas to be conveyed. 
   Communication in the sessions was done in an orderly and clear manner in order to achieve greater effectiveness in the ideas to be transmitted. In addition to this, several revisions were made in the wording of the whole project to achieve the same objective.
-* Use ICTs in their professional interventions and in their personal lives in a relevant and responsible way:** ** A wide range of tools were used in the project.
-  A wide range of digital tools, such as Meet for team meetings; Monday for activity tracking and Excel for charting, were used to maximize workflow efficiency. 
-Manages knowledge in their professional interventions and in their personal lives, in a relevant way:** ** **Knowledge and skills of the team are managed in a relevant way.
+* **Use ICTs in their professional interventions and in their personal lives in a relevant and responsible way:** **A wide range of tools were used in the project.
+* **A wide range of digital tools, such as Meet for team meetings; Monday for activity tracking and Excel for charting, were used to maximize workflow efficiency. 
+Manages knowledge in their professional interventions and in their personal lives, in a relevant way:** **Knowledge and skills of the team are managed in a relevant way.
 The team's knowledge and skills were maximized in the development of the activities, the elaboration of files and the presentation of progress required skills and knowledge. Knowledge was shared in team sessions so that we all had an equal understanding of what we wanted to accomplish and how we planned to do it.
 * Work with others in multi-, inter- and trans-disciplinary environments in a cooperative manner.
  Each team member took on activities that made the most of the skills and knowledge they possessed, and worked together so that the workload was distributed in an equitable and balanced manner.
@@ -421,7 +421,7 @@ The team's knowledge and skills were maximized in the development of the activit
 * **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline
  Information from the relevant phases at the current stage of the project was used to direct the development of the project. The progress of the project progressed as the classes helped us to understand the information and the research that the members did on their own.**
 * **Identify the human factors involved in software development processes that affect the success of software projects. We took into account the strengths and weaknesses of the team members when assigning roles and tasks. We also organized meetings that were adjusted to the schedules of all team members, to present progress and complement the development of activities.**
-The team members adequately used the terminology of Software Engineering in their professional interventions:
+* **The team members adequately used the terminology of Software Engineering in their professional interventions:**
 * **With the research done by the members of the team. With the research done by the team members, we tried to use in the best way the terms relevant to the project. More advanced issues needed the support of the team tutor who guided us, recommended readings and paths we could take to have a better understanding of these concepts.**
 
 <br>
