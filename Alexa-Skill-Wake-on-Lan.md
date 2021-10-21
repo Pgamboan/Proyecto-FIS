@@ -90,7 +90,8 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
    * (RNF002): El usuario podrá especificar el tipo de acción a realizar: inicio, apagado, suspensión, reinicio e hibernar. **(M)**
 
-* RF002: Se implementará los servicios de Microsoft Azure para hostear y manejar la base datos de la aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos. (HU006, HU007) **(C)**
+* RF002: Implementar, mediante los servicios de Microsoft Azure, una aplicación web donde se introducirán las direcciones IP/MAC de los dispositivos. 
+(HU006, HU007) **(C)**
 
    * (RNF003): La plataforma Azure le notificará a los desarolladores de algún error con la aplicación. **(C)**
 
@@ -98,7 +99,7 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
    * (RNF005): El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con Alexa. **(M)**
 
-* RF003: Por medio de la aplicación web, se implementará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de la base de datos. (HU007) **(S)**
+* RF003: Implementar, a través de la aplicación web, un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de la base de datos. (HU007) **(S)**
 
    * (RNF006): El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes. **(C)**
 
