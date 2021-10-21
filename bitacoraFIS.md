@@ -119,7 +119,7 @@
     * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
 
 
-### Reunión 12 - ???
+### Reunión 12 - Elaboración del documento entregable.
 *Fecha: Martes, 19 de Octubre del 2021.(18:00 p.m.)*
 * Descripción: 
 * Actividades: 
@@ -130,7 +130,7 @@
     * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
 
 
-### Reunión 13 - 
+### Reunión 13 - Presentacion de avances con el mentor. 
 *Fecha: Martes, 20 de Octubre del 2021.(08:00 a.m.)*
 * Descripción: 
 * Actividades: 
