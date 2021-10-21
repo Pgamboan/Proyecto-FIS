@@ -101,7 +101,7 @@ Métrica para determinar la relevancia, según la actividad:
 | Competencias de la asignatura     |  2  |         |          |            |              |      X      |
 | Descripción de requerimientos     |  2  |         |          |            |       X       |            |
 | Descripción del metodo de prioridad |  2  |         |          |            |        X      |            |
-| Gestion del proceos                |  3  |         |          |     X       |              |            |
+| Gestion del proceso                |  3  |         |          |     X       |              |            |
 | Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
 | Participación en el video/exposición   |  3  |        |          |         |          |    X     |
 | **Promedio de relevancia:** | **2.3**  |          |        |         |         |         |
