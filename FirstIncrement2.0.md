@@ -1,5 +1,6 @@
 # **ALEXA SKILL - WAKE ON LAN**
 
+
 ![image](https://i.imgur.com/SqLLo7gl.png)
 
 
@@ -95,35 +96,35 @@ User stories are a way to look for needs and preferences that the users and/or c
 
 Requirements are a fundamental instrument in the correct development of a software project. They are of great help, both for the client and the development team, to have a concise vision of what features the product is required to have and how they relate to the user.
 
-###### (FR) stands for "Functional requirements".
-###### (NFR) stands for "Non functional requirements".
+###### (FR) stands for "Functional Requirements".
+###### (NFR) stands for "Non Functional Requirements".
 
 Due to the simplicity that represents the execution of our product, there are not a large number of requirements that we could devise, but we made them in a way that they fulfill the main characteristics of a requirement. After an extended process of discussion, elaboration and verification, we have agreed on the following requirements for our project:
 
-* RF001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. (HU001, HU002, HU003, HU005) **(M)**.
+* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. (US001, US002, US003, US005) **(M)**.
 
-   * (RNF001): The user will be able to control the skill from any Alexa-enabled device. **(M)**
+   * (NFR001): The user will be able to control the skill from any Alexa-enabled device. **(M)**
 
-   * (RNF002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. **(M)**
+   * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. **(M)**
 
-* RF002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered. 
-(HU006, HU007) **(C)**
+* FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered. 
+(US006, US007) **(C)**
 
-   * (RNF003): The Azure platform will notify the developers of any error with the application. **(C)**
+   * (NFR003): The Azure platform will notify the developers of any error with the application. **(C)**
 
-   * (RNF004): Only developers have access to the database/platform. **(M)**
+   * (NFR004): Only developers have access to the database/platform. **(M)**
 
-   * (RNF005): The user will have to log in with their Amazon account to link their data with Alexa. **(M)**
+   * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. **(M)**
 
-* RF003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database. (HU007) **(S)**
+* FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database. (US007) **(S)**
 
-   * (RNF006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered. **(C)**
+   * (NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered. **(C)**
 
-   * (RNF007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address. **(W)**
+   * (NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address. **(W)**
 
-* RF004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (HU004, HU008) **(S)**
+* FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (US004, US008) **(S)**
 
-   * (RNF008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database. **(C)**
+   * (NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database. **(C)**
 
 <br>
 
