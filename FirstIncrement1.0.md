@@ -1,5 +1,6 @@
 # **ALEXA SKILL - WAKE ON LAN**
-// add cover with images
+
+![image](https://i.imgur.com/bEINB40l.png)
 
 ### Application definition:
 ---
