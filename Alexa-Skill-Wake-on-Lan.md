@@ -150,6 +150,9 @@ Un artefacto es una herramienta creadas por el equipo de manera deliberada para 
 <br>
 
 ## **Proceso de desarollo**
+---
+
+<br>
 
 ### **METODOLOGÍA**
 
@@ -160,9 +163,10 @@ En un inicio, se estableció una reunión para conocer las habilidades del equip
 
 Posteriormente se estableció el product backlog en donde el Product Owner establecía y priorizaba las tareas a realizar durante todo el proyecto, así pues mediante el sprint planning, se estimaron la creación de 2 sprint (Definition Process and Development) los cuales se planearon en un plazo de no más de 2 semanas (por sprint). Dentro del proceso, el contenido se creaba en forma de "borrador" pues en principio se realizaba dentro de un Google Docs para que después todo los miembros del proyecto validen la información, acto seguido, se introduzca dentro del branch del integrante que lo realizó (Github). Para controlar el progreso de cada sprint se usó la herramienta Monday.com, no obstante en caso de necesitarse de alguna revisión extra o cambio de carácter urgente dentro de información del repositorio, se realizaban reuniones especificas con los integrantes correpondientes para tratar los tópicos a cambiarse o renovarse sin tomarse en cuenta dentro de las tareas grupales. Al finalizar cada sprint se organizó "un sprint retrospective meeting" de duración de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto. 
 
+<br>
 
 #### **ROLES DEL EQUIPO:**
-
+---
 
 Product Owner:
 
@@ -191,7 +195,12 @@ Developers:
 
 Dentro del proceso algunos miembros del equipo realizaban 2 o más roles, es decir, existían ocasiones donde el Product Owner hacia la función de SCRUM master, mientras que durante el primer sprint, el SCRUM Master: José Chi Quintal realizó la función de Owner debido a que se necesitaban tomar decisiones sobre el producto y su contenido.
 
+<br>
+
 ### **GESTIÓN DEL PROCESO** 
+---
+
+<br>
 
 #### **HERRAMIENTAS DE MONITOREO**
 
@@ -207,8 +216,10 @@ Dentro del proceso algunos miembros del equipo realizaban 2 o más roles, es dec
 
 * Word: Elaboramos archivos en esta aplicación mientras nos familiarizábamos con Markdown.
 
+<br>
 
 #### **TAREAS**
+---
 
 
 Dentro del Sprint : Defition Process, se elaboraron las actividades siguientes:
@@ -223,8 +234,12 @@ Dentro del Sprint : Development, se elaboraron las actividades siguientes:
 
 Así pues se contempló una métrica de contribución dentro de la cual se priorizó cada una de las actividades de acuerdo a su relevancia al proyecto.
 
+<br>
 
 ## **EVIDENCIA DE REUNIONES**
+---
+
+<br>
 
 ### Reunión 1 - Integración
 *Fecha: Martes, 21 de Septiembre del 2021.*
@@ -360,8 +375,10 @@ Así pues se contempló una métrica de contribución dentro de la cual se prior
     * Diego Alamilla - Unión y control de calidad del documento. *(fecha limite: 20/09/2021)*
     * Abraham Cruz - Contribution tracker y ordenar el documento en markdown. *(fecha limite: 20/09/2021)*
 
+<br>
 
 ### **CONTROL DE CALIDAD**
+---
 
 Para verificar la calidad y que el proyecto cumpliera nuestras expectativas, al realizar tareas, se comprobaba que todos los integrantes del equipo estuviéramos
 de acuerdo con el resultado, si había errores, corregirlos durante las reuniones para llegar a un común acuerdo. Al mismo que estar todos ayudando y contribuyendo 
@@ -370,7 +387,11 @@ en las diferentes partes del proyecto, aportando todo el conocimiento necesario 
 Durante la realización de las actividades y al final, el integrante Diego Alberto Alamilla Osorio, fue el encargado de revisar y corregir errores de 
 sintaxis, orden y redacción si es que existía alguno. Así asegurando de entregar un proyecto lo más pulido y cumpliendo las expectativas requeridas.
 
+<br>
+
 ## **Competencias de la asignatura**
+
+<br>
 
 ### **COMPETENCIAS GENERALES**
 -------
@@ -383,6 +404,7 @@ El conocimiento y las habilidades del equipo se aprovecharon al máximo en el de
 * **Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa:**
  Cada integrante del equipo se encargo de las actividades que aprovechan al maximo las habilidades y conocimientos que poseen, y se trabajo de manera conjunta para que la carga de trabajo se repartiera de manera equitativa y balanceada.
 
+<br>
 
 ### **COMPETENCIAS ESPECÍFICAS**
 -----
