@@ -98,7 +98,7 @@ Debido a la simpleza que representa la ejecución de nuestro producto, no hay un
 
    * (RNF005): El usuario tendrá que loguearse con su cuenta de Amazon para vincular sus datos con Alexa. **(M)**
 
-* RF003: Por medio de la platafroma, se implementará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de la base de datos. (HU007) **(S)**
+* RF003: Por medio de la aplicación web, se implementará un bot asistente para ayudar al usuario a introducir la dirección IP y MAC dentro de la base de datos. (HU007) **(S)**
 
    * (RNF006): El bot asistirá por medio de un tutorial, la manera en la que se deben ingresar las direcciones correspondientes. **(C)**
 
