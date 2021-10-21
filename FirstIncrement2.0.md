@@ -417,11 +417,11 @@ The team's knowledge and skills were maximized in the development of the activit
 
 #### **Specific Proficiency** 
 -----
-* **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline:** ** **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline
- Information from the relevant phases at the current stage of the project was used to direct the development of the project. The progress of the project progressed as the classes helped us to understand the information and the research that the members did on their own.
-* Identify the human factors involved in software development processes that affect the success of software projects.
-  We took into account the strengths and weaknesses of the team members when assigning roles and tasks. We also organized meetings that were adjusted to the schedules of all team members, to present progress and complement the development of activities.
-The team members adequately used the terminology of Software Engineering in their professional interventions:** ** **With the research done by the members of the team.
-With the research done by the team members, we tried to use in the best way the terms relevant to the project. More advanced issues needed the support of the team tutor who guided us, recommended readings and paths we could take to have a better understanding of these concepts.
+* **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline:**
+* **Identifies the concepts linked to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline
+ Information from the relevant phases at the current stage of the project was used to direct the development of the project. The progress of the project progressed as the classes helped us to understand the information and the research that the members did on their own.**
+* **Identify the human factors involved in software development processes that affect the success of software projects. We took into account the strengths and weaknesses of the team members when assigning roles and tasks. We also organized meetings that were adjusted to the schedules of all team members, to present progress and complement the development of activities.**
+The team members adequately used the terminology of Software Engineering in their professional interventions:
+* **With the research done by the members of the team. With the research done by the team members, we tried to use in the best way the terms relevant to the project. More advanced issues needed the support of the team tutor who guided us, recommended readings and paths we could take to have a better understanding of these concepts.**
 
 <br>
