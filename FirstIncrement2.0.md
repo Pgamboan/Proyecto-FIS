@@ -166,18 +166,19 @@ An artifact is a tool deliberately created by the team to solve needs or facilit
 
 ## **DEVELOPMENT PROCESS**
 
-### Methodology
+**METHODOLOGY**.
 
 
-The methodology implemented for the project was based on "SCRUM", which **was adapted to the project** as it is known as an agile methodology, it focuses on how the team members should work in order to produce a flexible system in a constantly changing environment.
+The methodology implemented for the project was based on "SCRUM", which **was adapted to the project** because it is known as an agile methodology, it focuses on how the team members should work in order to produce a flexible system in a constantly changing environment.
 
-At the beginning, a meeting was established to know the skills of the team and the ideas that each member wanted to apply to the project, which through a vote was selected.
+At the beginning, a meeting was established to know the skills of the team and the ideas that each team member wanted to apply to the project, which was selected through a vote.
 
-Subsequently, and within the Product backlog, a kind of routine was established where the Product Owner established and prioritized the tasks to be performed, thus generating a plan of 2 sprints which were performed in a period of no more than 2 weeks (per sprint). Within the process, the content was created in the form of a "draft" because at first it was done within a Google Docs so that later the Product Owner and the team members could validate the information, then it was introduced into the branch of the member who made it (Github). To control the progress, 2 sessions were held per week, however in case of needing any extra revision or change in the information within the repository, the Product Owner held specific meetings with the corresponding members to discuss the topics to be changed or renewed. At the end of each sprint process, a 30-minute "sprint retrospective meeting" was held and, failing that, each team member shared their difficulties and achievements within the project. The Monday.com tool was used to measure and manage the activities within the sprints.
+Subsequently, the product backlog was established where the Product Owner established and prioritized the tasks to be performed throughout the project, so through sprint planning, the creation of 2 sprint (Definition Process and Development) was estimated, which were planned in a period of no more than 2 weeks (per sprint). Within the process, the content was created in the form of a "draft" because it was initially created within a Google Docs so that all the project members could validate the information and then it was introduced within the branch of the member who created it (Github). To control the progress of each sprint the Monday.com tool was used, however in case of needing any extra revision or urgent change in the repository information, specific meetings were held with the corresponding members to discuss the topics to be changed or renewed without being taken into account within the group tasks. At the end of each sprint, a 30-minute "sprint retrospective meeting" was organized and, failing that, each team member shared their difficulties and achievements within the project. 
 
+<br>
 
-### Team Roles:
-
+#### **TEAM ROLES:**
+---
 
 Product Owner:
 
@@ -196,14 +197,86 @@ SCRUM masters:
 * José De Jesús Chi Quintal.
 
 
-SCRUM team:
+Developers:
 
 
-* Abraham Raymundo Cruz Colli.
+* Abraham Cruz Colli
 
 
-* Diego Alamilla Osorio.
+* Diego Alamilla.
+
+Within the process some team members performed 2 or more roles, i.e., there were occasions where the Product Owner performed the function of SCRUM master, while during the first sprint, the SCRUM Master: José Chi Quintal performed the function of Owner due to the need to make decisions about the product and its content.
+
+<br>
+
+### **PROCESS MANAGEMENT** 
+---
+
+<br>
+
+#### **MONITORING TOOLS**
+
+* Monday: Helped us to maintain order in the activities, noting the responsible parties, delivery times and status of the task.
+
+* Google Meet: We used the platform to hold meetings with the tutor and team to work together and present progress.
+
+* WhatsApp: We communicate to arrange meetings, give notices and solve team doubts.
+
+* Github: We used Markdown to create the files, storing and organizing in the repository the contributions of each team member.
+
+* Excel: Helped us in the creation of metrics.
+
+* Word: We elaborated files in this application while we familiarized ourselves with Markdown.
+
+<br>
+
+#### **TASKS**
+---
 
 
-~~An adaptation to the roles assigned by the SCRUM methodology was established, since the role of Product Owner was added to the creation of the Github repository. In the case of SCRUMS masters: facilitating calls and helping to assign tasks to each team member and, failing that, updating the Monday tool in an active way (in less than 3 days).~~
+Within the Sprint : Defition Process, the following activities were elaborated:
 
+![Image 1](https://i.imgur.com/fAibM47.png)
+
+Within the Sprint : Development, the following activities were elaborated:
+
+
+![Image 2](https://i.imgur.com/7urBGDJ.png)
+
+
+Thus, a contribution metric was contemplated within which each activity was prioritized according to its relevance to the project.
+
+<br>
+
+## **EVIDENCE OF MEETINGS**
+---
+
+<br>
+
+### Meeting 1 - Integration
+*Date: Tuesday, September 21st, 2021.
+* Description: The idea of this meeting was to get to know each other as team members and talk about how we need to engage in order to be successful in the project.
+* Agreements/Conflict resolution: 
+* Activities: No activities were designated at this meeting.
+
+
+### Meeting 2 - Brainstorming
+* Date: Monday, September 27th, 2021 * Description.
+* Description: At this meeting we began brainstorming to agree on how we would each research attractive project ideas to propose.
+* Activity: General research of proposals. *(deadline: 09/30/2021)*.
+
+### Meeting 3 - Proposals / Project Selection
+*Date: Thursday, September 30, 2021.
+* Description: For this meeting, each of us came with a proposal that had caught our attention and the point was to try to convince the rest of the team why that project was the best, in the end we took a vote and chose Alexa's skill.
+* Activities: No activities were designated at this meeting.
+
+
+### Meeting 4 - Review of checklist and delivery 1.
+* Date: Sunday, October 3, 2021.
+* Description: We started by going through the checklist of the whole project to be clear about what we should do, after that we assigned tasks to start the first deliverable.
+* Activities: 
+    * Pablo Gamboa - Clients and users *(deadline: 6/10/2021)*
+    * Jose Chi - Objective, scope and limitations. (deadline: 6/10/2021)*
+    * Diego Arreola - Innovation and creativity. *(deadline: 6/10/2021)* 
+    * Diego Alamilla - Innovation and creativity. *(deadline: 6/10/2021)* 
+    * Abraham Cruz - Objective, scope and limitations. *(deadline: 6/10/2021)* 
