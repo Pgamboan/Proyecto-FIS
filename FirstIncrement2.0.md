@@ -386,7 +386,7 @@ Date: Tuesday, October 20th, 2021.(17:00 p.m.)* * Description: Presentation and 
 <br>
 
 
-**QUALITY CONTROL** **QUALITY CONTROL**
+**Quality Control**
 ---
 
 To verify the quality and that the project met our expectations, when performing tasks, we checked that all members of the team were in agreement with the result.
