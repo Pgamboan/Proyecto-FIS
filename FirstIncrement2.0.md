@@ -406,7 +406,10 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 
 #### Verification of the contribution percentage: 
 
+<br>
+
 ### **Subject proficiency**.
+--- 
 
 <br>
 
