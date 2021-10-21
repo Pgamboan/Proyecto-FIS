@@ -386,7 +386,7 @@ Date: Tuesday, October 20th, 2021.(17:00 p.m.)* * Description: Presentation and 
 <br>
 
 
-**Quality Control**
+### **Quality Control**
 ---
 
 To verify the quality and that the project met our expectations, when performing tasks, we checked that all members of the team were in agreement with the result.
@@ -397,6 +397,10 @@ During the completion of the activities and at the end, member Diego Alberto Ala
 syntax, order and wording if there were any. Thus ensuring to deliver a project as polished and meeting the required expectations.
 
 <br>
+
+### **TeamWork**
+---
+
 
 ### **Subject proficiency**.
 
