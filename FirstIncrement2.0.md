@@ -378,7 +378,7 @@ Date: Tuesday, October 20th, 2021.(17:00 p.m.)* * Description: Presentation and 
 * Description: Presentation and we finalized the contribution tracker.
 * Activities: 
     * Pablo Gamboa - Contribution tracker and log detailing. *(deadline: 10/20/2021)*
-    Jose Chi - Finalize the description of the process, contribute to the presentation and editing of the video *(deadline: 10/20/2021)*
+    * Jose Chi - Finalize the description of the process, contribute to the presentation and editing of the video *(deadline: 10/20/2021)*
     * Diego Arreola - Elaboration of the presentation. *(deadline: 10/20/2021)*
     * Diego Alamilla - Document binding and quality control. *(deadline: 10/20/2021)*
     * Abraham Cruz - Contribution tracker and markdown document ordering. *(deadline: 10/20/2021)*
