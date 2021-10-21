@@ -398,7 +398,7 @@ sintaxis, orden y redacción si es que existía alguno. Así asegurando de entre
 ### **COMPETENCIAS GENERALES**
 -------
 * **Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma:** 
-  La comunicaión en las sesiones se hizo de manera ordendada y clara para alcanzar una mayor eficacia en las ideas que se querían transmitir. Sumado a esto, se hicieron varias revisiones en la redacción de todo el proyecto para alcanzar el mismo objetivo.
+  La comunicación en las sesiones se hizo de manera ordenada y clara para alcanzar una mayor eficacia en las ideas que se querían transmitir. Sumado a esto, se hicieron varias revisiones en la redacción de todo el proyecto para alcanzar el mismo objetivo.
 * **Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable:**
   Se usaron un amplia cantidad de herramientas digitales, tales como Meet para las reuniones de equipo; Monday para el seguimiento de actividades y Excel para la elaboración de tablas, para maximizar la eficiencia del flujo de trabajo. 
 * **Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente:**
