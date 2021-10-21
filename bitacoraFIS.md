@@ -67,7 +67,10 @@
 
 
 ### Reunión 7 - Historias de usuario, Requerimientos y Markdown.
-#### Cierre de sprint #1 (dificultades, avances y logros) 
+#### Cierre de sprint #1
+    * Dificultades: 
+    * Avances: 
+    * Logros: 
 *Fecha: Martes, 12 de Octubre del 2021.*
 * Descripción: En esta reunión el equipo discutió acerca de las historias de usuario y los métodos de prioridad. De igual manera empezamos a familiarizarnos con Markdown para empezar a añadir la información del proyecto en el repositorio de github.
 * Actividades: 
@@ -122,7 +125,7 @@
 
 ### Reunión 12 - Elaboración del documento entregable.
 *Fecha: Martes, 19 de Octubre del 2021.(18:00 p.m.)*
-* Descripción: 
+* Descripción: Revisamos con la lista de cotejo los elementos que debíamos de cumplir.
 * Actividades: 
     * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
     * Jose Chi - actividad *(fecha limite: 27/09/2021)*
@@ -133,7 +136,7 @@
 
 ### Reunión 13 - Presentacion de avances con el mentor. 
 *Fecha: Martes, 20 de Octubre del 2021.(08:00 a.m.)*
-* Descripción: 
+* Descripción: En esta reunión le presentamos nuestro documento al profesor José Luis y recibimos retroalimentación y se ajustó acorde a las especificaciones correctas de la metodología ágil. De igual manera numeramos todas las historias de usuario y los requerimientos no funcionales para relacionarlos entre sí. Finalmente designamos tareas para trabajar en el transcurso del día y presentarlas en la reunión de la tarde.
 * Actividades: 
     * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
     * Jose Chi - actividad *(fecha limite: 27/09/2021)*
@@ -144,8 +147,11 @@
 
 ### Reunión 14 - Producto final y grabación del video.
 #### Cierre de sprint #2 (dificultades, avances y logros) 
+    * Dificultades: 
+    * Avances: 
+    * Logros: 
 *Fecha: Martes, 20 de Octubre del 2021.(17:00 p.m.)*
-* Descripción: 
+* Descripción: Presentación y finalizamos el contribution tracker.
 * Actividades: 
     * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
     * Jose Chi - actividad *(fecha limite: 27/09/2021)*
