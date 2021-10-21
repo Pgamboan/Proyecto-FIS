@@ -1,6 +1,24 @@
 # **ALEXA SKILL - WAKE ON LAN**
 
-![image](https://i.imgur.com/bEINB40l.png)
+![image](https://i.imgur.com/SqLLo7gl.png)
+
+
+### Software Engineering Fundamentals
+
+### First Increment
+
+### Team Members: 
+
+* Pablo Gamboa Nieto
+* José de Jesús Chi Quintal
+* Diego Francisco Arreola Hernández
+* Diego Alberto Alamilla Orosco
+* Abraham Raymundo Cruz Colli
+
+
+*Mérida, Yucatán. October 21st, 2021.*
+
+
 
 ### Application definition:
 ---
