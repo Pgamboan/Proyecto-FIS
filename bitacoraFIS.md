@@ -16,7 +16,7 @@
 ### Reunión 3 - Propuestas / Elección del Proyecto
 *Fecha: Jueves, 30 de Septiembre del 2021.*
 * Descripción: Para esta reunión, cada uno de nosotros llegó con una propuesta que nos había llamado la atención y el punto era tratar de convencer al resto del equipo de porque ese proyecto era el mejor, al final hicimos una votación y elegimos la skill de Alexa.
-* Actividades: En esta reunión no se designaron tareas.
+* Actividades: En esta reunión no se designaron actividades.
 
 
 ### Reunión 4 - Repaso de lista de cotejo e indicaciones entrega 1.
@@ -53,11 +53,11 @@
 *Fecha: Martes, 12 de Octubre del 2021.*
 * Descripción: En esta reunión el equipo discutió acerca de las historias de usuario y los métodos de prioridad. De igual manera empezamos a familiarizarnos con Markdown para empezar a añadir la información del proyecto en el repositorio de github.
 * Actividades: 
-    * Pablo Gamboa - Añadir bitácora al repositorio e investigar requerimientos no funcionales. *(fecha limite: 14/09/2021)*
-    * Jose Chi - Redacción de historias de usuario. *(fecha limite: 14/09/2021)*
-    * Diego Arreola - Investigación requerimientos funcionales. *(fecha limite: 14/09/2021)*
-    * Diego Alamilla - Redacción de historias de usuario. *(fecha limite: 14/09/2021)*
-    * Abraham Cruz - Investigación a fondo del funcionamiento de un diagrama de casos de uso. *(fecha limite: 14/09/2021)*
+    * Pablo Gamboa - Añadir bitácora al repositorio e investigar requerimientos no funcionales. *(fecha limite: 14/10/2021)*
+    * Jose Chi - Redacción de historias de usuario. *(fecha limite: 14/10/2021)*
+    * Diego Arreola - Investigación requerimientos funcionales. *(fecha limite: 14/10/2021)*
+    * Diego Alamilla - Redacción de historias de usuario. *(fecha limite: 14/10/2021)*
+    * Abraham Cruz - Investigación a fondo del funcionamiento de un diagrama de casos de uso. *(fecha limite: 14/10/2021)*
 
 
 ### Reunión 8 - Elaboración de branches para aportaciones individuales en Markdown. 
@@ -85,21 +85,19 @@
 *Fecha: Lunes, 18 de Octubre del 2021.*
 * Descripción: Durante esta reunión nos ocupamos de modificar los ultimos detalles de la lista de especificación de requerimientos, nos vimos en la necesidad de remover varios requerimientos que no iban del todo acorde a nuestra idea. Utilizamos el metodo de moscow para priorizar las historias de usuario. 
 * Actividades: 
-    * Pablo Gamboa - actividad *(fecha limite: 19/10/2021)*
-    * Jose Chi - actividad *(fecha limite: 27/09/2021)*
-    * Diego Arreola - actividad *(fecha limite: 27/09/2021)*
-    * Diego Alamilla - actividad *(fecha limite: 27/09/2021)*
-    * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
+    * Diego Alamilla - Priorización de historias de usuario. *(fecha limite: 19/10/2021)*
+    * Abraham Cruz - Priorización de historias de usuario. *(fecha limite: 19/10/2021)*
+    * Jose Chi - Priorización de requerimientos con MosCoW. *(fecha limite: 19/10/2021)*
+    * Diego Arreola - Priorización de requerimientos con MosCoW. *(fecha limite: 19/10/2021)*
 
 ### Reunión 11 - Metodo de priorización de los requerimientos. 
 *Fecha: Martes, 19 de Octubre del 2021. (07:30 a.m.) *
-* Descripción: En esta reunión, acabamos de modificar los requerimientos, terminamos de priorizar los requerimientos con el método MoSCoW y se hizo la asignación de tareas dentro de la plataforma Monday.
+* Descripción: En esta reunión, revisamos la priorización los requerimientos funcionales y no funcionales con el método MoSCoW y se hizo la asignación de tareas dentro de la plataforma Monday para llevar el registro y organizarnos.
 * Actividades: 
-    * Pablo Gamboa - actividad *(fecha limite: 27/09/2021)*
-    * Jose Chi - actividad *(fecha limite: 27/09/2021)*
-    * Diego Arreola - actividad *(fecha limite: 27/09/2021)*
-    * Diego Alamilla - actividad *(fecha limite: 27/09/2021)*
-    * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
+    * Pablo Gamboa - Rediseño del apartado de clientes. *(fecha limite: 27/09/2021)*
+    * Diego Alamilla - Redacción de método de control de calidad. *(fecha limite: 27/09/2021)*
+    * Jose Chi - Priorización de requerimientos con MosCoW. *(fecha limite: 19/10/2021)*
+    * Diego Arreola - Priorización de requerimientos con MosCoW. *(fecha limite: 19/10/2021)*
 
 
 ### Reunión 12 - Elaboración del documento entregable.
