@@ -93,6 +93,7 @@ User stories are a way to look for needs and preferences that the users and/or c
 * US008: As an Alexa user, I want to be able to ask questions within the comments area of the skill to help me solve my doubts. **(W)**
 
 ### **REQUIREMENTS SPECIFICATION**
+--- 
 
 Requirements are a fundamental instrument in the correct development of a software project. They are of great help, both for the client and the development team, to have a concise vision of what features the product is required to have and how they relate to the user.
 
@@ -129,6 +130,7 @@ Due to the simplicity that represents the execution of our product, there are no
 <br>
 
 ### **USE CASE DIAGRAM**
+---
 
 ![Diagrama de casos de uso](Casos.png)
 
