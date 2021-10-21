@@ -141,7 +141,7 @@
     * Abraham Cruz - actividad *(fecha limite: 27/09/2021)*
 
 
-### Reunión 14 - 
+### Reunión 14 - Producto final y grabación del video.
 *Fecha: Martes, 20 de Octubre del 2021.(17:00 p.m.)*
 * Descripción: 
 * Actividades: 
