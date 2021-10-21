@@ -1,19 +1,19 @@
-# METRICAS DE CONTRIBUCIÓN INDIVIDUAL
-### FUNDAMENTOS DE INGNIERIA DE SOFTWARE
+# Individual Contribution Metrics
+### Software Engineering Fundamentals
 
 ---
-Métrica para determinar la relevancia, según la actividad:
+Metrics to determine relevance, according to each activity:
 ---
-* 1 --> *Relevancia baja*
-* 2 --> *Relevancia media*
-* 3 --> *Relevancia alta*
+* 1 --> *Low relevance*
+* 2 --> *Medium relevance*
+* 3 --> *High relevance*
 
 #### DIEGO ALAMILLA OSORIO
 
-|              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
+|              | **Determine relevance**   | 1                | 2              | 3                   | 4                     | 5                    |
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+| ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
+|     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
 | Presentación de ideas                        |  1  |          |         |          |          |    x     |
 | Innovación y Creatividad                     |  3  |          |         |          |     x    |          |
 | Tablas de contribución individual (Markdown) |  3  |          |         |          |          |     x    |
@@ -23,15 +23,15 @@ Métrica para determinar la relevancia, según la actividad:
 | Armado del documento final                      |  2  |       |         |          |          |    x     |
 | Elaboración de la presentación primera entrega  |  2  |       |         |          |          |    x     |
 | Control de calidad                              |  3  |       |         |          |     x    |          |
-| **Promedio de relevancia:**      | **2.2**  |        |        |          |          |          |
-| **Promedio de desempeño:**      | **4.55**  |        |        |          |          |          |
+| **Average of relevance:**      | **2.2**  |        |        |          |          |          |
+| **Average of performance:**    | **4.55**  |        |        |          |          |          |
 
 #### PABLO GAMBOA NIETO
 
-|              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
+|              | **Determine relevance**   | 1                | 2              | 3                   | 4                     | 5                    |
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+| ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
+|     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
 | Presentación de ideas                  |  1  |        |          |         |          |    x     |
 | Redacción de usuarios y clientes       |  3  |        |          |         |     x    |          |
 | Elaboración del google forms           |  2  |        |          |         |          |    x     |
@@ -51,10 +51,10 @@ Métrica para determinar la relevancia, según la actividad:
 
 #### ABRAHAM RAYMUNDO CRUZ COLLI
 
-|              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
+|              | **Determine relevance**   | 1                | 2              | 3                   | 4                     | 5                    |
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+| ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
+|     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
 |Presentación de ideas           |  1  |          |           |          |           |     X     |
 |Objetivo, limitaciones y alcances|  3  |         |           |          |     X     |           |
 |Sintaxis de Markdown            |  1  |          |           |          |           |     X     |
@@ -69,10 +69,10 @@ Métrica para determinar la relevancia, según la actividad:
 
 #### JOSE-CHI QUINTAL
 
-|              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
+|              | **Determine relevance**   | 1                | 2              | 3                   | 4                     | 5                    |
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+| ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
+|     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
 | Presentación de ideas           |  1  |         |           |            |             |      X      |
 | Redacción de objetivo, limites y alcances  |  3 |           |            |             |             |      X      |
 | Gestión de Monday.com           |  2  |         |           |            |      X      |             |
@@ -87,10 +87,10 @@ Métrica para determinar la relevancia, según la actividad:
 
 #### DIEGO ARREOLA HERNÁNDEZ
 
-|              | **Determinar relevancia**   | 1                | 2              | 3                   | 4                     | 5                    |
+|              | **Determine relevance**   | 1                | 2              | 3                   | 4                     | 5                    |
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVIDADES  | **Opciones disponibles:**   | Deficiente       | Malo           | Regular             | Bueno                 | Excelente            |
-|     DESCRIPCIÓN           | **1: Baja............ 2: Media........   3: Alta............**    | No se cumplió en lo absoluto con el objetivo y/o tarea asignada | El trabajo presenta dificultades considerables y se encuentra incompleto | Desempeño normal, cumple de manera correcta con lo que se le solicitó | Se cumplió con eficacia lo solicitado para la tarea asignada | Se cumplió a la perfección, en tiempo y forma, con el objetivo y/o tarea asignada |
+| ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
+|     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
 | Presentación de ideas        |  1  |         |          |            |              |      X      |
 | Innovación y Creatividad     |  3  |         |          |            |              |      X      |
 | Historias de casos de uso    |  3  |         |          |            |              |      X      |
