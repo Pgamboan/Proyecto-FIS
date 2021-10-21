@@ -401,10 +401,13 @@ syntax, order and wording if there were any. Thus ensuring to deliver a project 
 ### **TeamWork**
 ---
 #### Repository: 
+We are currently using a GitHHub repository in which we´re able to update our progress and register how often each member makes a contribution to the project. It works as a control panel because we can visualize every single modification, we are also using the tool of markdown to build our files and the project documentation. 
 
 #### Metric of individual contribution: 
+The contribution tables are divided into two major sections, one dedicated to measure the performance and compromise of all the members with each of the activities that are assigned and we can also measure how important for the development a task is.
 
 #### Verification of the contribution percentage: 
+In order to verify and getting a contribution percentage we build a table called "Contribution Tracker". With this tool we can ponderate between tasks completed, relevance of the tasks that were assigned, how well the member performed in his assignment and if he attended to all the meetings the group had. After all with a ponderation we get the contribution percentage of every member of the team. 
 
 <br>
 
