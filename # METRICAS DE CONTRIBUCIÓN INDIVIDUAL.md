@@ -94,7 +94,7 @@ Métrica para determinar la relevancia, según la actividad:
 | Presentación de ideas        |  1  |         |          |            |              |      X      |
 | Innovación y Creatividad     |  3  |         |          |            |              |      X      |
 | Historias de casos de uso    |  3  |         |          |            |              |      X      |
-| Requerimientos Funcionales   |  2  |         |    X     |            |              |             |
+| Requerimientos Funcionales   |  2  |         |          |      X      |              |             |
 | Excepciones de casos de uso  |  2  |         |          |            |       X      |             |
 | Rediseño de los RF y RNF     |  3  |         |          |            |              |      X      |
 | Priorizar requerimientos     |  2  |         |          |            |              |      X      |
@@ -105,4 +105,4 @@ Métrica para determinar la relevancia, según la actividad:
 | Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
 | Participación en el video/exposición   |  3  |        |          |         |          |    X     |
 | **Promedio de relevancia:** | **2.3**  |          |        |         |         |         |
-| **Promedio de desempeño:**   | **4.38** |        |        |          |          |          |
+| **Promedio de desempeño:**   | **4.46**|          |        |         |         |         |
