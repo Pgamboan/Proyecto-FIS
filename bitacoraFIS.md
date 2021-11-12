@@ -171,7 +171,7 @@ Date: Wednesday, November 10th, 2021.(09:00)
     * Diego Alamilla - 
     * Abraham Cruz - 
 
-### Meeting 18 - Design and implementation.
+### Meeting 19 - Design and implementation.
 Date: Thursday, November 11th, 2021.(17:00)
 * Description: 
 * Activities: 
