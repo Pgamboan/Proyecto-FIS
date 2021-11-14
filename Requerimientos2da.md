@@ -4,13 +4,13 @@ FR001: The skill will be able to control the on/off options menu of WoL protocol
 
 (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. (M)
 
-FR002: Develop a web application where the IP/MAC addresses of the devices will be registered. (US006, US007) (C)
+FR002: Develop a web application where the MAC address of the devices will be registered. (US006, US007) (C)
 
 (NFR004): Only developers have access to the database/platform. (M)
 
 (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. (M)
 
-FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database. (US007) (S)
+FR003: Implement a web application. (US007) (S)
 
 (NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered. (C)
 
