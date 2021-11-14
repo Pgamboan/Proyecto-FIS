@@ -10,12 +10,12 @@ FR002: Develop a web application where the MAC address of the devices will be re
 
 (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. (M)
 
-FR003: Implement a web application. (US007) (S)
+FR003: There will be a tutorial on how to find and register the Mac address.(S)
 
-(NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered. (C)
+(NFR006):-------(C)
 
-(NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address. (W)
+(NFR007): As a "pop up" the web app will issue a message in case of entering a wrong MAC address. (W)
 
 FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (US004, US008) (S)
 
-(NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database. (C)
+(NFR008): The tutorial will be opened automatically when the user indicates the corresponding address in the web app. (C)
