@@ -143,7 +143,7 @@ Date: Tuesday, October 26th, 2021.(17:30)
 
 ### Meeting 16 - Elaboration of the project calendar.
 Date: Tuesday, Novemeber 2nd, 2021.(17:00)
-* Description: Presentation and we finalized the contribution tracker.
+* Description: We all agreed on the dates to move forward with the project and have the meetings.
 * Activities: 
     * Pablo Gamboa - 
     * Jose Chi - 
@@ -153,7 +153,7 @@ Date: Tuesday, Novemeber 2nd, 2021.(17:00)
 
 ### Meeting 17 - Beggining of the design phase.
 Date: Tuesday, November 9th, 2021.(20:00)
-* Description: Presentation and we finalized the contribution tracker.
+* Description: We distributed the most important points of the design phase and designated two members as the web development team.
 * Activities: 
     * Pablo Gamboa - 
     * Jose Chi - 
@@ -161,7 +161,7 @@ Date: Tuesday, November 9th, 2021.(20:00)
     * Diego Alamilla - 
     * Abraham Cruz - 
 
-### Meeting 18 - Feedback from the menthor on the 2nd increment.
+### Meeting 18 - Feedback from the menthor on the 2nd increment progress.
 Date: Wednesday, November 10th, 2021.(09:00)
 * Description: 
 * Activities: 
@@ -171,8 +171,28 @@ Date: Wednesday, November 10th, 2021.(09:00)
     * Diego Alamilla - 
     * Abraham Cruz - 
 
-### Meeting 19 - Design and implementation.
+### Meeting 19 - Design and implementation of the web site.
 Date: Thursday, November 11th, 2021.(17:00)
+* Description: 
+* Activities: 
+    * Pablo Gamboa - 
+    * Jose Chi - 
+    * Diego Arreola - 
+    * Diego Alamilla - 
+    * Abraham Cruz - 
+
+### Meeting 20 - Trazability matrix and web site progress.
+Date: Sunday, November 14th, 2021.(17:00)
+* Description: 
+* Activities: 
+    * Pablo Gamboa - 
+    * Jose Chi - Elaboration of the privacy policy of the web site.
+    * Diego Arreola - 
+    * Diego Alamilla - 
+    * Abraham Cruz - 
+
+### Meeting 21 - Privacy policy and web host.
+Date: Monday, November 15th, 2021.(19:30)
 * Description: 
 * Activities: 
     * Pablo Gamboa - 
