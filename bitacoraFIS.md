@@ -84,7 +84,7 @@
     * Abraham Cruz - Markdown merging progress. *(deadline: 10/18/2021)*
 
 ### Meeting 10 - Redesign of MoSCoW requirements and method.
-*Date: Monday, October 18th, 2021.
+*Date: Monday, October 18th, 2021.*
 * Description: During this meeting we took care of modifying the last details of the requirements specification list, we found the need to remove several requirements that were not quite in line with our idea. We used the moscow method to prioritize the user stories. 
 * Activities: 
     * Diego Alamilla - Prioritization of user stories. *(deadline: 10/19/2021)*
@@ -103,7 +103,7 @@
 
 
 ### Meeting 12 - Preparation of the deliverable document.
-Date: Tuesday, October 19th, 2021 (18:00)
+*Date: Tuesday, October 19th, 2021 (18:00)
 * Description: We reviewed with the checklist the elements that we had to comply with.
 * Activities: 
     * Pablo Gamboa - Translation of the deliverable into English. *(deadline: 10/20/2021)* 
@@ -127,7 +127,7 @@ Date: Tuesday, October 19th, 2021 (18:00)
     * Difficulties: Coordinating assignments and reaching agreements with all the team regarding to the project specifications.
     * Progress: Completed all the checklist items.
     * Accomplishments: Broad understanding of the development process and learned the importance of correctly applying the SCRUM methodology. 
-Date: Tuesday, October 20th, 2021.(17:00)
+*Date: Tuesday, October 20th, 2021. (17:00)
 * Description: Presentation and we finalized the contribution tracker.
 * Activities: 
     * Pablo Gamboa - Contribution tracker and log detailing. *(deadline: 10/20/2021)*
@@ -137,12 +137,12 @@ Date: Tuesday, October 20th, 2021.(17:00)
     * Abraham Cruz - Contribution tracker and markdown document ordering. *(deadline: 10/20/2021)*
 
 ### Meeting 15 - Review checklist of increment 2.
-Date: Tuesday, October 26th, 2021.(17:30)
+*Date: Tuesday, October 26th, 2021. (17:30)
 * Description: We started by going through the checklist of the second increment to be clear about what we should do.
 * Activities: No tasks were designated in this meeting.
 
 ### Meeting 16 - Elaboration of the project calendar.
-Date: Tuesday, Novemeber 2nd, 2021.(17:00)
+*Date: Tuesday, Novemeber 2nd, 2021. (17:00)
 * Description: We all agreed on the dates to move forward with the project and have the meetings.
 * Activities: 
     * Pablo Gamboa - Investigation about design phases.
@@ -152,7 +152,7 @@ Date: Tuesday, Novemeber 2nd, 2021.(17:00)
     * Abraham Cruz - 
 
 ### Meeting 17 - Beggining of the design phase.
-Date: Tuesday, November 9th, 2021.(20:00)
+*Date: Tuesday, November 9th, 2021. (20:00)
 * Description: We distributed the most important points of the design phase and designated two members as the web development team.
 * Activities: 
     * Pablo Gamboa - 
@@ -162,7 +162,7 @@ Date: Tuesday, November 9th, 2021.(20:00)
     * Abraham Cruz - 
 
 ### Meeting 18 - Feedback from the menthor on the 2nd increment progress.
-Date: Wednesday, November 10th, 2021.(09:00)
+*Date: Wednesday, November 10th, 2021. (09:00)
 * Description: 
 * Activities: 
     * Pablo Gamboa - Elaboration of the deployment diagram.
@@ -171,7 +171,7 @@ Date: Wednesday, November 10th, 2021.(09:00)
     * Abraham Cruz - Investigation about coding the web site.
 
 ### Meeting 19 - Design and implementation of the web site.
-Date: Thursday, November 11th, 2021.(17:00)
+*Date: Thursday, November 11th, 2021. (17:00)
 * Description: 
 * Activities: 
     * Pablo Gamboa and Diego alamilla - Start trazability matrix. 
@@ -179,7 +179,7 @@ Date: Thursday, November 11th, 2021.(17:00)
     * Diego Arreola - Register and write down the changes of the project.
 
 ### Meeting 20 - Redesign and detailing of requirements.
-Date: Saturday, November 13th, 2021.(17:00)
+*Date: Saturday, November 13th, 2021. (17:00)
 * Description: 
 * Activities: 
     * Pablo Gamboa and Diego alamilla - Start trazability matrix. 
@@ -188,7 +188,7 @@ Date: Saturday, November 13th, 2021.(17:00)
 
 
 ### Meeting 21 - Trazability matrix and web site progress.
-Date: Sunday, November 14th, 2021.(17:00)
+*Date: Sunday, November 14th, 2021. (20:00)
 * Description: 
 * Activities: 
     * Pablo Gamboa and Diego Alamilla - Finish the trazability matrix.
@@ -197,7 +197,7 @@ Date: Sunday, November 14th, 2021.(17:00)
     * Abraham Cruz -  to the web site.
 
 ### Meeting 22 - Privacy policy and web host.
-Date: Monday, November 15th, 2021.(19:30)
+*Date: Monday, November 15th, 2021. (19:30)
 * Description: 
 * Activities: 
     * Pablo Gamboa - Updates on the logbook. 
