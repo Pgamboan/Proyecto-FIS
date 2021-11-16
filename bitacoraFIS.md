@@ -144,22 +144,15 @@
 ### Meeting 16 - Elaboration of the project calendar.
 *Date: Tuesday, Novemeber 2nd, 2021. (17:00)
 * Description: We all agreed on the dates to move forward with the project and have the meetings.
-* Activities: 
-    * Pablo Gamboa - Investigation about design phases.
-    * Jose Chi - 
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+* Activities:  No tasks were designated in this meeting.
 
 ### Meeting 17 - Beggining of the design phase.
 *Date: Tuesday, November 9th, 2021. (20:00)
 * Description: We distributed the most important points of the design phase and designated two members as the web development team.
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi - 
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Pablo Gamboa and Abraham Cruz - Draft of data design diagram.
+    * Jose Chi - User interface draft.
+    * Diego Arreola and Diego Alamilla- Draft of architechtonic design diagram.
 
 ### Meeting 18 - Feedback from the menthor on the 2nd increment progress.
 *Date: Wednesday, November 10th, 2021. (09:00)
