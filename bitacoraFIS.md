@@ -145,7 +145,7 @@ Date: Tuesday, October 26th, 2021.(17:30)
 Date: Tuesday, Novemeber 2nd, 2021.(17:00)
 * Description: We all agreed on the dates to move forward with the project and have the meetings.
 * Activities: 
-    * Pablo Gamboa - 
+    * Pablo Gamboa - Investigation about design phases.
     * Jose Chi - 
     * Diego Arreola - 
     * Diego Alamilla - 
@@ -165,11 +165,10 @@ Date: Tuesday, November 9th, 2021.(20:00)
 Date: Wednesday, November 10th, 2021.(09:00)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi - 
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Pablo Gamboa - Elaboration of the deployment diagram.
+    * Jose Chi - Investigation about coding in alexa.
+    * Diego Arreola and Diego alamilla: Elaboration of the sequenze diagram. 
+    * Abraham Cruz - Investigation about coding the web site.
 
 ### Meeting 19 - Design and implementation of the web site.
 Date: Thursday, November 11th, 2021.(17:00)
@@ -179,22 +178,29 @@ Date: Thursday, November 11th, 2021.(17:00)
     * Jose Chi and Abraham Cruz - Keep woeking on the web site.
     * Diego Arreola - Register and write down the changes of the project.
 
-### Meeting 20 - Trazability matrix and web site progress.
+### Meeting 20 - Redesign and detailing of requirements.
+Date: Saturday, November 13th, 2021.(17:00)
+* Description: 
+* Activities: 
+    * Pablo Gamboa and Diego alamilla - Start trazability matrix. 
+    * Jose Chi and Abraham Cruz - Keep working on the web site.
+    * Diego Arreola - Register and write down the changes of the project.
+
+
+### Meeting 21 - Trazability matrix and web site progress.
 Date: Sunday, November 14th, 2021.(17:00)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - Finish the trazability matrix.
+    * Pablo Gamboa and Diego Alamilla - Finish the trazability matrix.
     * Jose Chi - Elaboration of the privacy policy of the web site.
-    * Diego Arreola - Elaboration of tutorials to get de MAC address.
-    * Diego Alamilla - Make updates on the project calendar.
-    * Abraham Cruz - Maintainance and corrections to the web site.
+    * Diego Arreola - Investigation on how to get the MAC address.
+    * Abraham Cruz -  to the web site.
 
-### Meeting 21 - Privacy policy and web host.
+### Meeting 22 - Privacy policy and web host.
 Date: Monday, November 15th, 2021.(19:30)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi - 
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Pablo Gamboa - Updates on the logbook. 
+    * Jose Chi and Abraham Cruz - Get a domain and a host for the web site. 
+    * Diego Arreola - Elaboration of a tutorial that explains the users how to get the MAC address.
+    * Diego Alamilla - Make updates on the project calendar.
