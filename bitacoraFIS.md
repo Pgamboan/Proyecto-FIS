@@ -194,7 +194,7 @@
     * Pablo Gamboa and Diego Alamilla - Finish the trazability matrix.
     * Jose Chi - Elaboration of the privacy policy of the web site.
     * Diego Arreola - Investigation on how to get the MAC address.
-    * Abraham Cruz -  to the web site.
+    * Abraham Cruz - Making corrections to the web site.
 
 ### Meeting 22 - Privacy policy and web host.
 *Date: Monday, November 15th, 2021. (19:30)
