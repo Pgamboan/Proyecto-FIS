@@ -183,11 +183,11 @@ Date: Thursday, November 11th, 2021.(17:00)
 Date: Sunday, November 14th, 2021.(17:00)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
+    * Pablo Gamboa - Finish the trazability matrix.
     * Jose Chi - Elaboration of the privacy policy of the web site.
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Diego Arreola - Elaboration of tutorials to get de MAC address.
+    * Diego Alamilla - Make updates on the project calendar.
+    * Abraham Cruz - Maintainance and corrections to the web site.
 
 ### Meeting 21 - Privacy policy and web host.
 Date: Monday, November 15th, 2021.(19:30)
