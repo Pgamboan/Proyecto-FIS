@@ -175,11 +175,9 @@ Date: Wednesday, November 10th, 2021.(09:00)
 Date: Thursday, November 11th, 2021.(17:00)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi - 
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Pablo Gamboa and Diego alamilla - Start trazability matrix. 
+    * Jose Chi and Abraham Cruz - Keep woeking on the web site.
+    * Diego Arreola - Register and write down the changes of the project.
 
 ### Meeting 20 - Trazability matrix and web site progress.
 Date: Sunday, November 14th, 2021.(17:00)
