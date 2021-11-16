@@ -179,7 +179,6 @@
     * Jose Chi and Abraham Cruz - Keep working on the web site.
     * Diego Arreola - Register and write down the changes of the project.
 
-
 ### Meeting 21 - Trazability matrix and web site progress.
 *Date: Sunday, November 14th, 2021. (20:00)
 * Description: 
@@ -197,3 +196,13 @@
     * Jose Chi and Abraham Cruz - Get a domain and a host for the web site. 
     * Diego Arreola - Elaboration of a tutorial that explains the users how to get the MAC address.
     * Diego Alamilla - Make updates on the project calendar.
+
+### Meeting 23 - --------------------------
+*Date: Tuesday, November 16th, 2021. (19:30)
+* Description: 
+* Activities: 
+    * Pablo Gamboa - 
+    * Jose Chi -
+    * Diego Arreola - 
+    * Diego Alamilla - 
+    * Abraham Cruz
