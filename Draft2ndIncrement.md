@@ -7,8 +7,6 @@
 
 ### Software Engineering Fundamentals
 
-### First Increment
-
 ### Team Members: 
 
 * Pablo Gamboa Nieto
