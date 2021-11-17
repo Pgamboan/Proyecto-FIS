@@ -34,11 +34,14 @@ In this second increment the tracking of the activities was modified to a calend
 
 In this process we focused on using the information collected in the analysis stage to design the product. Our main task in the design stage is to develop an accurate model or specifications for the product.
 
-#### Deployment diagram.
+#### Deployment diagram: 
 Description: 
 ![image](https://i.imgur.com/pKhaADq.png)
 
-#### Sequenze diagram. 
+#### Sequenze diagram: 
 Description: 
 ![image](https://i.imgur.com/fVA3fTc.png)
 
+### Implementation
+
+*introducir labia acá
