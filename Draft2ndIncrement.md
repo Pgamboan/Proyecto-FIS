@@ -35,8 +35,7 @@ In this second increment the tracking of the activities was modified to a calend
 In this process we focused on using the information collected in the analysis stage to design the product. Our main task in the design stage is to develop an accurate model or specifications for the product.
 
 #### Deployment diagram.
-Description: 
-
+Description: Deployment diagrams help show how hardware and software interact with each other to work properly. To a large extent, these diagrams perfectly describe how the software fits into and interacts with a hardware system. Also, they help show which software element is being deployed by a particular type of hardware.
 
 
 ![image](https://i.imgur.com/pKhaADq.png)
