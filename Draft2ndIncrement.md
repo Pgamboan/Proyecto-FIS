@@ -32,7 +32,7 @@ There was a rework of the requeriments based on what the team deemed achievable 
 
 ### Design phase.
 
-In this process we focused on using the information collected in the analysis stage to design the product. Our main task in the design stage is to develop an accurate model or specifications for the product.
+In this process we focused on using the information collected in the analysis stage to design the product. Our main task in the design stage is to develop an accurate for the product.
 
 #### Deployment diagram.
 Description: This diagram show how hardware and software interact with each other to work properly. To a large extent, these diagrams perfectly describe how the software fits into and interacts with a hardware system. Also, they help show which software element is being deployed by a particular type of hardware.
