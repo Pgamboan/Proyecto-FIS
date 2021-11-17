@@ -28,7 +28,7 @@ In this second increment the tracking of the activities was modified to a calend
 
 ### Redesign of the project requirements.
 
-
+*introducir acá el esqueleto y detallar los cambios realizados en la especificacion de requerimientos*
 
 ### Design phase.
 
