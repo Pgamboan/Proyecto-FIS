@@ -41,7 +41,8 @@ Description: This diagram show how hardware and software interact with each othe
 ![image](https://i.imgur.com/pKhaADq.png)
 
 #### Sequenze diagram.
-Description: 
+Description: With this diagram we intend to display the expected interaction between the user and the diferent sections of our product in order to get to the desired result.
+
 
 
 
