@@ -29,10 +29,16 @@ In this second increment the tracking of the activities was modified to a calend
 ### Redesign of the project requirements.
 
 
+
 ### Design phase.
 
 In this process we focused on using the information collected in the analysis stage to design the product. Our main task in the design stage is to develop an accurate model or specifications for the product.
 
 #### Deployment diagram.
+Description: 
+
 
 #### Sequenze diagram. 
+Description: 
+
+
