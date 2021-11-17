@@ -36,10 +36,13 @@ In this process we focused on using the information collected in the analysis st
 
 #### Deployment diagram: 
 Description: 
+---
+
 ![image](https://i.imgur.com/pKhaADq.png)
 
 #### Sequenze diagram: 
 Description: 
+---
 ![image](https://i.imgur.com/fVA3fTc.png)
 
 ### Implementation
