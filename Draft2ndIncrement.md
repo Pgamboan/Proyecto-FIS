@@ -42,6 +42,8 @@ Description: This diagram show how hardware and software interact with each othe
 
 #### Sequenze diagram.
 Description: With this diagram we intend to display the expected interaction between the user and the diferent sections of our product in order to get to the desired result.
+The web app was developed in order to give the users a way to provide the information necessarry to the skill's functioning, with the Amazon Web Services beign the bridge for 
+such data to be attainable by the skill.
 
 
 
