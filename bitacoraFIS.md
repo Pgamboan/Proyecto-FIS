@@ -197,7 +197,7 @@
     * Diego Arreola - Elaboration of a tutorial that explains the users how to get the MAC address.
     * Diego Alamilla - Make updates on the project calendar.
 
-### Meeting 23 - --------------------------
+### Meeting 23 - Drafting of the document and presentation.
 *Date: Tuesday, November 16th, 2021. (19:30)
 * Description: 
 * Activities: 
@@ -205,4 +205,14 @@
     * Jose Chi -
     * Diego Arreola - 
     * Diego Alamilla - 
-    * Abraham Cruz
+    * Abraham Cruz - 
+
+### Meeting 24 - Revewing details with our menthor.
+*Date: Tuesday, November 17th, 2021. (11:00)
+* Description: 
+* Activities: 
+    * Pablo Gamboa - 
+    * Jose Chi -
+    * Diego Arreola - 
+    * Diego Alamilla - 
+    * Abraham Cruz - 
