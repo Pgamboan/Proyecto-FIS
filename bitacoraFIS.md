@@ -42,7 +42,7 @@
 
 ### Meeting 6 - First contact with the mentor, receive feedback on the project.
 *Date: Wednesday, October 6th, 2021 * Description: We met our mentor Jose Luis.
-* Description: We met our mentor Jose Luis and introduced him to our project idea, we talked about the scope and limitations of the project, we also downloaded the app "monday" to keep track of the progress for the activities.
+* Description: We met our menthor Jose Luis and introduced him to our project idea, we talked about the scope and limitations of the project, we also downloaded the app "monday" to keep track of the progress for the activities.
 * Activities: 
     * Pablo Gamboa Nieto - Elaboration of the google forms. *(deadline: 10/12/2021)*
     * Jose Chi - Tracking tool configuration. *(deadline: 10/12/2021)* 
