@@ -30,9 +30,9 @@ In this second increment the tracking of the activities was modified to a calend
 
 There was a rework of the requeriments based on what the team deemed achievable in the amount of time we had at our disposal and our joint and individual capabilities: We decided that we won't use the Microsoft Azure plataform to host our web app and instead use another host. After carefull consideration we came to the conclusion that the ip address wasn't 100% necessarry to execute the skill, so we decided to remove it's requeriment. Due to lack of necessity, the team decided to scrap the idea of a bot. 
 
-Old:
+#### Old:
 
-New:
+#### New:
 
 FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. (US001, US002, US003, US005) (M).
 
@@ -66,7 +66,7 @@ Description: This diagram show how hardware and software interact with each othe
 
 ![image](https://i.imgur.com/pKhaADq.png)
 
-#### Sequenze diagram.
+#### Sequence diagram.
 Description: With this diagram we intend to display the expected interaction between the user and the diferent sections of our product in order to get to the desired result.
 The web app was developed in order to give the users a way to provide the information necessarry to the skill's functioning, with the Amazon Web Services beign the bridge for 
 such data to be attainable for Alexa.
