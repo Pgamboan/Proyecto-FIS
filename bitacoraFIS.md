@@ -122,7 +122,7 @@
     * Diego Alamilla - Relate user stories with requirements.   *(deadline: 10/20/2021)*
     * Abraham Cruz - Relate user stories with requirements.   *(deadline: 10/20/2021)*
 
-### Meeting 14 - Final product and video recording.
+### Meeting 14 - Final product first increment and video recording.
 #### End of Sprint #2 
     * Difficulties: Coordinating assignments and reaching agreements with all the team regarding to the project specifications.
     * Progress: Completed all the checklist items.
@@ -209,6 +209,16 @@
 
 ### Meeting 24 - Revewing details with our menthor.
 *Date: Tuesday, November 17th, 2021. (11:00)
+* Description: 
+* Activities: 
+    * Pablo Gamboa - 
+    * Jose Chi -
+    * Diego Arreola - 
+    * Diego Alamilla - 
+    * Abraham Cruz - 
+
+### Meeting 25 - Final product first increment.
+*Date: Tuesday, November 17th, 2021. (17:30)
 * Description: 
 * Activities: 
     * Pablo Gamboa - 
