@@ -71,15 +71,9 @@ There was a rework of the requeriments based on what the team deemed achievable 
 
   * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. (M)
 
-* FR003: There will be a tutorial on how to find and register the Mac address.(S)
+  * (NFR005): There will be a tutorial on how to find and register the Mac address.(S)
 
-  * (NFR006):-------(C)
-
-  * (NFR007): As a "pop up" the web app will issue a message in case of entering a wrong MAC address. (W)
-
-  * 004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (US004, US008) (S)
-
-  * FR008): The tutorial will be opened automatically when the user indicates the corresponding address in the web app. (C)
+  * (NFR006):There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (US004, US008) (S)
 
 ### Design phase.
 
