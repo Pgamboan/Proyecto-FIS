@@ -100,6 +100,8 @@ such data to be attainable for Alexa.
 
 Using the *Login with Amazon* interface to link the user's account to the website.
 
+![image]()
+
 ### Tests
 
 *descripcion de las pruebas*
