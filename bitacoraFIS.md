@@ -222,8 +222,8 @@
 *Date: Tuesday, November 17th, 2021. (17:30)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi -
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Pablo Gamboa - Contribution tracker.
+    * Jose Chi - Explanation on progress made in implementation. 
+    * Diego Arreola - Final details on the requirements specification list.
+    * Diego Alamilla - Add final information to the presentation. 
+    * Abraham Cruz - Write down and detail the subject proficiencies that we have acquired. 
