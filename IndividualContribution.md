@@ -14,12 +14,12 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|                         |  1  |          |         |          |          |    x     |
-|                         |  3  |          |         |          |     x    |          |
-|                         |  3  |          |         |          |          |     x    |
-|                         |  2  |          |         |          |          |     x    |
-|                         |  1  |          |         |      x   |          |          |
-|                         |  3  |       |         |          |          |    x     |
+|    Draft of architechtonic design diagram                     |  1  |          |         |          |          |    x     |
+|    Elaboration of the sequenze diagram                     |  3  |          |         |          |     x    |          |
+|    Start trazability matrix.                     |  3  |          |         |          |          |     x    |
+|     Make updates on the project calendar.                     |  2  |          |         |          |          |     x    |
+|     Writing of the document in markdown                    |  1  |          |         |      x   |          |          |
+|     Add final information to the presentation.                    |  3  |       |         |          |          |    x     |
 |                         |  2  |       |         |          |          |    x     |
 |                         |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
@@ -32,13 +32,13 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|                         |  1  |          |         |          |          |    x     |
-|                         |  3  |          |         |          |     x    |          |
-|                         |  3  |          |         |          |          |     x    |
-|                         |  2  |          |         |          |          |     x    |
-|                         |  1  |          |         |      x   |          |          |
-|                         |  3  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
+|   Draft of data design diagram     |  1  |          |         |          |          |    x     |
+|   Elaboration of the deployment diagram                      |  3  |          |         |          |     x    |          |
+|   Start trazability matrix                      |  3  |          |         |          |          |     x    |
+|   Updates on the logbook                      |  2  |          |         |          |          |     x    |
+|   Writing of the document in markdown                      |  1  |          |         |      x   |          |          |
+|   Modiifcations on the deployment diagram.                      |  3  |       |         |          |          |    x     |
+|   Contribution tracker.                      |  2  |       |         |          |          |    x     |
 |                         |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
@@ -52,14 +52,14 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|                         |  1  |          |         |          |          |    x     |
-|                         |  3  |          |         |          |     x    |          |
-|                         |  3  |          |         |          |          |     x    |
-|                         |  2  |          |         |          |          |     x    |
-|                         |  1  |          |         |      x   |          |          |
-|                         |  3  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
+|    Draft of data design diagram                     |  1  |          |         |          |          |    x     |
+|    Investigation about coding the web site                     |  3  |          |         |          |     x    |          |
+|    Keep working on the web site                    |  3  |          |         |          |          |     x    |
+|    Making corrections to the web site                     |  2  |          |         |          |          |     x    |
+|    Get a domain and a host for the web site                     |  1  |          |         |      x   |          |          |
+|    Research on methods to test the software                     |  3  |       |         |          |          |    x     |
+|    Add final details to the web site                    |  2  |       |         |          |          |    x     |
+|    Subject proficiencies                   |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
@@ -70,14 +70,14 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|                         |  1  |          |         |          |          |    x     |
-|                         |  3  |          |         |          |     x    |          |
-|                         |  3  |          |         |          |          |     x    |
-|                         |  2  |          |         |          |          |     x    |
-|                         |  1  |          |         |      x   |          |          |
-|                         |  3  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
+|  User interface draft                       |  1  |          |         |          |          |    x     |
+|  Investigation about coding in alexa                       |  3  |          |         |          |     x    |          |
+|  Keep working on the web site                       |  3  |          |         |          |          |     x    |
+|  Elaboration of the privacy policy of the web site.                       |  2  |          |         |          |          |     x    |
+|  Get a domain and a host for the web site.                      |  1  |          |         |      x   |          |          |
+|   Implementation of the MAC address input.                      |  3  |       |         |          |          |    x     |
+|    Research on methods to test the software                     |  2  |       |         |          |          |    x     |
+|    Explanation on progress made in implementation.                     |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
@@ -88,14 +88,14 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|                         |  1  |          |         |          |          |    x     |
-|                         |  3  |          |         |          |     x    |          |
-|                         |  3  |          |         |          |          |     x    |
-|                         |  2  |          |         |          |          |     x    |
-|                         |  1  |          |         |      x   |          |          |
-|                         |  3  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
+|   Draft of architechtonic design diagram                      |  1  |          |         |          |          |    x     |
+|   Elaboration of the sequenze diagram                      |  3  |          |         |          |     x    |          |
+|   Register and write down the changes of the project                      |  3  |          |         |          |          |     x    |
+|    Investigation on how to get the MAC address                      |  2  |          |         |          |          |     x    |
+|    Elaboration of a tutorial that explains the users how to get the MAC address.                     |  1  |          |         |      x   |          |          |
+|    Summary that explains the progress made in the third sprint                     |  3  |       |         |          |          |    x     |
+|    Write an explanation of the sequence diagram.                     |  2  |       |         |          |          |    x     |
+|    Final details on the requirements specification list.                     |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
