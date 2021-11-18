@@ -204,18 +204,17 @@
     * Pablo Gamboa - 
     * Jose Chi -
     * Diego Arreola - 
-    * Diego Alamilla - 
+    * Diego Alamilla - Summary that explains the progress on this sprint.
     * Abraham Cruz - 
 
 ### Meeting 24 - Revewing details with our menthor.
 *Date: Tuesday, November 17th, 2021. (11:00)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi -
-    * Diego Arreola - 
-    * Diego Alamilla - 
-    * Abraham Cruz - 
+    * Pablo Gamboa - Modiifcations on the deployment diagram.
+    * Jose Chi and Diego Alamilla - Research on methods to test the software
+    * Diego Arreola - Write an explanation of the sequence diagram.
+    * Abraham Cruz - Add final details to the web site.
 
 ### Meeting 25 - Second increment final product.
 #### End of Sprint #3
