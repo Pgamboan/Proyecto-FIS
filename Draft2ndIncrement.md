@@ -60,13 +60,13 @@ FR004: There will be a tutorial to show users how to initialize the Alexa skill 
 
 In this process we focused on using the information collected in the analysis stage to design the product. Our main task in the design stage is to develop an accurate for the product.
 
-#### Deployment diagram.
+#### Deployment diagram:
 Description: This diagram show how hardware and software interact with each other to work properly. To a large extent, these diagrams perfectly describe how the software fits into and interacts with a hardware system. Also, they help show which software element is being deployed by a particular type of hardware.
 
 
 ![image](https://i.imgur.com/IKyvIJ3.png)
 
-#### Sequence diagram.
+#### Sequence diagram:
 Description: With this diagram we intend to display the expected interaction between the user and the diferent sections of our product in order to get to the desired result.
 The web app was developed in order to give the users a way to provide the information necessarry to the skill's functioning, with the Amazon Web Services beign the bridge for 
 such data to be attainable for Alexa.
