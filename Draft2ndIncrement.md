@@ -64,7 +64,7 @@ In this process we focused on using the information collected in the analysis st
 Description: This diagram show how hardware and software interact with each other to work properly. To a large extent, these diagrams perfectly describe how the software fits into and interacts with a hardware system. Also, they help show which software element is being deployed by a particular type of hardware.
 
 
-![image](https://i.imgur.com/pKhaADq.png)
+![image](https://i.imgur.com/IKyvIJ3.png)
 
 #### Sequence diagram.
 Description: With this diagram we intend to display the expected interaction between the user and the diferent sections of our product in order to get to the desired result.
