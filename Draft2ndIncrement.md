@@ -99,3 +99,9 @@ such data to be attainable for Alexa.
 ### Implementation
 
 *introducir labia acá*
+
+### Tests
+
+*descripcion de las pruebas*
+
+### Proficiencies
