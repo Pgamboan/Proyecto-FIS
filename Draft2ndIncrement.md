@@ -29,7 +29,7 @@ In this second increment the tracking of the activities was modified to a calend
 ### Redesign of the project requirements.
 
 There was a rework of the requeriments based on what the team deemed achievable in the amount of time we had at our disposal and our joint and individual capabilities: We decided that we won't use the Microsoft Azure plataform to host our web app and instead use another host. After carefull consideration we came to the conclusion that the ip address wasn't 100% necessarry to execute the skill, so we decided to remove it's requeriment. Due to lack of necessity, the team decided to scrap the idea of a bot. With the
-removal of the bot and it's associated requeriments, 
+removal of the bot and it's associated non-functional requeriments, a requirement of a tutorial on how to find the user's MAC address was added. The functional requirement on the the tutorial of the skill's initialization was modified to be a non-functional requeriment of the web app and it's associated non-functional requeriment was deleted.
 
 #### Old:
 
