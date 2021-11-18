@@ -201,11 +201,9 @@
 *Date: Tuesday, November 16th, 2021. (19:30)
 * Description: 
 * Activities: 
-    * Pablo Gamboa - 
-    * Jose Chi -
-    * Diego Arreola - 
-    * Diego Alamilla - Summary that explains the progress on this sprint.
-    * Abraham Cruz - 
+    * Pablo Gamboa and Diego Arreola - Writing of the document in markdown.
+    * Jose Chi and Abraham Cruz - Implementation of the MAC address input. 
+    * Diego Alamilla - Summary that explains the progress made in the third sprint.
 
 ### Meeting 24 - Revewing details with our menthor.
 *Date: Tuesday, November 17th, 2021. (11:00)
