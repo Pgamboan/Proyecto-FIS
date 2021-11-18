@@ -217,7 +217,11 @@
     * Diego Alamilla - 
     * Abraham Cruz - 
 
-### Meeting 25 - Final product first increment.
+### Meeting 25 - Second increment final product.
+#### End of Sprint #3
+    * Difficulties: -----------------------
+    * Progress: ------------------
+    * Accomplishments: ----------------------
 *Date: Tuesday, November 17th, 2021. (17:30)
 * Description: 
 * Activities: 
