@@ -26,14 +26,6 @@ Throughout the first increment there were many discussions about the specificati
 
 In this second increment the tracking of the activities was modified to a calendar that was filled together with the logbook notes. Likewise, there were some changes to the requirements according to the difficulty and needs that we found when making the prototype.
 
-### Calendar
-
-*imagen del calendario*
-
-### Products/Artefracts
-
-*descripcion*
-
 ### Redesign of the project requirements.
 
 There was a rework of the requeriments based on what the team deemed achievable in the amount of time we had at our disposal and our joint and individual capabilities: We decided that we won't use the Microsoft Azure plataform to host our web app and instead use another host. After carefull consideration we came to the conclusion that the ip address wasn't 100% necessarry to execute the skill, so we decided to remove it's requeriment. Due to lack of necessity, the team decided to scrap the idea of a bot. With the
