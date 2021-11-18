@@ -104,6 +104,6 @@ Using the *Login with Amazon* interface to link the user's account to the websit
 
 ### Tests
 
-*descripcion de las pruebas*
+The conexion module acceptance test.
 
 ### Proficiencies
