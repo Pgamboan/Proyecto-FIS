@@ -42,7 +42,7 @@
 
 ### Meeting 6 - First contact with the mentor, receive feedback on the project.
 *Date: Wednesday, October 6th, 2021 * Description: We met our mentor Jose Luis.
-* Description: We met our menthor Jose Luis and introduced him to our project idea, we talked about the scope and limitations of the project, we also downloaded the app "monday" to keep track of the progress for the activities.
+* Description: We met our mentor Jose Luis and introduced him to our project idea, we talked about the scope and limitations of the project, we also downloaded the app "monday" to keep track of the progress for the activities.
 * Activities: 
     * Pablo Gamboa Nieto - Elaboration of the google forms. *(deadline: 10/12/2021)*
     * Jose Chi - Tracking tool configuration. *(deadline: 10/12/2021)* 
@@ -112,7 +112,7 @@
     * Diego Alamilla - Transcription of the metrics table to markdown. *(deadline: 10/20/2021)* 
     * Abraham Cruz - Description of use case diagram. *(deadline: 10/20/2021)* 
 
-### Meeting 13 - Presentation of progress with the mentor. 
+### Meeting 13 - Presentation of progress with our mentor. 
 *Date: Tuesday, October 20th, 2021 (08:00)*.
 * Description: In this meeting we presented our document to Professor Jose Luis and received feedback and adjusted according to the correct specifications of the agile methodology. We also numbered all the user stories and non-functional requirements to relate them to each other. Finally we designated tasks to work on during the course of the day and present them in the afternoon meeting.
 * Activities: 
@@ -154,7 +154,7 @@
     * Jose Chi - User interface draft.
     * Diego Arreola and Diego Alamilla- Draft of architechtonic design diagram.
 
-### Meeting 18 - Feedback from the menthor on the 2nd increment progress.
+### Meeting 18 - Feedback from the mentor on the 2nd increment progress.
 *Date: Wednesday, November 10th, 2021. (09:00)
 * Description: 
 * Activities: 
@@ -205,7 +205,7 @@
     * Jose Chi and Abraham Cruz - Implementation of the MAC address input. 
     * Diego Alamilla - Summary that explains the progress made in the third sprint.
 
-### Meeting 24 - Revewing details with our menthor.
+### Meeting 24 - Revewing details with our mentor.
 *Date: Tuesday, November 17th, 2021. (11:00)
 * Description: 
 * Activities: 
