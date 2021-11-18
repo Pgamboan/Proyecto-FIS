@@ -41,39 +41,39 @@ There was a rework of the requeriments based on what the team deemed achievable 
 * FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered. 
 (US006, US007) **(C)**
 
-   * (NFR003): The Azure platform will notify the developers of any error with the application. **(C)**
+   * (NFR003): The Azure platform will notify the developers of any error with the application. 
+   
+   * (NFR004): Only developers have access to the database/platform. 
+   
+   * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. 
 
-   * (NFR004): Only developers have access to the database/platform. **(M)**
+* FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database.  
 
-   * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. **(M)**
+   * (NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered. 
 
-* FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database. (US007) **(S)**
+   * (NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address. 
 
-   * (NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered. **(C)**
+* FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
 
-   * (NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address. **(W)**
-
-* FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (US004, US008) **(S)**
-
-   * (NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database. **(C)**
+   * (NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database. 
 
 #### New:
 
-* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. (US001, US002, US003, US005) (M).
+* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. 
 
-  * (NFR001): The user will be able to control the skill from any Alexa-enabled device. (M)
+  * (NFR001): The user will be able to control the skill from any Alexa-enabled device. 
 
-  * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. (M)
+  * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. 
 
-* FR002: Develop a web application where the MAC address of the devices will be registered. (US006, US007) (C)
+* FR002: Develop a web application where the MAC address of the devices will be registered. 
 
-  * (NFR004): Only developers have access to the database/platform. (M)
+  * (NFR004): Only developers have access to the database/platform. 
 
-  * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. (M)
+  * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa. 
 
-  * (NFR005): There will be a tutorial on how to find and register the Mac address.(S)
+  * (NFR005): There will be a tutorial on how to find and register the Mac address.
 
-  * (NFR006):There will be a tutorial to show users how to initialize the Alexa skill inside their devices. (US004, US008) (S)
+  * (NFR006):There will be a tutorial to show users how to initialize the Alexa skill inside their devices. 
 
 ### Design phase.
 
