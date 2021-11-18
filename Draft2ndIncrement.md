@@ -98,7 +98,7 @@ such data to be attainable for Alexa.
 
 ### Implementation
 
-Using the *Login with Amazon* interface to link the user's account to the website. But in order to do so, it was necessarry to create a privacy policy.
+Using the *Login with Amazon* interface to link the user's account to the website. But in order to do so, it was necessarry to create a security profile and a privacy policy.
 
 ![image]()
 
