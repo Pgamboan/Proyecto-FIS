@@ -100,7 +100,7 @@ such data to be attainable for Alexa.
 
 Using the *Login with Amazon* interface to link the user's account to the website. But in order to do so, it was necessarry to create a security profile and a privacy policy.
 
-![image]()
+![image](https://i.imgur.com/MvuSnHQ.png)
 
 Once the *Login with Amazon* interface was implemented, we created a button that allowed users to login.
 
