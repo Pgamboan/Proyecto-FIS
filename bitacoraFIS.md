@@ -168,7 +168,7 @@
 * Description: 
 * Activities: 
     * Pablo Gamboa and Diego alamilla - Start trazability matrix. 
-    * Jose Chi and Abraham Cruz - Keep woeking on the web site.
+    * Jose Chi and Abraham Cruz - Keep working on the web site.
     * Diego Arreola - Register and write down the changes of the project.
 
 ### Meeting 20 - Redesign and detailing of requirements.
