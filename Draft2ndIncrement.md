@@ -33,11 +33,11 @@ removal of the bot and it's associated non-functional requeriments, a requiremen
 
 #### Old:
 
-* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. (US001, US002, US003, US005) **(M)**.
+* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant. 
 
-   * (NFR001): The user will be able to control the skill from any Alexa-enabled device. **(M)**
+   * (NFR001): The user will be able to control the skill from any Alexa-enabled device. 
 
-   * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. **(M)**
+   * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. 
 
 * FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered. 
 (US006, US007) **(C)**
