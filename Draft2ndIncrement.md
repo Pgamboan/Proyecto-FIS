@@ -102,6 +102,8 @@ Using the *Login with Amazon* interface to link the user's account to the websit
 
 ![image]()
 
+Once the *Login with Amazon* interface was implemented, we created a button that allowed users to login.
+
 ### Tests
 
 The conexion module acceptance test.
