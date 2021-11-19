@@ -124,7 +124,7 @@ Communicate in Spanish in formal oral and written form in their professional int
 
  The teamwork has taken advantage of the skills of all members, resulting in a cooperative work, enriched by the constant exchange of knowledge and creativity in carrying out the activities assigned to each member.
 
- Works with others in multi-, inter- and trans-disciplinary environments in a cooperative manner:** ** **Works with others in multi-, inter- and trans-disciplinary environments in a cooperative manner.
+ * Works with others in multi-, inter- and trans-disciplinary environments in a cooperative manner:
 
  The activities were assigned jointly so that each one made their contributions exploiting their skills and knowledge; the exchange of ideas and procedures was an important part of the coordination.
 
@@ -141,11 +141,11 @@ Communicate in Spanish in formal oral and written form in their professional int
 
 The knowledge acquired in class was complemented with the use of information sources such as SWEBOK or IEEE, thus tracing the route followed during the development of this stage of the project. 
 
-Identify the concepts linked to the estimation, planning, monitoring, control, quality and configuration processes, according to what is acceptable by recognized organizations in the discipline:** ** ** The mentor, resources and resources were used to develop the project.
+* Identify the concepts linked to the estimation, planning, monitoring, control, quality and configuration processes, according to what is acceptable by recognized organizations in the discipline: 
 
 Mentor assistance, resources and individual research were used to apply standard concepts, practices and criteria at each stage of the project to improve the control of the development of each phase, and consequently, to better understand the activities that were performed.
 
-Identify the human factors involved in the software development processes that affect the success of software projects:** ** ** Identify the human factors involved in the software development processes that affect the success of software projects.
+* Identify the human factors involved in the software development processes that affect the success of software projects:
 
 At all times the skills of each member were taken into account and therefore focus their strengths in the assigned tasks. The importance was given to the contributions of each one and in the same way, feedback was given to each activity as a whole, thus reaching the desired level of satisfaction.
 
