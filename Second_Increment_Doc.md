@@ -112,7 +112,7 @@ Because the primary the goal of the website is to link the users infomration wit
 #### GENERAL PROFICIENCIES
 <br>
 
-Communicate in Spanish in formal oral and written form in their professional interventions and in their personal life, using the language correctly:** ** **Communicate in Spanish in formal oral and written form in their professional interventions and in their personal life, using the language correctly.
+* Communicates in Spanish in oral and written form on their professional interventions and in their personal life, using the language correctly:
 
  Communication is a key factor when transmitting ideas, this was carried out through orderly, precise and respectful participations. On the other hand, a correct and organized writing is fundamental, so grammatical revisions were constantly maintained during the delivery of tasks assigned to each member.
 
