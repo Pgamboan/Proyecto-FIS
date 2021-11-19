@@ -109,7 +109,7 @@ Because the primary the goal of the website is to link the users infomration wit
 
 ### Proficiencies
 
-#### GENERAL COMPETENCIES
+#### GENERAL PROFICIENCIES
 <br>
 
 Communicate in Spanish in formal oral and written form in their professional interventions and in their personal life, using the language correctly:** ** **Communicate in Spanish in formal oral and written form in their professional interventions and in their personal life, using the language correctly.
@@ -134,7 +134,7 @@ Communicate in Spanish in formal oral and written form in their professional int
 
 <br> 
 
-#### SPECIFIC COMPETENCIES
+#### SPECIFIC PROFICIENCIES
 <br>
 
 * Identify the concepts related to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline.
