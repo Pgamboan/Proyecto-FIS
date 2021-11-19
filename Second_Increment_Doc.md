@@ -107,7 +107,7 @@ Once the *Login with Amazon* interface was implemented, we created a button that
 
 Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.
 
-### Proficiencies
+### Subject Proficiencies
 
 #### GENERAL PROFICIENCIES
 <br>
