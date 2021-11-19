@@ -92,13 +92,12 @@ The web app was developed in order to give the users a way to provide the inform
 such data to be attainable for Alexa.
 
 
-
-
 ![image](https://i.imgur.com/fVA3fTc.png)
 
 ### Implementation
 
 Using the *Login with Amazon* interface to link the user's account to the website. But in order to do so, it was necessarry to create a security profile and a privacy policy.
+
 
 ![image](https://i.imgur.com/MvuSnHQ.png)
 
@@ -109,3 +108,50 @@ Once the *Login with Amazon* interface was implemented, we created a button that
 Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.
 
 ### Proficiencies
+
+#### GENERAL COMPETENCIES
+<br>
+
+Communicate in Spanish in formal oral and written form in their professional interventions and in their personal life, using the language correctly:** ** **Communicate in Spanish in formal oral and written form in their professional interventions and in their personal life, using the language correctly.
+
+ Communication is a key factor when transmitting ideas, this was carried out through orderly, precise and respectful participations. On the other hand, a correct and organized writing is fundamental, so grammatical revisions were constantly maintained during the delivery of tasks assigned to each member.
+
+ * Use ICTs in their professional interventions and in their personal lives in a responsible manner.
+
+ To improve the workflow, tools such as Google meet, Visual Studio Code, Git, Github or ClickUp were used for development, control, project management and teamwork.
+
+ * Manage knowledge in their professional interventions and in their personal life in a relevant way.
+
+ The teamwork has taken advantage of the skills of all members, resulting in a cooperative work, enriched by the constant exchange of knowledge and creativity in carrying out the activities assigned to each member.
+
+ Works with others in multi-, inter- and trans-disciplinary environments in a cooperative manner:** ** **Works with others in multi-, inter- and trans-disciplinary environments in a cooperative manner.
+
+ The activities were assigned jointly so that each one made their contributions exploiting their skills and knowledge; the exchange of ideas and procedures was an important part of the coordination.
+
+ * Making decisions in their professional and personal practice, in a responsible manner.
+
+ Throughout the delivery certain decisions were made in relation to the development or time estimation, so relevance was given to the skills of each member, deadlines and difficulty of the development stages of the project, whether documentation, coding and / or testing.
+
+<br> 
+
+#### SPECIFIC COMPETENCIES
+<br>
+
+* Identify the concepts related to the phases of requirements, design, development, testing and maintenance, according to the recognized bodies in the discipline.
+
+The knowledge acquired in class was complemented with the use of information sources such as SWEBOK or IEEE, thus tracing the route followed during the development of this stage of the project. 
+
+Identify the concepts linked to the estimation, planning, monitoring, control, quality and configuration processes, according to what is acceptable by recognized organizations in the discipline:** ** ** The mentor, resources and resources were used to develop the project.
+
+Mentor assistance, resources and individual research were used to apply standard concepts, practices and criteria at each stage of the project to improve the control of the development of each phase, and consequently, to better understand the activities that were performed.
+
+Identify the human factors involved in the software development processes that affect the success of software projects:** ** ** Identify the human factors involved in the software development processes that affect the success of software projects.
+
+At all times the skills of each member were taken into account and therefore focus their strengths in the assigned tasks. The importance was given to the contributions of each one and in the same way, feedback was given to each activity as a whole, thus reaching the desired level of satisfaction.
+
+* The members of the group were constantly encouraged to use the terminology of Software Engineering in their professional interventions.
+
+The members were constantly encouraged to make use of appropriate terminology in each oral and written intervention; in case of not knowing the appropriate term, they were instructed in research, use of tools such as the IEEE glossary and also had the help of the mentor who guided us throughout this stage.
+
+<br>
+
