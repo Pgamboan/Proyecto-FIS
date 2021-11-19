@@ -107,6 +107,8 @@ Then, when the *Login with Amazon* interface was implemented, we created a butto
 
 Once users are logged in, the web app will redirect them to a new page where they can introduce their devcice's name and MAC address. In the same page the user will find tutorials for each platform in case they don't know how to find their device's MAC address.
 
+The creation of the Alexa skill is made possible thanks to the *Alexa.WakeOnlanController* Interface.
+
 ### Tests
 
 Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.
