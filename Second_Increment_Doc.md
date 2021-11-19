@@ -105,7 +105,7 @@ The first step was to create and design the web app. We decided to keep the desi
 
 Then, when the *Login with Amazon* interface was implemented, we created a button to allow users to login.
 
-Once users are logged in, the web app will redirect them to a new page where they can introduce their devcice's name and MAC address.
+Once users are logged in, the web app will redirect them to a new page where they can introduce their devcice's name and MAC address. In the same page the user will find tutorials for each platform in case they don't know how to find their device's MAC address.
 
 ### Tests
 
