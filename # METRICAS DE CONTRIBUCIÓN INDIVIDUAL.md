@@ -82,6 +82,15 @@ Métrica para determinar la relevancia, según la actividad:
 | Redacción Metodología SCRUM     |  2  |         |           |            |             |      X      |
 | Elaboración de la presentación primera entrega  |  2  |          |         |          |          |    X     |
 | Edición del video/exposición    |  2  |         |          |         |          |    X    |
+| Compra del dominio   |  2  |         |          |         |          |    X    |
+| Alojamiento de la página web en el host |  2  |         |          |         |          |    X    |
+| Conexión entre el dominio y host |  2  |         |          |         |          |    X    |
+| Edición y elaboración de la página web |  2  |         |          |         |          |    X    |
+| Creación, a través de la inferfaz de LwA, el modulo de inicio/cierre de sesión con Amazon |  2  |         |          |         |          |    X    |
+| Pruebas de modulo de conexión de inicio/cierre de sesión de Amazon |  2  |         |          |         |          |    X    |
+| Redacción de parrafo introductorio  |  2  |         |          |         |          |    X    |
+| Redacción de documento de testeo   |  2  |         |          |         |          |    X    |
+| Revisión de diagramas  |  2  |         |          |         |          |    X    |
 | **Promedio de relevancia:** | **2.22** |         |              |                 |                  |               |
 | **Promedio de desempeño:**   | **4.77** |        |        |          |          |          |
 
