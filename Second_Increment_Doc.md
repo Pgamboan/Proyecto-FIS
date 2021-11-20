@@ -111,7 +111,20 @@ The creation of the Alexa skill is made possible thanks to the *Alexa.WakeOnlanC
 
 ### Tests
 
-Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.
+-------------Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.--------------
+
+During the second sprint, 4 types of tests were agreed between the Product Owner and the Scrum Masters throughout the project: module connection test, acceptance test, functionality test and usability test. However, their realization could vary according to the constraints of the defined deliverable percentage.
+
+
+Thus, during the development of this sprint, the login/logout connection module test will be performed to validate that the credentials are as required and will be taken as a successful login.
+
+
+#### CONNECTION MODULE TEST: LOGIN/LOGOUT (Q/A)
+
+* Specification: Testing of the login/logout module given the LwA (Login with Amazon) interface to access customer profile information.
+* Module without test code:
+      * ![image](https://i.imgur.com/6kq66E0.png)
+
 
 ### Subject Proficiencies
 
