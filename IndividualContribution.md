@@ -97,5 +97,7 @@ Metrics to determine relevance, according to each activity:
 |    Write an explanation of the sequence diagram.                     |  2  |       |         |          |          |    x     |
 |    Final details on the requirements specification list.                     |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
+|    Sumary of the implematation progress                     |  2  |       |         |          |          |    x     |
+|                         |  3  |       |         |          |     x    |          |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
