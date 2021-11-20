@@ -123,7 +123,15 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 * Specification: Testing of the login/logout module given the LwA (Login with Amazon) interface to access customer profile information.
 * Module without test code:
-      * ![image](https://i.imgur.com/6kq66E0.png)
+
+
+![image](https://i.imgur.com/m6nwTgr.png)
+
+
+* Proof: The module returns the index2.html with the unique access token and its attributes. We confirm the test was successful.
+
+
+![image](https://i.imgur.com/4L2yaHL.png)
 
 
 ### Subject Proficiencies
