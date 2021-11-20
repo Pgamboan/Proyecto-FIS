@@ -134,6 +134,16 @@ Thus, during the development of this sprint, the login/logout connection module 
 ![image](https://i.imgur.com/4L2yaHL.png)
 
 
+It will also be tested with a test code to verify that the correct credentials are being received at the time of login.
+* Test code that replaces the previous code:
+
+
+![image](https://i.imgur.com/VSFB4Ux.png)
+
+
+In this code the login is validated in the same way, however this time the *amazon.retrieveToken* is used to exchange an access token for profile information *(profile.Name,profile.PrimaryEmail,profile.CostumerID)*.
+
+
 ### Subject Proficiencies
 
 #### GENERAL PROFICIENCIES
