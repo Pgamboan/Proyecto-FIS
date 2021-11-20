@@ -99,5 +99,7 @@ Metrics to determine relevance, according to each activity:
 |                         |  3  |       |         |          |     x    |          |
 |    Sumary of the implematation progress                     |  2  |       |         |          |          |    x     |
 |                         |  3  |       |         |          |     x    |          |
+|    Auxiliary in the implementation progress                     |  2  |       |         |          |          |    x     |
+|                         |  3  |       |         |          |     x    |          |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
