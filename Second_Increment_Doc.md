@@ -149,10 +149,10 @@ In this code the login is validated in the same way, however this time the *amaz
 ##### Account login details with test account (any Amazon Account):
 
 
-Email: joeychiquintal403@gmail.com
+* Email: joeychiquintal403@gmail.com
 
 
-Password: *********
+* Password: *********
 
 
 ![image](https://i.imgur.com/BHL6BWc.png)
