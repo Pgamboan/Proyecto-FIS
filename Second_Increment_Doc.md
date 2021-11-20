@@ -109,7 +109,7 @@ Once users are logged in, the web app will redirect them to a new page where the
 
 The creation of the Alexa skill is made possible thanks to the *Alexa.WakeOnlanController* Interface.
 
-### Tests
+### Testing and validation.
 
 -------------Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.--------------
 
@@ -141,8 +141,44 @@ It will also be tested with a test code to verify that the correct credentials a
 ![image](https://i.imgur.com/VSFB4Ux.png)
 
 
-In this code the login is validated in the same way, however this time the *amazon.retrieveToken* is used to exchange an access token for profile information *(profile.Name,profile.PrimaryEmail,profile.CostumerID)*.
+In this code the login is validated in the same way, however this time the *amazon.retrieveToken* is used to exchange an access token in order to double check the profile information *(profile.Name,profile.PrimaryEmail,profile.CostumerID)*.
 
+
+##### Testing preview.
+
+##### Account login details with test account (any Amazon Account):
+
+
+Email: joeychiquintal403@gmail.com
+
+
+Password: *********
+
+
+![image](https://i.imgur.com/BHL6BWc.png)
+
+
+##### Output data within the web app:
+
+* Name: 
+
+
+![imageProfile.Name](https://i.imgur.com/kPLZoST.png)
+
+
+* PrimaryEmail:
+
+
+![imagePrimaryEmail](https://i.imgur.com/58HsYHf.png)
+
+
+* Costumer ID:
+
+
+![imageprofile.CostumerID](https://i.imgur.com/7zRA7jO.png)
+
+
+In conclusion, the data provided by the test code are as expected, so it is concluded that the test was successful, and the system is functional.
 
 ### Subject Proficiencies
 
