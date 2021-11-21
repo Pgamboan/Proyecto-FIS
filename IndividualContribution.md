@@ -14,9 +14,7 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|    Draft of architechtonic design diagram                     |  1  |          |         |          |          |    x     |
 |    Elaboration of the sequenze diagram                     |  3  |          |         |          |     x    |          |
-|    Start trazability matrix.                     |  3  |          |         |          |          |     x    |
 |     Elaboration of the deployment program                   |  2  |          |         |          |          |     x    |
 |     Writing of the document in markdown                    |  1  |          |         |      x   |          |          |
 |     Add final information to the presentation.                    |  3  |       |         |          |          |    x     |
@@ -30,9 +28,7 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|   Draft of data design diagram     |  1  |          |         |          |          |    x     |
 |   Elaboration of the deployment diagram                      |  3  |          |         |          |     x    |          |
-|   Start trazability matrix                      |  3  |          |         |          |          |     x    |
 |   Updates on the logbook                      |  2  |          |         |          |          |     x    |
 |   Writing of the document in markdown                      |  1  |          |         |      x   |          |          |
 |   Modiifcations on the deployment diagram.                      |  3  |       |         |          |          |    x     |
@@ -50,7 +46,6 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|    Draft of data design diagram                     |  1  |          |         |          |          |    x     |
 |    Investigation about coding the web site                     |  3  |          |         |          |     x    |          |
 |    Keep working on the web site                    |  3  |          |         |          |          |     x    |
 |    Making corrections to the web site                     |  2  |          |         |          |          |     x    |
@@ -68,7 +63,6 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|  User interface draft                       |  1  |          |         |          |          |    x     |
 |  Investigation about coding in alexa                       |  3  |          |         |          |     x    |          |
 |  Keep working on the web site                       |  3  |          |         |          |          |     x    |
 |  Elaboration of the privacy policy of the web site.                       |  2  |          |         |          |          |     x    |
@@ -86,7 +80,6 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|   Draft of architechtonic design diagram                      |  1  |          |         |          |          |    x     |
 |   Elaboration of the sequenze diagram                      |  3  |          |         |          |     x    |          |
 |   Register and write down the changes of the project                      |  3  |          |         |          |          |     x    |
 |    Investigation on how to get the MAC address                      |  2  |          |         |          |          |     x    |
