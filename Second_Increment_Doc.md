@@ -150,13 +150,15 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 ##### Testing preview.
 
-* Proof: The module returns the index2.html with the unique access token and its attributes. We confirm the test was successful.
+* Proof: The module returns the index2.html with the unique access token and its attributes and a logout button. We confirm the test was successful.
 
 
 ![image](https://i.imgur.com/4L2yaHL.png)
 
 
 ![image](https://i.imgur.com/UI0ISGK.png)
+
+![image](https://i.imgur.com/4NSgWLj.png)
 
 
 It will also be tested with a test code to verify that the correct credentials are being received at the time of login.
