@@ -131,7 +131,9 @@ Thus, during the development of this sprint, the login/logout connection module 
 #### CONNECTION MODULE TEST: LOGIN/LOGOUT (Q/A)
 
 * Specification: Testing of the login/logout module given the LwA (Login with Amazon) interface to access customer profile information.
-* Module without test code:
+
+
+* Module without test code: Login:
 
 
 ![image](https://i.imgur.com/m6nwTgr.png)
@@ -162,6 +164,8 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 
 It will also be tested with a test code to verify that the correct credentials are being received at the time of login.
+
+
 * Test code that replaces the previous code:
 
 
@@ -202,6 +206,15 @@ In this code the login is validated in the same way, however this time the *amaz
 
 
 ![imageprofile.CostumerID](https://i.imgur.com/7zRA7jO.png)
+
+
+
+
+Module connection : Logout test code
+
+
+* In this the "amazon.login.logout" function is used to eliminate the cache from the Amazon account and return to index.html
+
 
 
 In conclusion, the data provided by the test code are as expected, so it is concluded that the test was successful, and the system is functional.
