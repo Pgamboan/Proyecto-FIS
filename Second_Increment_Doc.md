@@ -217,7 +217,7 @@ In this code the login is validated in the same way, however this time the *amaz
 
 ![imagecode](https://i.imgur.com/gEa0Bdp.png)
 
-* Proof:
+* Proof: If you want to acces again, you should login with you Amazon account.
 
 ![imagepage](https://i.imgur.com/9OMn2vL.png)
 
