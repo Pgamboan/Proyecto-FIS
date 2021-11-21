@@ -100,6 +100,7 @@ The proyect's development was divided into two products: the web app were users 
 
 The first step was to create and design the web app. We decided to keep the design simple in order to avoid confusion from the user and save time. It consists of a home page where users can log into their amazon account. 
 
+
 ![image](https://i.imgur.com/SWorcIl.png)
 
 This was possible by using the *Login with Amazon* interface provided by Amazon, that lets us link the user's account to the website. But in order to implement the interface, it was necessarry to create a security profile and a privacy policy first.
@@ -110,6 +111,7 @@ This was possible by using the *Login with Amazon* interface provided by Amazon,
 Then, when the *Login with Amazon* interface was implemented, we created a button to allow users to login.
 
 Once users are logged in, the web app will redirect them to a new page where they can introduce their devcice's name and MAC address. In the same page the user will find tutorials for each platform in case they don't know how to find their device's MAC address.
+
 
 ![image](https://i.imgur.com/4NSgWLj.png)
 
@@ -190,6 +192,13 @@ In this code the login is validated in the same way, however this time the *amaz
 
 
 In conclusion, the data provided by the test code are as expected, so it is concluded that the test was successful, and the system is functional.
+
+
+### Calendar
+
+
+### Team roles
+
 
 ### Subject Proficiencies
 
