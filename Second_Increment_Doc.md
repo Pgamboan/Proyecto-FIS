@@ -111,7 +111,7 @@ Then, when the *Login with Amazon* interface was implemented, we created a butto
 
 Once users are logged in, the web app will redirect them to a new page where they can introduce their devcice's name and MAC address. In the same page the user will find tutorials for each platform in case they don't know how to find their device's MAC address.
 
-![image](https://i.imgur.com/SWorcIl.png)
+![image](https://i.imgur.com/4NSgWLj.png)
 
 The creation of the Alexa skill is currently under development and it's made possible thanks to the *Alexa.WakeOnlanController* interface. We plan on finishing it's development
 in the next couple of weeks and connect it to the web app afterwards.
