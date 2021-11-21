@@ -131,6 +131,8 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 #### CONNECTION MODULE TEST: LOGIN/LOGOUT (Q/A)
 
+##### Testing preview.
+
 * Specification: Testing of the login/logout module given the LwA (Login with Amazon) interface to access customer profile information.
 * Module without test code:
 
@@ -157,7 +159,6 @@ It will also be tested with a test code to verify that the correct credentials a
 In this code the login is validated in the same way, however this time the *amazon.retrieveToken* is used to exchange an access token in order to double check the profile information *(profile.Name,profile.PrimaryEmail,profile.CostumerID)*.
 
 
-##### Testing preview.
 
 ##### Account login details with test account (any Amazon Account):
 
