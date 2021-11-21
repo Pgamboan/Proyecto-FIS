@@ -111,7 +111,8 @@ The creation of the Alexa skill is made possible thanks to the *Alexa.WakeOnlanC
 
 ### Testing and validation.
 
--------------Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test.--------------
+Because the primary the goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test. 
+
 
 During the second sprint, 4 types of tests were agreed between the Product Owner and the Scrum Masters throughout the project: module connection test, acceptance test, functionality test and usability test. However, their realization could vary according to the constraints of the defined deliverable percentage.
 
