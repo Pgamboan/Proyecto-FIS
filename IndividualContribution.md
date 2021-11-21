@@ -14,13 +14,13 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|    Elaboration of the sequenze diagram                     |  3  |          |         |          |     x    |          |
-|     Elaboration of the deployment program                   |  2  |          |         |          |          |     x    |
-|     Writing of the document in markdown                    |  1  |          |         |      x   |          |          |
-|     Add final information to the presentation.                    |  3  |       |         |          |          |    x     |
-|      Make updates on the project calendar.                      |  2  |       |         |          |          |    x     |
-|   Contribution to the video   |  2  |       |         |          |          |    x     |
-| **Relevance average:**      | **2.2**  |        |        |          |          |          |
+|    Elaboration of the sequence diagram                 |  2  |          |         |          |     x    |          |
+|    Elaboration of the deployment program               |  2  |          |         |          |          |     x    |
+|    Writing of the document in markdown                 |  3  |          |         |      x   |          |          |
+|    Add final information to the presentation.          |  3  |       |         |          |          |    x     |
+|    Make updates on the project calendar.               |  1  |       |         |          |          |    x     |
+|    Contribution to the video                           |  2  |       |         |          |          |    x     |
+| **Relevance average:**      | **2.2**  |         |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
 
 #### PABLO GAMBOA NIETO
@@ -29,12 +29,11 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|   Elaboration of the deployment diagram     |  3  |          |         |          |     x    |          |
-|   Updates on the logbook                    |  2  |          |         |          |          |     x    |
-|   Writing of the document in markdown       |  1  |          |         |      x   |          |          |
-|   Modiifcations on the deployment diagram.  |  3  |          |         |          |          |    x     |
-|   Contribution tracker.                     |  2  |          |         |          |          |    x     |
-|   Review document composition               |  2  |       |         |          |          |    x     |
+|   Elaboration of the deployment diagram     |  2  |          |         |          |     x    |          |
+|   Updates on the logbook                    |  1  |          |         |          |          |     x    |
+|   Writing of the document in markdown       |  2  |          |         |      x   |          |          |
+|   Contribution tracker.                     |  3  |          |         |          |          |    x     |
+|   Review document composition               |  2  |          |         |          |          |    x     |
 |   Contribution to the video                 |  2  |          |         |          |          |    x     |
 |   Edition of the video                      |  3  |          |         |          |     x    |          |
 | **Relevance average:**      | **2.2**   |        |        |          |          |          |
@@ -48,15 +47,15 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|    Investigation about coding the web site                     |  3  |          |         |          |     x    |          |
+|    Investigation about coding the web site         |  3  |          |         |          |     x    |          |
 |    Keep working on the web site                    |  3  |          |         |          |          |     x    |
-|    Making corrections to the web site                     |  2  |          |         |          |          |     x    |
-|    Get a domain and a host for the web site                     |  1  |          |         |      x   |          |          |
-|    Research on methods to test the software                     |  3  |       |         |          |          |    x     |
-|    Add final details to the web site                    |  2  |       |         |          |          |    x     |
-|    Subject proficiencies                   |  2  |       |         |          |          |    x     |
-|   Contribution to the video   |  2  |       |         |          |          |    x     |
-| **Relevance average:**      | **2.2**  |        |        |          |          |          |
+|    Making corrections to the web site              |  2  |          |         |          |          |     x    |
+|    Get a domain and a host for the web site        |  1  |          |         |      x   |          |          |
+|    Research on methods to test the software        |  3  |          |         |          |          |    x     |
+|    Add final details to the web site               |  2  |          |         |          |          |    x     |
+|    Subject proficiencies                           |  2  |          |         |          |          |    x     |
+|   Contribution to the video                        |  2  |          |         |          |          |    x     |
+| **Relevance average:**      | **2.2**   |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
 
 #### JOSE-CHI QUINTAL
@@ -82,13 +81,12 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|   Elaboration of the sequenze diagram                      |  3  |          |         |          |     x    |          |
-|   Register and write down the changes of the project                      |  3  |          |         |          |          |     x    |
-|    Investigation on how to get the MAC address                      |  2  |          |         |          |          |     x    |
-|    Elaboration of a tutorial that explains the users how to get the MAC address.                     |  1  |          |         |      x   |          |          |
+|   Elaboration of the sequence diagram                                              |  2  |          |         |          |     x    |          |
+|   Register and write down the changes of the project                               |  2  |          |         |          |          |     x    |
+|    Elaboration of a tutorial that explains the users how to get the MAC address.   |  2  |          |         |      x   |          |          |
 |    Summary that explains the progress made in the third sprint                     |  3  |       |         |          |          |    x     |
-|    Write an explanation of the sequence diagram.                     |  2  |       |         |          |          |    x     |
-|    Final details on the requirements specification list.                     |  2  |       |         |          |          |    x     |
-|   Contribution to the video   |  2  |       |         |          |          |    x     |
-| **Relevance average:**      | **2.2**  |        |        |          |          |          |
+|    Write an explanation of the sequence diagram.                                   |  2  |       |         |          |          |    x     |
+|    Final details on the requirements specification list.                           |  3  |       |         |          |          |    x     |
+|    Contribution to the video                                                       |  2  |       |         |          |          |    x     |
+| **Relevance average:**      | **2.2**   |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
