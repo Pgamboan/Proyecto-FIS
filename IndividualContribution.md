@@ -51,7 +51,7 @@ Metrics to determine relevance, according to each activity:
 |    Investigation about coding the web site         |  3  |          |         |          |          |     x    |
 |    Keep working on the web site                    |  3  |          |         |          |          |     x    |
 |    Making corrections to the web site              |  2  |          |         |          |          |     x    |
-|    Get a domain and a host for the web site        |  1  |          |         |      x   |          |          |
+|    Get a domain and a host for the web site        |  1  |          |     x   |          |          |          |
 |    Research on methods to test the software        |  3  |          |         |          |      x   |          |
 |    Add final details to the web site               |  2  |          |         |          |          |    x     |
 |    Subject proficiencies                           |  2  |          |         |          |          |    x     |
