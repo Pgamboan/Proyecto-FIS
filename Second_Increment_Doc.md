@@ -120,11 +120,10 @@ in the next sprint and connect it to the web app afterwards.
 
 ### Testing and validation.
 
-During the second sprint, the primary goal of the website is to link the users infomration with the skill, we decided to postpone tests like usability and instead carry out a conexion module acceptance test. 
-
 
 4 types of tests were agreed between the Product Owner and the Scrum Masters throughout the project: module connection test, acceptance test, functionality test and usability test. However, their realization could vary according to the constraints of the defined deliverable percentage.
 
+During the third sprint, the primary goal of the website is to link the users information with the web app we decided to postpone tests like usability and instead carry out a conexion module acceptance test. 
 
 Thus, during the development of this sprint, the login/logout connection module test will be performed to validate that the credentials are as required and will be taken as a successful login.
 
