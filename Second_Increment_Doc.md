@@ -157,8 +157,6 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 ![image](https://i.imgur.com/UI0ISGK.png)
 
-![image](https://i.imgur.com/6q8SxNq.png)
-
 
 #### Module connection with test code: Login interface
 
