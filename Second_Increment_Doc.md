@@ -133,8 +133,7 @@ Thus, during the development of this sprint, the login/logout connection module 
 * Specification: Testing of the login/logout module given the LwA (Login with Amazon) interface to access customer profile information.
 
 
-* Module without test code: Login inferface
-
+ #### Module without test code: Login inferface
 
 ![image](https://i.imgur.com/m6nwTgr.png)
 
@@ -162,7 +161,7 @@ Thus, during the development of this sprint, the login/logout connection module 
 ![image](https://i.imgur.com/6q8SxNq.png)
 
 
-Module connection with test code: Login inferface
+#### Module connection with test code: Login inferface
 
 It will also be tested with a test code to verify that the correct credentials are being received at the time of login.
 
@@ -210,15 +209,13 @@ In this code the login is validated in the same way, however this time the *amaz
 
 
 
-Module connection test code : Logout
+#### Module connection test code : Logout
 
 
 * In this code the "amazon.login.logout" function was used to eliminate the cache from the Amazon account and return to index.html
 
 
 ![imagecode](https://i.imgur.com/gEa0Bdp.png)
-
-
 
 In conclusion, the data provided by the test code are as expected, so it is concluded that the test was successful, and the system is functional.
 
