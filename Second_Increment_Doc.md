@@ -40,7 +40,6 @@ removal of the bot and it's associated non-functional requeriments, a requiremen
    * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate. 
 
 * FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered. 
-(US006, US007) **(C)**
 
    * (NFR003): The Azure platform will notify the developers of any error with the application. 
    
