@@ -158,7 +158,7 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 ![image](https://i.imgur.com/UI0ISGK.png)
 
-![image](https://imgur.com/a/ujIEYHz)
+![image](https://i.imgur.com/6q8SxNq.png)
 
 
 It will also be tested with a test code to verify that the correct credentials are being received at the time of login.
