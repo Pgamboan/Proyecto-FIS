@@ -44,21 +44,21 @@ Metrics to determine relevance, according to each activity:
 
 #### ABRAHAM RAYMUNDO CRUZ COLLI
 
-|              | **Determine relevance**   | 1                | 2              | 3                   | 4                     | 5                    |
-|--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
-| ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
+|              | **Determine relevance**     | 1                | 2              | 3                   | 4                   | 5                    |
+|--------------|-----------------------------|------------------|----------------|---------------------|---------------------|----------------------|
+| ACTIVITIES   | **Available options:**      | Deficient        | Bad            | Regular             | Good                | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|    Investigation about coding the web site         |  3  |          |         |          |     x    |          |
+|    Investigation about coding the web site         |  3  |          |         |          |          |     x    |
 |    Keep working on the web site                    |  3  |          |         |          |          |     x    |
 |    Making corrections to the web site              |  2  |          |         |          |          |     x    |
 |    Get a domain and a host for the web site        |  1  |          |         |      x   |          |          |
-|    Research on methods to test the software        |  3  |          |         |          |          |    x     |
+|    Research on methods to test the software        |  3  |          |         |          |      x   |          |
 |    Add final details to the web site               |  2  |          |         |          |          |    x     |
 |    Subject proficiencies                           |  2  |          |         |          |          |    x     |
-|  Contributions made on the presentation.                                         |  1  |          |         |          |    x     |          |
+|  Contributions made on the presentation.           |  1  |          |         |          |    x     |          |
 |   Contribution to the video                        |  2  |          |         |          |          |    x     |
-| **Relevance average:**      | **2.2**   |        |        |          |          |          |
-| **Performance average:**    | **4.55**  |        |        |          |          |          |
+| **Relevance average:**      | **2.2**   |          |     |          |         |          |
+| **Performance average:**    | **4.55**  |          |     |          |         |          |
 
 #### JOSE-CHI QUINTAL
 
