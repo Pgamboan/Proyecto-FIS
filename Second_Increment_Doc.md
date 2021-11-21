@@ -24,7 +24,7 @@
 When we chose our project, an Alexa skill that takes advantage of the Wake On Lan technology of the devices, we started an investigation of what we were going to need to start developing it, taking into account the technologies and software concepts to make a real software project.
 Throughout the first increment there were many discussions about the specification of requirements and the roles that each member would occupy, but an agreement was reached to continue working together and keep progressing based on the scrum methodology.
 
-In this second increment the tracking of the activities was modified to a calendar that was filled together with the logbook notes. Likewise, there were some changes to the requirements according to the difficulty and needs that we found when making the prototype. We carry out research and advances in the field of design in order to start the implementation of the project with a good basis and clearer ideas. The definiton of our "MVP" was a determining factor in the process at the beginning of the implementation phase. 
+In this second increment the tracking of the activities was modified to a calendar that was filled together with the logbook notes. Likewise, there were some changes to the requirements according to the difficulty and needs that we found when making the prototype. We carry out research and advances in the field of design in order to start the implementation of the project with a good basis and clearer ideas. The definiton of our "MVP" was a determining factor at the beginning of the implementation phase. 
 
 ### Redesign of the project requirements.
 
