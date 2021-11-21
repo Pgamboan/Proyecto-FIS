@@ -212,7 +212,7 @@ In this code the login is validated in the same way, however this time the *amaz
 #### Module connection test code : Logout inferface
 
 
-* In this code the "amazon.login.logout" function was used to eliminate the cache from the Amazon account and return to index.html
+* In this code the "amazon.login.logout" was used to eliminate the cache from the Amazon account and return to index.html
 
 
 ![imagecode](https://i.imgur.com/gEa0Bdp.png)
