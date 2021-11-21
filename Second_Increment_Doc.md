@@ -208,9 +208,9 @@ In this code the login is validated in the same way, however this time the *amaz
 In conclusion, the data provided by the test code are as expected, so it is concluded that the test was successful, and the system is functional.
 
 
-### Project planning / SCRUM
+### Project planning.
 <br>
-The scrum was again a fundamental part of the development and progress of the project. We used a new tool such as complementing the logbook with a more visual project calendar with which we were able to keep a reference as to the progress made and pending activities. The objective with this was to obtain a constant and planned progress that will lead us to finish the objectives without being in a hurry or not being able to deal with setbacks. A key to the functioning of the team was the willingness of each member to take on their responsibilities. 
+The scrum methodology was once again a fundamental part in the development and progress of the project. We used a new tool in order to complement the logbook with a more visual calendar in which we were able to keep a reference as to the progress made and pending activities. The objective with this was to obtain a constant and planned progress that will lead us to finish the objectives without being in a hurry or not being able to deal with setbacks. A key to the functioning of the team was the willingness of each member to take on their responsibilities. 
 
 
 ### Team roles
