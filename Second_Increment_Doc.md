@@ -116,7 +116,7 @@ Once users are logged in, the web app will redirect them to a new page where the
 ![image](https://i.imgur.com/4NSgWLj.png)
 
 The creation of the Alexa skill is currently under development and it's made possible thanks to the *Alexa.WakeOnlanController* interface. We plan on finishing it's development
-in the next couple of weeks and connect it to the web app afterwards.
+in the next sprint and connect it to the web app afterwards.
 
 ### Testing and validation.
 
