@@ -17,12 +17,10 @@ Metrics to determine relevance, according to each activity:
 |    Draft of architechtonic design diagram                     |  1  |          |         |          |          |    x     |
 |    Elaboration of the sequenze diagram                     |  3  |          |         |          |     x    |          |
 |    Start trazability matrix.                     |  3  |          |         |          |          |     x    |
-|     Make updates on the project calendar.                     |  2  |          |         |          |          |     x    |
+|     Elaboration of the deployment program                   |  2  |          |         |          |          |     x    |
 |     Writing of the document in markdown                    |  1  |          |         |      x   |          |          |
 |     Add final information to the presentation.                    |  3  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
-|                         |  2  |       |         |          |          |    x     |
-|                         |  3  |       |         |          |     x    |          |
+|      Make updates on the project calendar.                      |  2  |       |         |          |          |    x     |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
 
