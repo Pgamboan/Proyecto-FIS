@@ -64,14 +64,16 @@ Metrics to determine relevance, according to each activity:
 |--------------|-----------------------------|------------------|----------------|---------------------|-----------------------|----------------------|
 | ACTIVITIES  | **Available options:**   | Deficient       | Bad           | Regular             | Good                 | Excellent            |
 |     DESCRIPTION           | **1: Low............ 2: Medium...   3: High..........**    | The assigned task wasn´t fulfilled at all. | The work presents considerable difficulties and is incomplete. | Normal performance, complies correctly with what has been requested. | The requested for the assigned task was effectively fulfilled. | The assigned objective and/or task was perfectly accomplished in a timely manner. |
-|  Investigation about coding in alexa                       |  3  |          |         |          |     x    |          |
-|  Keep working on the web site                       |  3  |          |         |          |          |     x    |
-|  Elaboration of the privacy policy of the web site.                       |  2  |          |         |          |          |     x    |
-|  Get a domain and a host for the web site.                      |  1  |          |         |      x   |          |          |
-|   Implementation of the MAC address input.                      |  3  |       |         |          |          |    x     |
-|    Research on methods to test the software                     |  2  |       |         |          |          |    x     |
-|    Explanation on progress made in implementation.                     |  2  |       |         |          |          |    x     |
-|   Contribution to the video   |  2  |       |         |          |          |    x     |
+|  Write introductory paragraph                  |  2  |          |         |          |          |     x    |
+|  Investigation about coding in LwA interface.                   |  3  |          |         |          |     x    |          |
+|  Explanation on progress made in implementation.                     |  2  |       |         |          |          |    x     |
+|  Get the web hosting                   |  3  |          |         |          |          |     x    |
+|  Keep working on the web site                       |  2  |          |         |          |          |     x    |
+|  Elaboration of the privacy policy of the web site                       |  2  |          |         |          |          |     x    |
+|  Elaboration of the connection module: login/logout with LwA                      |  3  |          |         |          |          |     x    |
+|  Testing of the connection module: login/logout with LwA                    |  3  |          |         |          |          |     x    |
+|  Write testing document                    |  2  |          |         |          |          |     x    |
+|  Contribution to the video   |  2  |       |         |          |          |    x     |
 | **Relevance average:**      | **2.2**  |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
 
