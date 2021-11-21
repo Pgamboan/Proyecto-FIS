@@ -173,19 +173,6 @@ It will also be tested with a test code to verify that the correct credentials a
 In this code the login is validated in the same way, however this time the *amazon.retrieveToken* is used to exchange an access token in order to double check the profile information *(profile.Name,profile.PrimaryEmail,profile.CostumerID)*.
 
 
-
-##### Account login details with test account (any Amazon Account):
-
-
-* Email: joeychiquintal403@gmail.com
-
-
-* Password: *********
-
-
-![image](https://i.imgur.com/BHL6BWc.png)
-
-
 ##### Output data within the web app:
 
 * Name: 
@@ -206,8 +193,6 @@ In this code the login is validated in the same way, however this time the *amaz
 ![imageprofile.CostumerID](https://i.imgur.com/7zRA7jO.png)
 
 
-
-
 #### Module connection test code : Logout interface
 
 
@@ -216,25 +201,25 @@ In this code the login is validated in the same way, however this time the *amaz
 
 ![imagecode](https://i.imgur.com/gEa0Bdp.png)
 
-* Proof: (If you want to access again, you should login with you Amazon account).
+* Proof: (If you want to access again, you should login with your Amazon account).
+
 
 ![imagepage](https://i.imgur.com/9OMn2vL.png)
-
-
-
 
 
 In conclusion, the data provided by the test code are as expected, so it is concluded that the test was successful, and the system is functional.
 
 
-### Calendar
+### Project planning / SCRUM
+<br>
+The scrum was again a fundamental part of the development and progress of the project. We used a new tool such as complementing the logbook with a more visual project calendar with which we were able to keep a reference as to the progress made and pending activities. The objective with this was to obtain a constant and planned progress that will lead us to finish the objectives without being in a hurry or not being able to deal with setbacks. A key to the functioning of the team was the willingness of each member to take on their responsibilities. 
 
 
 ### Team roles
+<br>
 
 
 ### Subject Proficiencies
-
 #### GENERAL PROFICIENCIES
 <br>
 
