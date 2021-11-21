@@ -131,14 +131,25 @@ Thus, during the development of this sprint, the login/logout connection module 
 
 #### CONNECTION MODULE TEST: LOGIN/LOGOUT (Q/A)
 
-##### Testing preview.
-
 * Specification: Testing of the login/logout module given the LwA (Login with Amazon) interface to access customer profile information.
 * Module without test code:
 
 
 ![image](https://i.imgur.com/m6nwTgr.png)
 
+##### Account login details with test account (any Amazon Account):
+
+
+* Email: joeychiquintal403@gmail.com
+
+
+* Password: *********
+
+
+![image](https://i.imgur.com/BHL6BWc.png)
+
+
+##### Testing preview.
 
 * Proof: The module returns the index2.html with the unique access token and its attributes. We confirm the test was successful.
 
