@@ -84,9 +84,12 @@ Metrics to determine relevance, according to each activity:
 |   Elaboration of the sequence diagram                                              |  2  |          |         |          |     x    |          |
 |   Register and write down the changes of the project                               |  2  |          |         |          |          |     x    |
 |    Elaboration of a tutorial that explains the users how to get the MAC address.   |  2  |          |         |      x   |          |          |
-|    Summary that explains the progress made in the third sprint                     |  3  |       |         |          |          |    x     |
-|    Write an explanation of the sequence diagram.                                   |  2  |       |         |          |          |    x     |
-|    Final details on the requirements specification list.                           |  3  |       |         |          |          |    x     |
-|    Contribution to the video                                                       |  2  |       |         |          |          |    x     |
+|    Summary that explains the progress made in the third sprint                     |  3  |          |         |          |          |    x     |
+|    Write an explanation of the sequence diagram.                                   |  2  |          |         |          |          |    x     |
+|    Final details on the requirements specification list.                           |  3  |          |         |          |          |    x     |
+|    Contribution to the video                                                       |  2  |          |         |          |          |    x     |
+|    Write an explanation of the progress in the implentation phase.                 |  2  |          |         |          |          |    x     |
+|    Implementation auxiliar                                                         |  2  |          |         |          |          |    x     |
+|    Contributions made on the presentation.                                         |  1  |          |         |          |          |    x     |
 | **Relevance average:**      | **2.2**   |        |        |          |          |          |
 | **Performance average:**    | **4.55**  |        |        |          |          |          |
