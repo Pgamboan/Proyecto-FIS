@@ -211,6 +211,7 @@ In conclusion, the data provided by the test code are as expected, so it is conc
 ### Project planning
 <br>
 The scrum methodology was once again a fundamental part in the development and progress of the project. We used a new tool in order to complement the logbook with a more visual calendar in which we were able to keep a reference as to the progress made and pending activities. The objective with this was to obtain a constant and planned progress that will lead us to finish the objectives without being in a hurry or not being able to deal with setbacks. A key to the functioning of the team was the acceptance of each team role and over all the willingness of each member to take on their responsibilities. 
+<br>
 
 
 We saw an improvement in the area of reaching agreements, fulfillment of responsibilities and effectiveness in the hours worked. By getting to know the team and each other's capabilities, strengths and weaknesses, we were able to design accurate roles and this helped us to complement each other quite well, however, the productivity achieved can be raised much more, improving the way we use our tools and artifacts. 
