@@ -220,7 +220,7 @@ The scrum methodology was once again a fundamental part in the development and p
 We saw an improvement in the area of reaching agreements, fulfillment of responsibilities and effectiveness in the hours worked. By getting to know the team and each other's capabilities, strengths and weaknesses, we were able to design accurate roles and this helped us to complement each other quite well, however, the productivity achieved can be raised much more, improving the way we use our tools and artifacts. 
 <br>
 
-![lista]()
+![lista](https://i.imgur.com/G9gqMo4.png)
 
 
 ### Subject Proficiencies
