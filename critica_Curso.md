@@ -10,6 +10,6 @@
   * Definir las fechas de entrega con suficiente tiempo de anticipacion.
   * Falta de organización al momento de recibir participaciones.
 ### Propuestas de actividades que fomenten la adquisición de las competencias.
-* No sé
+* (Abraham)
 ### Cómo mejorar el seguimiento	de las competencias en los estudiantes.
-* Tampoco sé
+* (Abraham)
