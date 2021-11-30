@@ -10,6 +10,8 @@
   * Definir las fechas de entrega con suficiente tiempo de anticipacion.
   * Falta de organización al momento de recibir participaciones.
 ### Propuestas de actividades que fomenten la adquisición de las competencias.
-* (Abraham)
+* Fomentar un acercamiento más técnico de herramientas afines a la Ingeniería de Software.
+* Dinamicas enfocadas a favorecer un cierto grado de familiaridad entre los alumnos.
+* Clases más interactivas mediante actividades que favorezcan la participación de los alumnos.
 ### Cómo mejorar el seguimiento	de las competencias en los estudiantes.
-* (Abraham)
+* Mediante el uso de las TIC se puede tener el seguimiento adecuado para la adqusición de competencias.
