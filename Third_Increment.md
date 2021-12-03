@@ -36,4 +36,6 @@ US007: As an Alexa user, I want to control multiple devices for more control and
 US008: As an Alexa user, I want to be able to ask questions within the comments area of the skill to help me solve my doubts. 
 
 The next step was to create a use case diagram in order to view how the step sisystem xd would communicate, behave and interact with the user:
+
+
 ![Imagen 1](https://i.imgur.com/pro31ZN.png)
