@@ -13,3 +13,11 @@ Durante el desarrollo del producto, nos apoyamos en la metodología SCRUM, sin e
 
 La asignación de roles dentro del equipo fue una etapa muy importante, Para controlar el avance de cada sprint se utilizó la herramienta Monday.com, sin embargo en caso de necesitar alguna revisión extra o cambio urgente en la información del repositorio, se realizaron reuniones específicas con los miembros correspondientes para discutir los temas a cambiar o renovar sin ser tomados en cuenta dentro de las tareas del grupo. Al final de cada sprint, se organizaba una "reunión retrospectiva del sprint" de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto.
 
+## Explicación de las métricas de contribución individual
+
+Para medir la contribución de cada uno de los integrantes al proyecto se realizaron 2 tablas. En la primera se introdujeron todas las actividades que realizó cada integrante y se calificaron de acuerdo a su relevancia en el proyecto y el desempeño que se tuvo durante la realización de la actividad,obteniendo dos promedios finales para cada integrante: el de relevancia con valor de 55% y el de desempeño con valor de 30%; el porcentaje restante se divide en un 10% con el hecho de haber cumplido con las actividades asignadas y el último 5% con respecto a la asistencia registrada en las reuniones del equipo.
+
+En la segunda tabla en una contabilizamos todos estos factores, posteriormente realizabamos una regla de tres para obtener valores que sumados sean igual al 100%.
+
+Se esperaba que al final de cada incremento cada miembro del equipo aportará con un 20%, al final del tercer incremento realizamos las métricas de contribución individual con respecto a todo el progreso del proyecto. 
+
