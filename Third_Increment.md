@@ -21,3 +21,19 @@ En la segunda tabla en una contabilizamos todos estos factores, posteriormente r
 
 Se esperaba que al final de cada incremento cada miembro del equipo aportará con un 20%, al final del tercer incremento realizamos las métricas de contribución individual con respecto a todo el progreso del proyecto. 
 
+# Herramientas SCRUM
+# Requirements
+
+The first step in the development process was to create a list of requirements to have a vision of what we want to accomplish with our product. But given that none of the team members had any concrete ideas we decided to make user stories using the comments of the failed skill first:
+
+US001: As an Alexa user, I want to be able to automate the on/off of my computer to be more efficient.
+US002: As an Alexa user, I want to be able to turn on my computer from another location so I can make more use of my time. 
+US003: As an Alexa user, I want to be able to control other devices such as televisions to have more control over all my devices. 
+US004: As an Alexa user, I want to have instructions to help me to be able to implement the skill. 
+US005: As an Alexa user, I want to schedule a power-on time so that my devices are coupled with my routine and I can make the most of my time. 
+US006: As an Alexa user, I want to be able to customize the name to devices so that controlling them is easier. 
+US007: As an Alexa user, I want to control multiple devices for more control and convenience. 
+US008: As an Alexa user, I want to be able to ask questions within the comments area of the skill to help me solve my doubts. 
+
+The next step was to create a use case diagram in order to view how the step sisystem xd would communicate, behave and interact with the user:
+
