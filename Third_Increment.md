@@ -39,3 +39,32 @@ The next step was to create a use case diagram in order to view how the step sis
 
 
 ![Imagen 1](https://i.imgur.com/pro31ZN.png)
+
+
+Once the team had a better idea of what our product should be able to do, we continued on to the creation of the system’s functional and non-functional requirements:
+
+FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
+(NFR001): The user will be able to control the skill from any Alexa-enabled device.
+(NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate.
+FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered.              
+(NFR003): The Azure platform will notify the developers of any error with the application.
+(NFR004): Only developers have access to the database/platform.
+(NFR005): The user will have to log in with their Amazon account to link their data with Alexa.
+FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database.
+(NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered.
+(NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address.
+FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
+(NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database.
+
+
+once the team had a better grasp of how the process of development was going to be, what it was going to take to fully develop our product and of our own skills we made a redesign of the system’s requirements:
+
+FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
+(NFR001): The user will be able to control the skill from any Alexa-enabled device.
+(NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate.
+FR002: Develop a web application where the MAC address of the devices will be registered.
+(NFR004): Only developers have access to the database/platform.
+(NFR005): The user will have to log in with their Amazon account to link their data with Alexa.
+(NFR006): There will be a tutorial on how to find and register the Mac address.
+(NFR007):There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
+
