@@ -68,3 +68,21 @@ FR002: Develop a web application where the MAC address of the devices will be re
 (NFR006): There will be a tutorial on how to find and register the Mac address.
 (NFR007):There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
 
+
+## Diseño
+
+La etapa de diseño tuvimos dos formas de verla a lo largo del desarrollo, mediante el diseño arquitectónico y diseño de datos, para llegar a una forma de expresar lo necesario de estos dos conceptos, optamos por emplear diagramas que expresaran la información que queríamos. 
+Se realizó un diagrama de despliegue que muestra cómo el hardware y el software interactúan entre sí.
+(ingrese foto del diagrama)
+Y el diagrama de secuencia lo utilizamos enfocado con nuestra página web, mostrando la interacción (acciones a realizar)  esperada entre el usuario y las diferentes áreas que conforman todo el producto.
+(ingrese foto del diagrama)
+Estos diagramas nos ayudaron a tener un diseño preciso de lo que sería el producto final. todo con información previamente recolectada en las anteriores fases del desarrollo.
+
+
+## Implementación 
+
+
+Dentro de la fase de implementación, desarrollamos nuestra aplicación web en JavaScript, aquí los usuarios podrán encontrar ayuda, información de la skill,  personalizar el nombre de sus dispositivos e ingresar su dirección MAC; así poder sincronizar los datos indispensables para el funcionamiento de la skill con la cuenta vinculada a su dispositivo Amazon Alexa.
+
+Nuestra aplicación web se diseñó para ser simple, por ende esta tiene lo mínimo necesario para funcionar, sin descuidar el apartado visual; de igual forma, pensando en la seguridad ésta cuenta con certificado SSL y también con el servicio de “Login with Amazon”, que facilita el inicio de sesión del usuario con su cuenta de Amazon, de una forma confiable
+
