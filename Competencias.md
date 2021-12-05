@@ -20,12 +20,12 @@ La base del equipo durante todo el desarrollo fue la toma de decisiones ya que a
 
 # COMPETENCIAS ESPECÍFICAS
 
-Identifica los conceptos vinculados con las fases de requisitos, diseño, desarrollo, pruebas y mantenimiento, de acuerdo los organismos reconocidos en la disciplina:
+## Identifica los conceptos vinculados con las fases de requisitos, diseño, desarrollo, pruebas y mantenimiento, de acuerdo los organismos reconocidos en la disciplina:
 De manera general, cada uno de los integrantes se desempeñó de manera correcta durante todas las fases, conociendo cada uno de las fases y su implementación. Así también los conocimientos adquiridos en clase fueron complementados con el uso de fuentes de información como el SWEBOK o la IEEE, de esta manera se trazó la ruta que se siguió durante el desarrollo de esta etapa del proyecto.
-Identifica los conceptos vinculados con los procesos de estimación, planificación, seguimiento, control, calidad y configuración, de acuerdo con lo aceptable por organismos reconocidos en la disciplina:
+## Identifica los conceptos vinculados con los procesos de estimación, planificación, seguimiento, control, calidad y configuración, de acuerdo con lo aceptable por organismos reconocidos en la disciplina:
 Se tuvo ayuda del mentor, recursos e investigaciones individuales para así aplicar conceptos, prácticas y criterios estándar en cada etapa del proyecto para así mejorar el control del desarrollo de cada fase, en consecuencia, poder comprender mejor las actividades que se realizaron.
-Identifica los factores humanos inmersos en los procesos de desarrollo de software que inciden en el éxito de proyectos de software:
+##Identifica los factores humanos inmersos en los procesos de desarrollo de software que inciden en el éxito de proyectos de software:
 En todo momento se tomó en cuenta las habilidades de cada integrante y por lo tanto focalizar sus fortalezas en las tareas asignadas. Se dio importancia a las aportaciones y la disponibilidad de cada uno y de igual manera, se retroalimentó cada actividad en conjunto para llegar al nivel de satisfacción deseado.
-Utiliza adecuadamente la terminología propia de la Ingeniería de Software en sus intervenciones profesionales:
+## Utiliza adecuadamente la terminología propia de la Ingeniería de Software en sus intervenciones profesionales:
 Se estimuló constantemente a los integrantes a hacer uso de terminología adecuada en cada intervención oral y escrita; en caso de desconocer el término apropiado se instruyeron investigaciones, uso de herramientas como el glosario de la IEEE e igual se contó con la ayuda del mentor quién nos orientó durante toda esta etapa.
 
