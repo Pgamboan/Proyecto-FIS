@@ -26,14 +26,22 @@ Se esperaba que al final de cada incremento cada miembro del equipo aportará co
 
 The first step in the development process was to create a list of requirements to have a vision of what we want to accomplish with our product. But given that none of the team members had any concrete ideas we decided to make user stories using the comments of the failed skill first:
 
-US001: As an Alexa user, I want to be able to automate the on/off of my computer to be more efficient.
-US002: As an Alexa user, I want to be able to turn on my computer from another location so I can make more use of my time. 
-US003: As an Alexa user, I want to be able to control other devices such as televisions to have more control over all my devices. 
-US004: As an Alexa user, I want to have instructions to help me to be able to implement the skill. 
-US005: As an Alexa user, I want to schedule a power-on time so that my devices are coupled with my routine and I can make the most of my time. 
-US006: As an Alexa user, I want to be able to customize the name to devices so that controlling them is easier. 
-US007: As an Alexa user, I want to control multiple devices for more control and convenience. 
-US008: As an Alexa user, I want to be able to ask questions within the comments area of the skill to help me solve my doubts. 
+* US001: As an Alexa user, I want to be able to automate the on/off of my computer to be more efficient.
+
+* US002: As an Alexa user, I want to be able to turn on my computer from another location so I can make more use of my time. 
+
+* US003: As an Alexa user, I want to be able to control other devices such as televisions to have more control over all my devices. 
+
+* US004: As an Alexa user, I want to have instructions to help me to be able to implement the skill. 
+
+* US005: As an Alexa user, I want to schedule a power-on time so that my devices are coupled with my routine and I can make the most of my time. 
+
+* US006: As an Alexa user, I want to be able to customize the name to devices so that controlling them is easier. 
+
+* US007: As an Alexa user, I want to control multiple devices for more control and convenience. 
+
+* US008: As an Alexa user, I want to be able to ask questions within the comments area of the skill to help me solve my doubts. 
+
 
 The next step was to create a use case diagram in order to view how the step sisystem xd would communicate, behave and interact with the user:
 
@@ -43,30 +51,30 @@ The next step was to create a use case diagram in order to view how the step sis
 
 Once the team had a better idea of what our product should be able to do, we continued on to the creation of the system’s functional and non-functional requirements:
 
-FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
-(NFR001): The user will be able to control the skill from any Alexa-enabled device.
-(NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate.
-FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered.              
-(NFR003): The Azure platform will notify the developers of any error with the application.
-(NFR004): Only developers have access to the database/platform.
-(NFR005): The user will have to log in with their Amazon account to link their data with Alexa.
-FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database.
-(NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered.
-(NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address.
-FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
-(NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database.
+* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
+  * (NFR001): The user will be able to control the skill from any Alexa-enabled device.
+  * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate.
+* FR002: Implement, through Microsoft Azure services, a web application where the IP/MAC addresses of the devices will be entered.              
+  * (NFR003): The Azure platform will notify the developers of any error with the application.
+  * (NFR004): Only developers have access to the database/platform.
+  * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa.
+* FR003: Implement, through the web application, a bot wizard to help the user enter the IP and MAC address into the database.
+  * (NFR006): The bot will assist by means of a tutorial, the way in which the corresponding addresses should be entered.
+  * (NFR007): As a "pop up" the bot will issue a message in case of entering a wrong IP/MAC address.
+* FR004: There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
+  * (NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database.
 
 
-once the team had a better grasp of how the process of development was going to be, what it was going to take to fully develop our product and of our own skills we made a redesign of the system’s requirements:
+Although we now had a better idea of the product, the requirements still needed refinements. So we had team discussions on how viable were the requirements from the first sprint, what it was going to take to fully develop our product and of our own skills we made a redesign of the system’s requirements:
 
-FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
-(NFR001): The user will be able to control the skill from any Alexa-enabled device.
-(NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate.
-FR002: Develop a web application where the MAC address of the devices will be registered.
-(NFR004): Only developers have access to the database/platform.
-(NFR005): The user will have to log in with their Amazon account to link their data with Alexa.
-(NFR006): There will be a tutorial on how to find and register the Mac address.
-(NFR007):There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
+* FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
+  * (NFR001): The user will be able to control the skill from any Alexa-enabled device.
+  * (NFR002): The user can specify the type of action to be performed: startup, shutdown, sleep, restart and hibernate.
+* FR002: Develop a web application where the MAC address of the devices will be registered.
+  * (NFR004): Only developers have access to the database/platform.
+  * (NFR005): The user will have to log in with their Amazon account to link their data with Alexa.
+  * (NFR006): There will be a tutorial on how to find and register the Mac address.
+  * (NFR007):There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
 
 
 ## Diseño
