@@ -65,7 +65,7 @@ Once the team had a better idea of what our product should be able to do, we con
   * (NFR008): The tutorial will be opened automatically when the user indicates the corresponding addresses in the bot database.
 
 
-Although we now had a better idea of the product, the requirements still needed refinements. So we had team discussions on how viable were the requirements from the first sprint, what it was going to take to fully develop our product and of our own skills we made a redesign of the system’s requirements:
+Although we now had a better idea of the product, the requirements still needed refinement. So we had team discussions on how viable were the requirements from the first sprint, what it was going to take to fully develop our product and of our own skills we made a redesign of the system’s requirements:
 
 * FR001: The skill will be able to control the on/off options menu of WoL protocol compatible devices through the Alexa assistant.
   * (NFR001): The user will be able to control the skill from any Alexa-enabled device.
