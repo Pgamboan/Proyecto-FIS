@@ -96,7 +96,7 @@ Nuestra aplicación web se diseñó para ser simple, por ende esta tiene lo mín
 
 ## Subject Proficiencies
 
-### COMPETENCIAS GENERALES
+### General Proficiencies
 #### Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma.
 
 Durante el desarrollo de nuestro proyecto la comunicación fue un factor clave, esto fue puesto en marcha al momento de transmitir ideas mediante participaciones ordenadas, respetuosas y sencillas, facilitando la aportación de cada integrante así como hacer más eficiente el manejo de información dentro del equipo. Igualmente la redacción ordenada y clara fue vital para nosotros, pues las ideas aportadas, en la mayoría de los casos, se redactaban directamente en los documentos de las entregas correspondientes, así mismo mantuvieron revisiones gramaticales de manera constante.
@@ -110,13 +110,7 @@ Durante el desarrollo de todo el proyecto hemos compartido experiencias con pers
 #### Toma decisiones en su práctica profesional y personal, de manera responsable:
 La base del equipo durante todo el desarrollo fue la toma de decisiones ya que ayudó a la formación y distribución de información mediante la comunicación continua de cada integrante. Así mismo se dio prioridad a decisiones en base a fechas límite, dificultades en las etapas de desarrollo del proyecto y documentación general.
 
-
-
-
-
-
-
-### COMPETENCIAS ESPECÍFICAS
+### Specific Proficiencies
 
 #### Identifica los conceptos vinculados con las fases de requisitos, diseño, desarrollo, pruebas y mantenimiento, de acuerdo los organismos reconocidos en la disciplina:
 De manera general, cada uno de los integrantes se desempeñó de manera correcta durante todas las fases, conociendo cada uno de las fases y su implementación. Así también los conocimientos adquiridos en clase fueron complementados con el uso de fuentes de información como el SWEBOK o la IEEE, de esta manera se trazó la ruta que se siguió durante el desarrollo de esta etapa del proyecto.
