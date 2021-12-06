@@ -1,3 +1,3 @@
 # Access link to our video: 
 
-[![Click here](https://i.ytimg.com/an_webp/84rZRl9dbj4/mqdefault_6s.webp?du=3000&sqp=COb1t40G&rs=AOn4CLDn3RcSRkJ3uZg5_yAjfg4wE958Ug)](https://www.youtube.com/watch?v=84rZRl9dbj4 "Click here")
+[![Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1638799735/video_to_markdown/images/youtube--84rZRl9dbj4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=84rZRl9dbj4 "Video")
