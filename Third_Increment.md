@@ -80,7 +80,7 @@ Although we now had a better idea of the product, the requirements still needed 
   * (NFR007):There will be a tutorial to show users how to initialize the Alexa skill inside their devices.
 
 
-# Diseño
+# Design
 
 The design stage we had two ways to see it throughout the development, through architectural design and data design, to reach a way to express the necessary of these two concepts, we chose to use diagrams to express the information we wanted. 
 A deployment diagram was made to show how the hardware and software interact with each other.
@@ -90,7 +90,7 @@ On the other hand, we use the sequence diagram focused on our website, showing t
 These diagrams helped us to have an accurate design of what would be the final product, all with information previously collected in the previous phases of development.
 
 
-# Implementación 
+# Implementation
 
 
 Within the implementation phase, we developed our web application in JavaScript, here users can find help, skill information, customize the name of their devices and enter their MAC address; so they can synchronize the essential data for the operation of the skill with the account linked to their Amazon Alexa device.
