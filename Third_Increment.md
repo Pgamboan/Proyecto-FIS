@@ -82,20 +82,20 @@ Although we now had a better idea of the product, the requirements still needed 
 
 # Diseño
 
-La etapa de diseño tuvimos dos formas de verla a lo largo del desarrollo, mediante el diseño arquitectónico y diseño de datos, para llegar a una forma de expresar lo necesario de estos dos conceptos, optamos por emplear diagramas que expresaran la información que queríamos. 
-Se realizó un diagrama de despliegue que muestra cómo el hardware y el software interactúan entre sí.
+The design stage we had two ways to see it throughout the development, through architectural design and data design, to reach a way to express the necessary of these two concepts, we chose to use diagrams to express the information we wanted. 
+A deployment diagram was made to show how the hardware and software interact with each other.
 (ingrese foto del diagrama)
-Y el diagrama de secuencia lo utilizamos enfocado con nuestra página web, mostrando la interacción (acciones a realizar)  esperada entre el usuario y las diferentes áreas que conforman todo el producto.
+On the other hand, we use the sequence diagram focused on our website, showing the expected interaction (actions to be performed) between the user and the different areas that make up the entire product.
 (ingrese foto del diagrama)
-Estos diagramas nos ayudaron a tener un diseño preciso de lo que sería el producto final. todo con información previamente recolectada en las anteriores fases del desarrollo.
+These diagrams helped us to have an accurate design of what would be the final product, all with information previously collected in the previous phases of development.
 
 
 # Implementación 
 
 
-Dentro de la fase de implementación, desarrollamos nuestra aplicación web en JavaScript, aquí los usuarios podrán encontrar ayuda, información de la skill,  personalizar el nombre de sus dispositivos e ingresar su dirección MAC; así poder sincronizar los datos indispensables para el funcionamiento de la skill con la cuenta vinculada a su dispositivo Amazon Alexa.
+Within the implementation phase, we developed our web application in JavaScript, here users can find help, skill information, customize the name of their devices and enter their MAC address; so they can synchronize the essential data for the operation of the skill with the account linked to their Amazon Alexa device.
 
-Nuestra aplicación web se diseñó para ser simple, por ende esta tiene lo mínimo necesario para funcionar, sin descuidar el apartado visual; de igual forma, pensando en la seguridad ésta cuenta con certificado SSL y también con el servicio de “Login with Amazon”, que facilita el inicio de sesión del usuario con su cuenta de Amazon, de una forma confiable
+Our web application was designed to be simple, therefore it has the minimum necessary to function, without neglecting the visual section; likewise, thinking about security it has SSL certificate and also with the service "Login with Amazon", which facilitates the user login with your Amazon account, in a reliable way.
 
 # Subject Proficiencies
 
