@@ -1,4 +1,4 @@
-# Introducction
+# Introduction
 
 We are the Alexa Wake On LAN team. Currently technology has evolved at a very fast pace during the life of the human being, it is not to think that less than a century ago the internet was conceived and with it a new way of life and automation. Therefore, as a team we were looking for a way to contribute to automation and streamline everyday processes. We also considered the pandemic situation that governs us and the virtualization of many common processes within the social area (work, school, documentation, etc.). Thanks to this was born the idea of creating a "skill" that allows users to automate the on/off process of their devices that comply with the WoL (Wake on Lan) protocol compatibility, which would be implemented within a robust and accessible interface to Alexa users.
 
