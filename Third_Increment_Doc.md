@@ -120,7 +120,14 @@ These diagrams helped us to have an accurate design of what would be the final p
 
 Within the implementation phase, we developed our web application in JavaScript, here users can find help, skill information, customize the name of their devices and enter their MAC address; so they can synchronize the essential data for the operation of the skill with the account linked to their Amazon Alexa device.
 
+![image](https://i.imgur.com/4NSgWLj.png)
+
+
 Our web application was designed to be simple, therefore it has the minimum necessary to function, without neglecting the visual section; likewise, thinking about security it has SSL certificate and also with the service "Login with Amazon", which facilitates the user login with your Amazon account, in a reliable way.
+
+![image](https://i.imgur.com/SWorcIl.png)
+
+![image](https://i.imgur.com/MvuSnHQ.png)
 
 # Subject Proficiencies
 
