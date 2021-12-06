@@ -7,5 +7,4 @@
 * One of the most important lessons we learnt during the development was the role assignment that needed to be adecueate to every team member's 
 strengths in order to fully take advantage of our abilities. 
 
-* En cuanto a la adaptación a metodología de scrum, nos sirvió para tener en mente que los avances debían de ser constantes y el aprendizaje progresivo. 
-  Fue un cambio de mentalidad radical debido a que no teníamos experiencia en proyecto a mediano/largo plazo pero sin embargo es algo muy enriquecedor para nuestro desarrollo.
+* As far as the adaptation of Scrum, it helped us to keep in mind a constant progress and progressive learning. It was a radical change to our way of thinking due to the fact that we had no experience in medium/long term proyects, nevertheless it was a very enlightening experience for our development as students and future engineers.
