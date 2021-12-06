@@ -7,4 +7,4 @@
 * One of the most important lessons we learnt during the development was the role assignment that needed to be adecueate to every team member's 
 strengths in order to fully take advantage of our abilities. 
 
-* As far as the adaptation of Scrum, it helped us to keep in mind a constant progress and progressive learning. It was a radical change to our way of thinking due to the fact that we had no experience in medium/long term proyects, nevertheless it was a very enlightening experience for our development as students and future engineers.
+* Regarding the adaptation of Scrum, it helped us to keep in mind a constant progress and progressive learning. It was a radical change to our way of thinking due to the fact that we had no experience in medium/long term proyects, nevertheless it was a very enlightening experience for our development as students and future engineers.
