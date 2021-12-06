@@ -1,27 +1,30 @@
-# Introducción // Justificación del proyecto
+# Introducction
 
-Somos el equipo de Alexa Wake On LAN. Actualmente la tecnología ha evolucionado a un paso muy grande durante la vida del ser humano, no es de pensar que hasta hace menos de un siglo el internet fue concebido y consigo una nueva forma de vida y automatización. Por ello como equipo buscábamos una manera de contribuir con la automatización y agilizar procesos cotidianos. Así mismo consideramos a la situación pandémica que nos rige y a la virtualización de muchos procesos comunes dentro del área social (trabajo, escuela, documentación, etc.). Gracias a esto nació la idea de realizar una “habilidad” que permita a los usuarios automatizar el proceso de encendido/apagado de sus dispositivos que cumplan con la compatibilidad hacia el protocolo WoL (Wake on Lan), misma que se implementaría dentro de una interfaz robusta y accesible hacia los usuarios de Alexa.
-
-# Resumen del producto 
-
-## Organización del proyecto. 
-
-Durante el desarrollo del producto, nos apoyamos en la metodología SCRUM, sin embargo, realizamos ciertas modificaciones para que se adaptará a las características y limitaciones de nuestro proyecto, el punto de utilizar una metodología ágil, se centra en cómo deben de  trabajar los miembros del equipo para producir un sistema flexible en un entorno en cambios constantes.
+We are the Alexa Wake On LAN team. Currently technology has evolved at a very fast pace during the life of the human being, it is not to think that less than a century ago the internet was conceived and with it a new way of life and automation. Therefore, as a team we were looking for a way to contribute to automation and streamline everyday processes. We also considered the pandemic situation that governs us and the virtualization of many common processes within the social area (work, school, documentation, etc.). Thanks to this was born the idea of creating a "skill" that allows users to automate the on/off process of their devices that comply with the WoL (Wake on Lan) protocol compatibility, which would be implemented within a robust and accessible interface to Alexa users.
 
 
-## Seguimiento de los avances.
+# Summary of the product.
 
-La asignación de roles dentro del equipo fue una etapa muy importante, Para controlar el avance de cada sprint se utilizó la herramienta Monday.com, sin embargo en caso de necesitar alguna revisión extra o cambio urgente en la información del repositorio, se realizaron reuniones específicas con los miembros correspondientes para discutir los temas a cambiar o renovar sin ser tomados en cuenta dentro de las tareas del grupo. Al final de cada sprint, se organizaba una "reunión retrospectiva del sprint" de 30 minutos y, en su defecto, cada miembro del equipo compartía sus dificultades y logros dentro del proyecto.
+## Project Organization.
 
-## Explicación de las métricas de contribución individual
+During product development, we relied on the SCRUM methodology, however, we made certain modifications to adapt it to the characteristics and limitations of our project, the point of using an agile methodology is focused on how team members should work to produce a flexible system in a constantly changing environment.
 
-Para medir la contribución de cada uno de los integrantes al proyecto se realizaron 2 tablas. En la primera se introdujeron todas las actividades que realizó cada integrante y se calificaron de acuerdo a su relevancia en el proyecto y el desempeño que se tuvo durante la realización de la actividad,obteniendo dos promedios finales para cada integrante: el de relevancia con valor de 55% y el de desempeño con valor de 30%; el porcentaje restante se divide en un 10% con el hecho de haber cumplido con las actividades asignadas y el último 5% con respecto a la asistencia registrada en las reuniones del equipo.
 
-En la segunda tabla en una contabilizamos todos estos factores, posteriormente realizabamos una regla de tres para obtener valores que sumados sean igual al 100%.
+## Progress Monitoring.
 
-Se esperaba que al final de cada incremento cada miembro del equipo aportará con un 20%, al final del tercer incremento realizamos las métricas de contribución individual con respecto a todo el progreso del proyecto. 
+The assignment of roles within the team was a very important stage. To monitor the progress of each sprint, the Monday.com tool was used, however in case of needing any extra revision or urgent change in the repository information, specific meetings were held with the corresponding members to discuss the issues to be changed or renewed without being taken into account within the group tasks. At the end of each sprint, a 30-minute "sprint retrospective meeting" was organized and, failing that, each team member shared their difficulties and achievements within the project.
 
-# Herramientas SCRUM
+
+## Explanation of individual contribution metrics.
+
+To measure the contribution of each of the members to the project, two tables were created. In the first one we entered all the activities performed by each member and rated them according to their relevance in the project and the performance they had during the activity, obtaining two final averages for each member: relevance with a value of 55% and performance with a value of 30%; the remaining 15% is divided into 10% with the fact of having fulfilled the assigned activities and the last 5% to the attendance recorded in the team meetings.
+
+In the second table we counted all these factors in one, then made a cross multiplication to obtain values that added together equal 100%.
+
+It was expected that at the end of each increment each team member would contribute 20%, at the end of the third increment we made the individual contribution metrics with respect to the whole project progress. And the variation wasn´t that remarkable so we can assume that the workload was evenly distributed during the project.
+
+
+# SCRUM Tools.
 # Requirements
 
 The first step in the development process was to create a list of requirements to have a vision of what we want to accomplish with our product. But given that none of the team members had any concrete ideas we decided to make user stories using the comments of the failed skill first:
