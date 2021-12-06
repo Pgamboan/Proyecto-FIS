@@ -1,15 +1,10 @@
-* En la etapa de diseño usamos los diagramas, recomendados por el tutor,para nuestro producto, los cuales no habíamos visto en clase; así mismo nos enseñó que hay que 
-  seleccionar los artefactos que mejor se adaptan al proyecto que estamos desarrollando.
+* In the design phase we used diagrams, recomended by our tutor for our prodict, which we hadn't seen in class. This showed us that you don't have to use every artifact you study, it's better to select the specific artifacts that fit your proyect the most. 
 
-* En la fase de requerimientos nos dimos cuenta que es recomendable enfocarse en lo que es prioritario para el producto y si es posible agregar funciones extra. 
-  A la hora de desarrollar el producto creímos que lo habíamos hecho, pero teniendo una fecha de entrega nos dimos cuenta que el tiempo no era suficiente. 
+* We knew that in the requirement phase is recommended to focus on the product's priorities and if possible, add extra functionalities. In the first part of the proyect we thought that we had done this right, but in the latter stages we realized that the requirements and priorities we made were not realistic for the time we had available and what we could do.
 
-* Al inicio del proyecto teníamos la idea, que era posible completar la aplicación que queríamos diseñar, al seguir avanzando en las diferentes etapas del 
-  desarrollo, aprendimos que un proceso como el completar todo un proyecto de Software requiere más que simplemente querer, o saber programar, que había 
-  muchos conceptos y situaciones que se presentaban durante el desarrollo que no sabíamos y que ya casi al final del semestre sería muy complicado llegar a 
-  completar al 100% una idea como esa con nuestros conocimientos.
+* At the beginning of the proyect we had the idea that ir was possible to finish the app we wanted to make, but as we moved forward through the different stages we realized that the process of completing a software proyect requires much more than wanting or knowing how to code. There were a lot of concepts and situations that presented to ourselves during the development that we had no idea of and we realized almost at the end of the semester that is was going to be very complicated to achieve our goal with our current knowlegde and abilities. 
 
-* Una de las lecciones más importantes que aprendimos durante el proyecto fue la designación de roles que se adecuen a las fortalezas de cada integrante 
+* One of the most important lessons we learnt during the development que aprendimos durante el proyecto fue la designación de roles que se adecuen a las fortalezas de cada integrante 
   del equipo. Para así poder aprovechar al máximo nuestras habilidades. 
 
 * En cuanto a la adaptación a metodología de scrum, nos sirvió para tener en mente que los avances debían de ser constantes y el aprendizaje progresivo. 
