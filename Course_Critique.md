@@ -2,7 +2,7 @@
   * The dynamics with which the teams were formed was very good because we experienced for the first time what it is like to choose both teammates and leaders having only as information the resumes that each one had done.
   * Focus on the development process, our limited knowledge to program as such was not an impediment to organize ourselves and live what a development team is.
   * Scrum methodology.
-  * Final presentation in English.
+  * Encouraging students to use a foreign language (english).
 ### What to improve.
   * Talks with experts.
   * The dynamics in the theoretical classes.
