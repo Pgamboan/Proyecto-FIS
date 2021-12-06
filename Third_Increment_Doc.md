@@ -138,7 +138,7 @@ Mediante el uso de la interfaz de LwA (Login with Amazon with Javascript) se rea
 
 ## Prueba de módulo de conexión (Inicio de sesión):
 
-Para la realización de la prueba de módulo de conexión de cierre de sesión,implementado igualmente mediante la interfaz LwA (Login with Amazon), simplemente se ejecutó (dentro de la estructura de la web app) el código implementado, así pues su trabajo es eliminar el cache y retornar a la página principal (index) validada por Amazon. Así pues se implementó un botón el cual tenía de función todo el cierre y los procesos anteriormente mencionados, el cual fue probado con distintas cuentas de inicio de sesión para corroborar que su cierre no tenga problemas. Por lo que al no observar ningún fallo y acreditar su función, dimos la prueba terminada y el módulo correctamente evaluado.
+Para la realización de la prueba de módulo de conexión de cierre de sesión,implementado igualmente mediante la interfaz LwA (Login with Amazon), simplemente se ejecutó (dentro de la estructura de la web app) el código implementado, así pues su trabajo es eliminar el cache y retornar a la página principal (index) validada por Amazon. Igualmente se implementó un botón el cual tenía de función todo el cierre y los procesos anteriormente mencionados, el cual fue probado con distintas cuentas de inicio de sesión para corroborar que su cierre no tenga problemas. Por lo que al no observar ningún fallo y acreditar su función, dimos la prueba terminada y el módulo correctamente evaluado.
 
 
 # Subject Proficiencies
