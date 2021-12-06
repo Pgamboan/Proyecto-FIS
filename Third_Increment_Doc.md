@@ -1,3 +1,23 @@
+# Alexa Skill Wake on Lan.
+
+## 3nd Increment.
+
+![image](https://i.imgur.com/SqLLo7gl.png)
+
+
+### Software Engineering Fundamentals
+
+### Team Members: 
+
+* Pablo Gamboa Nieto
+* José de Jesús Chi Quintal
+* Diego Francisco Arreola Hernández
+* Diego Alberto Alamilla Osorio
+* Abraham Raymundo Cruz Colli
+
+
+*Mérida, Yucatán. December 6th, 2021.*
+
 # Introduction
 
 We are the Alexa Wake On LAN team. Currently technology has evolved at a very fast pace during the life of the human being, it is not to think that less than a century ago the internet was conceived and with it a new way of life and automation. Therefore, as a team we were looking for a way to contribute to automation and streamline everyday processes. We also considered the pandemic situation that governs us and the virtualization of many common processes within the social area (work, school, documentation, etc.). Thanks to this was born the idea of creating a "skill" that allows users to automate the on/off process of their devices that comply with the WoL (Wake on Lan) protocol compatibility, which would be implemented within a robust and accessible interface to Alexa users.
@@ -84,9 +104,14 @@ Although we now had a better idea of the product, the requirements still needed 
 
 The design stage we had two ways to see it throughout the development, through architectural design and data design, to reach a way to express the necessary of these two concepts, we chose to use diagrams to express the information we wanted. 
 A deployment diagram was made to show how the hardware and software interact with each other.
-(ingrese foto del diagrama)
+
+![image](https://i.imgur.com/IKyvIJ3.png)
+
 On the other hand, we use the sequence diagram focused on our website, showing the expected interaction (actions to be performed) between the user and the different areas that make up the entire product.
-(ingrese foto del diagrama)
+
+
+![image](https://i.imgur.com/fVA3fTc.png)
+
 These diagrams helped us to have an accurate design of what would be the final product, all with information previously collected in the previous phases of development.
 
 
