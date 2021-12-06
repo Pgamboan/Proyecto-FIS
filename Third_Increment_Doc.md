@@ -144,32 +144,32 @@ Para la realización de la prueba de módulo de conexión de cierre de sesión,i
 # Subject Proficiencies
 
 ## General Proficiencies
-### Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma.
 
-Durante el desarrollo de nuestro proyecto la comunicación fue un factor clave, esto fue puesto en marcha al momento de transmitir ideas mediante participaciones ordenadas, respetuosas y sencillas, facilitando la aportación de cada integrante así como hacer más eficiente el manejo de información dentro del equipo. Igualmente la redacción ordenada y clara fue vital para nosotros, pues las ideas aportadas, en la mayoría de los casos, se redactaban directamente en los documentos de las entregas correspondientes, así mismo mantuvieron revisiones gramaticales de manera constante.
+### Communicates in Spanish in oral and written form in their professional interventions and in their personal life, using the language correctly.
+During the development of our project, communication was a key factor, this was put into action at the moment of transmitting ideas through orderly, respectful and simple participations, facilitating the contribution of each member as well as making the management of information within the team more efficient. Likewise, the orderly and clear writing was vital for us, since the ideas contributed, in most cases, were written directly in the documents of the corresponding deliverables, as well as maintaining constant grammatical revisions.
 
-### Usa las TIC en sus intervenciones profesionales y en su vida personal de manera responsable.
-Gracias a las herramientas implementadas durante toda la vida del proyecto, se mejoró el flujo de trabajo y haciendo más eficaz el manejo de datos e información. Herramientas como Google meet, Visual Studio Code, Git, Github, paquete office, monday, lucid chart fueron consideradas vitales ya que nos brindaron ayuda necesaria en cada fase del proyecto.
+### Use of ICTs in their professional interventions and in their personal lives in a responsible manner.
+Thanks to the tools implemented throughout the life of the project, the workflow was improved and the management of data and information was made more efficient. Tools such as Google meet, Visual Studio Code, Git, Github, office package, monday, lucid chart were considered vital as they provided us with the necessary help in each phase of the project.
 
-### Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal de manera pertinente:
-Gracias al aprovechamiento de las habilidades de todos los integrantes, se ha dado trabajo cooperativo, enriquecido gracias al intercambio constante de conocimiento y creatividad al realizar las actividades asignadas a cada integrante.
+### Manage knowledge in their professional interventions and in their personal life in a relevant way:
+Thanks to the use of the skills of all members, there has been cooperative work, enriched thanks to the constant exchange of knowledge and creativity in carrying out the activities assigned to each member.
 
-### Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa:
-Durante el desarrollo de todo el proyecto hemos compartido experiencias con personas de distintos municipios/estados dando así que las actividades sean manera conjunta y que cada uno realice sus aportes explotando sus capacidades y conocimiento; el intercambio de ideas, conocimientos, experiencias y coordinación fue vital para funcionar como equipo.
+### Work with others in multi-, inter- and trans-disciplinary environments in a cooperative manner:
+During the development of the entire project we have shared experiences with people from different municipalities/states thus giving that the activities are a joint way and that each one makes their contributions exploiting their capabilities and knowledge; the exchange of ideas, knowledge, experiences and coordination was vital to function as a team.
 
-### Toma decisiones en su práctica profesional y personal, de manera responsable:
-La base del equipo durante todo el desarrollo fue la toma de decisiones ya que ayudó a la formación y distribución de información mediante la comunicación continua de cada integrante. Así mismo se dio prioridad a decisiones en base a fechas límite, dificultades en las etapas de desarrollo del proyecto y documentación general.
+### Make decisions in their professional and personal practice, in a responsible manner:
+The basis of the team throughout the development was decision making as it helped the formation and distribution of information through continuous communication of each member. Likewise, decisions were prioritized based on deadlines, difficulties in the development stages of the project and general documentation.
 
 ## Specific Proficiencies
 
-### Identifica los conceptos vinculados con las fases de requisitos, diseño, desarrollo, pruebas y mantenimiento, de acuerdo los organismos reconocidos en la disciplina:
-De manera general, cada uno de los integrantes se desempeñó de manera correcta durante todas las fases, conociendo cada uno de las fases y su implementación. Así también los conocimientos adquiridos en clase fueron complementados con el uso de fuentes de información como el SWEBOK o la IEEE, de esta manera se trazó la ruta que se siguió durante el desarrollo de esta etapa del proyecto.
+### Identifies the concepts related to the phases of requirements, design, development, testing and maintenance, according to the recognized organizations in the discipline:
+In general, each of the members performed correctly during all phases, knowing each of the phases and their implementation. Also the knowledge acquired in class was complemented with the use of information sources such as SWEBOK or IEEE, in this way the route that was followed during the development of this stage of the project was traced.
 
-### Identifica los conceptos vinculados con los procesos de estimación, planificación, seguimiento, control, calidad y configuración, de acuerdo con lo aceptable por organismos reconocidos en la disciplina:
-Se tuvo ayuda del mentor, recursos e investigaciones individuales para así aplicar conceptos, prácticas y criterios estándar en cada etapa del proyecto para así mejorar el control del desarrollo de cada fase, en consecuencia, poder comprender mejor las actividades que se realizaron.
+### Identifies the concepts related to the estimation, planning, monitoring, control, quality and configuration processes, according to what is acceptable by recognized organizations in the discipline:
+Mentor assistance, resources and individual research was taken to apply standard concepts, practices and criteria at each stage of the project to improve the control of the development of each phase, consequently, to better understand the activities that were performed.
 
-### Identifica los factores humanos inmersos en los procesos de desarrollo de software que inciden en el éxito de proyectos de software:
-En todo momento se tomó en cuenta las habilidades de cada integrante y por lo tanto focalizar sus fortalezas en las tareas asignadas. Se dio importancia a las aportaciones y la disponibilidad de cada uno y de igual manera, se retroalimentó cada actividad en conjunto para llegar al nivel de satisfacción deseado.
+### Identifies the human factors involved in software development processes that affect the success of software projects:
+At all times the skills of each member were taken into account and therefore focus their strengths in the assigned tasks. Importance was given to the contributions and availability of each one and in the same way, feedback was given to each activity as a whole in order to reach the desired level of satisfaction.
 
-### Utiliza adecuadamente la terminología propia de la Ingeniería de Software en sus intervenciones profesionales:
-Se estimuló constantemente a los integrantes a hacer uso de terminología adecuada en cada intervención oral y escrita; en caso de desconocer el término apropiado se instruyeron investigaciones, uso de herramientas como el glosario de la IEEE e igual se contó con la ayuda del mentor quién nos orientó durante toda esta etapa.
+### The terminology of Software Engineering was used appropriately in their professional interventions:
+The members were constantly encouraged to make use of appropriate terminology in each oral and written intervention; in case of not knowing the appropriate term, research was instructed, use of tools such as the IEEE glossary and likewise we had the help of the mentor who guided us throughout this stage.
