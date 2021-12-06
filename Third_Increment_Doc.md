@@ -129,16 +129,11 @@ Our web application was designed to be simple, therefore it has the minimum nece
 
 ![image](https://i.imgur.com/MvuSnHQ.png)
 
-# Test
+# Testing
 
-## Prueba de módulo de conexión (Inicio de sesión):
+## Connection module test (Login):
 
-Mediante el uso de la interfaz de LwA (Login with Amazon with Javascript) se realizó la prueba de módulo de conexión del botón de inicio de sesión, primeramente se realizó sin anexar algún código de prueba. Simplemente evaluando que se cumplan las condiciones para que mediante el SDK se ejecute el código y el botón con el id=” LoginWithamazon” tenga funcionalidad.Así pues,Mediante y el SDK  se arrojó a la página autorizada por Amazon “Index2” , indicando un inicio de sesión exitoso.No obstante también se implentó un código prueba , dada la interfaz de LwA, para corroborar que el inició haya sido exitoso; este arrojaba un mensaje de saludo,el correo electrónico de la cuenta y como adicional el Amazon ID (único por usuario), indicando también que el código implementado fue correcto. Dando la prueba como terminada, asegurando el funcionamiento y confiabilidad del módulo.
-
-
-## Prueba de módulo de conexión (Inicio de sesión):
-
-Para la realización de la prueba de módulo de conexión de cierre de sesión,implementado igualmente mediante la interfaz LwA (Login with Amazon), simplemente se ejecutó (dentro de la estructura de la web app) el código implementado, así pues su trabajo es eliminar el cache y retornar a la página principal (index) validada por Amazon. Igualmente se implementó un botón el cual tenía de función todo el cierre y los procesos anteriormente mencionados, el cual fue probado con distintas cuentas de inicio de sesión para corroborar que su cierre no tenga problemas. Por lo que al no observar ningún fallo y acreditar su función, dimos la prueba terminada y el módulo correctamente evaluado.
+By using the LwA (Login with Amazon with Javascript) interface, the login button connection module test was performed without attaching any test code. Simply evaluating that the conditions are met so that through the SDK the code is executed and the button with the id=" LoginWithamazon" has functionality. So, through and the SDK was thrown to the Amazon authorized page "Index2" indicating a successful login. However, a test code was also implemented, given the LwA interface, to corroborate that the login had been successful; this threw a greeting message, the account email and additionally the Amazon ID (unique per user), also indicating that the implemented code was correct. Giving the test as finished, ensuring the operation and reliability of the module.
 
 
 # Subject Proficiencies
